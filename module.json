@@ -6,8 +6,10 @@
   "shortDescr" : "System Reference Document (SRD) for Daggerheart",
   "descr" : "The System Reference Document (SRD) contains Daggerheart rules content you can use and reference to publish content under Creative Commons.",
   "slug" : "srd-2-0",
+  "package" : "https://github.com/encounterplus/daggerheart-srd/releases/latest/download/manifest.json",
+  "repository" : "https://github.com/encounterplus/daggerheart-srd",
   "system" : "daggerheart",
   "category": "compendium",
   "systemVersion": "0.9.0",
-  "version" : "1.0.0"
+  "version" : "1.0.1"
 }
