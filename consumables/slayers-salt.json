@@ -1,0 +1,10 @@
+{
+  "id": "1245bc73-2b58-546b-a9a7-b2b5def0fa94",
+  "name": "Slayer’s Salt",
+  "descr": "You can spread this salt in a line along windowsills or thresholds to create a magical barrier that undead creatures can't cross until the line is broken.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

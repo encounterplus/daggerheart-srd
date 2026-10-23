@@ -1,0 +1,57 @@
+{
+  "id": "d81c094b-ba73-55ae-8081-f949e43d1442",
+  "name": "Sprite",
+  "descr": "A tiny winged warrior that attacks trespassers with poison-tipped arrows.",
+  "data": {
+    "tier": 2,
+    "type": "minion",
+    "motivesAndTactics": "Avoid detection, let the poison do its work, protect the wilderness",
+    "difficulty": 13,
+    "thresholds": {
+      "major": null,
+      "severe": null
+    },
+    "hp": 1,
+    "stress": 1,
+    "attackModifier": 0,
+    "attack": {
+      "name": "Needle-Sharp Arrows",
+      "range": "close",
+      "damage": "5",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Stealth",
+        "modifier": 2
+      },
+      {
+        "name": "Vengeance",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Minion",
+        "nameDetail": "5",
+        "type": "passive",
+        "text": "The Sprite is defeated when they take any damage. For every 5 damage a PC deals to the Sprite, the PC defeats an additional Minion within range the attack would succeed against."
+      },
+      {
+        "name": "Art of Invisibility",
+        "type": "action",
+        "text": "**Spend a Fear** to make the Sprite _Hidden_ until they attack."
+      },
+      {
+        "name": "Dream Petal Poison",
+        "type": "action",
+        "text": "When the Sprite succeeds on a standard attack, you can **spend a Fear** to make the target _Sleepy_ until the target takes damage. While _Sleepy_, the target must make a Presence Reaction Roll before they make an action roll. On a failure, they must mark 2 Stress or fall asleep until they take damage."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

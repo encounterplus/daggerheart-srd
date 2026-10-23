@@ -1,0 +1,10 @@
+{
+  "id": "d32f8f6c-a31b-5f0d-a5c9-482d51a12b62",
+  "name": "Gravewarden’s Bell",
+  "descr": "This bell rings when a ghost or undead creature moves within Far range of it.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

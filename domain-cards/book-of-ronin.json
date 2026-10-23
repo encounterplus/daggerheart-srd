@@ -1,0 +1,16 @@
+{
+  "id": "a16d0639-c3bf-5a91-8790-f46ac0a3fe02",
+  "name": "Book of Ronin",
+  "descr": "_Transform:_ Make a **Spellcast Roll (15)**. On a success, transform into an inanimate object no larger than twice your normal size. You can remain in this shape until you take damage.\n\n_Eternal Enervation:_ Once per long rest, make a **Spellcast Roll** against a target within Close range. On a success, they become permanently _Vulnerable_. They can't clear this condition by any means.",
+  "data": {
+    "level": 9,
+    "recall": 4,
+    "type": "grimoire",
+    "domain": "codex"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

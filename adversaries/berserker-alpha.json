@@ -1,0 +1,56 @@
+{
+  "id": "f411ff93-3c9b-5488-84f0-9f0dab231d8c",
+  "name": "Berserker Alpha",
+  "descr": "A veteran commander who quaffs magic elixirs to change into a beast and lead their packmates on a hunt.",
+  "data": {
+    "tier": 2,
+    "type": "leader",
+    "motivesAndTactics": "Embrace the change, howl at the moon, lead the pack, run down enemies",
+    "difficulty": 14,
+    "thresholds": {
+      "major": 13,
+      "severe": 26
+    },
+    "hp": 6,
+    "stress": 4,
+    "attackModifier": 3,
+    "attack": {
+      "name": "Tooth & Claw",
+      "range": "melee",
+      "damage": "2d10+2",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Hunt",
+        "modifier": 3
+      },
+      {
+        "name": "Keen Senses",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Pack Fury",
+        "type": "passive",
+        "text": "The Alpha gains a +1 bonus to their attack rolls for each ally within Very Close range of their attack's target."
+      },
+      {
+        "name": "Bark at the Moon",
+        "type": "action",
+        "text": "Once per scene, **spend a Fear** to have each ally within Close range of the Alpha clear a HP and a Stress."
+      },
+      {
+        "name": "Berserker Rage",
+        "type": "reaction",
+        "text": "The first time in a scene the Alpha marks their last Stress, they gain a +6 bonus to damage rolls."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

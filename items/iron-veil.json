@@ -1,0 +1,10 @@
+{
+  "id": "b525d3b8-5118-5259-9bcc-ea1978675953",
+  "name": "Iron Veil",
+  "descr": "This chain-link head covering renders the wearer invisible to fey creatures.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "b75c15cd-859c-5551-a408-7bb4b9cbfb51",
+  "name": "Minor Demon",
+  "descr": "A crimson-hued creature from the Circles Below, consumed by rage against all mortals.",
+  "data": {
+    "tier": 1,
+    "type": "solo",
+    "motivesAndTactics": "Act erratically, corral targets, relish pain, torment",
+    "difficulty": 14,
+    "thresholds": {
+      "major": 8,
+      "severe": 15
+    },
+    "hp": 8,
+    "stress": 4,
+    "attackModifier": 3,
+    "attack": {
+      "name": "Claws",
+      "range": "melee",
+      "damage": "1d8+6",
+      "damageType": "phy"
+    },
+    "experience": [],
+    "features": [
+      {
+        "name": "Relentless",
+        "nameDetail": "2",
+        "type": "passive",
+        "text": "The Demon can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them."
+      },
+      {
+        "name": "All Must Fall",
+        "type": "passive",
+        "text": "When a PC rolls a failure with Fear while within Close range of the Demon, they lose a Hope."
+      },
+      {
+        "name": "Hellfire",
+        "type": "action",
+        "text": "**Spend a Fear** to rain down hellfire within Far range. All targets within the area must make an Agility Reaction Roll. Targets who fail take **1d20+3** magic damage. Targets who succeed take half damage."
+      },
+      {
+        "name": "Reaper",
+        "type": "reaction",
+        "text": "Before rolling damage for the Demon's attack, you can **mark a Stress** to gain a bonus to the damage roll equal to the Demon's current number of marked HP."
+      },
+      {
+        "name": "Momentum",
+        "type": "reaction",
+        "text": "When the Demon makes a successful attack against a PC, you gain a Fear."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

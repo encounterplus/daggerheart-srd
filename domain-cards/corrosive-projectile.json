@@ -1,0 +1,16 @@
+{
+  "id": "35beba52-2821-55ca-93a9-435d8f6ff974",
+  "name": "Corrosive Projectile",
+  "descr": "Make a **Spellcast Roll** against a target within Far range. On a success, deal **d6+4** magic damage using your Proficiency. Additionally, **mark 2 or more Stress** to make them permanently _Corroded_. While a target is _Corroded_, they gain a -1 penalty to their Difficulty for every 2 Stress you spent. This condition can stack.",
+  "data": {
+    "level": 3,
+    "recall": 1,
+    "type": "spell",
+    "domain": "sage"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "af1b86c2-b5ab-5588-86ad-e1fb04ceb3df",
+  "name": "Phoenix",
+  "descr": "A huge eagle that's made of magical flame, impossible to kill, and hunted for its healing plumage.",
+  "data": {
+    "tier": 3,
+    "type": "ranged",
+    "motivesAndTactics": "Flee pursuers, live brilliantly, soar through the heavens, wield light and flame",
+    "difficulty": 18,
+    "thresholds": {
+      "major": 19,
+      "severe": 30
+    },
+    "hp": 6,
+    "stress": 6,
+    "attackModifier": 4,
+    "attack": {
+      "name": "Fire Bolt",
+      "range": "veryFar",
+      "damage": "3d10+3",
+      "damageType": "mag"
+    },
+    "experience": [
+      {
+        "name": "Bright",
+        "modifier": 4
+      },
+      {
+        "name": "Legendary",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Purifying Aura",
+        "type": "passive",
+        "text": "Any PC who takes an action within the Phoenix's Melee range can spend a Hope to purify themself in its healing warmth, clearing a HP or a Stress and all conditions."
+      },
+      {
+        "name": "Fireseed",
+        "type": "reaction",
+        "text": "The Phoenix bleeds magic fire. When the Phoenix marks a HP, summon one Minor Fire Elemental within Very Close range."
+      },
+      {
+        "name": "Resurrection",
+        "type": "evolution",
+        "text": "When the Phoenix is defeated, it becomes a cloud of ash that blows away to reveal a Smoldering Egg. The Egg is immune to all damage and has a heat aura that deals **3d4** direct magic damage to anyone who touches it. The Egg hatches into a new Phoenix, with all HP and Stress cleared, in 7 days."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

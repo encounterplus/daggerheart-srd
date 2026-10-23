@@ -1,0 +1,10 @@
+{
+  "id": "db6bfcb0-7416-5dc4-b891-c2cdc50e560e",
+  "name": "Eclipse Coin",
+  "descr": "Once per rest, flip a coin. On heads, you gain a +1 bonus to attack rolls until your next successful attack. On tails, you gain +1 to your Evasion until an attack fails against you.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

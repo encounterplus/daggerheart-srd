@@ -1,0 +1,10 @@
+{
+  "id": "1a43f2b6-05e1-510a-ba11-dbe9ae8b4704",
+  "name": "Gravity Bomb",
+  "descr": "You can throw this peach-sized mechanical orb at a point within Far range. It implodes and pulls all creatures and objects within Close range of that point into Melee range with it.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

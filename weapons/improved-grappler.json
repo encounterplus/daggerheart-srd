@@ -1,0 +1,19 @@
+{
+  "id": "b5b553b2-b88e-5823-a080-3bc190b50ce5",
+  "name": "Improved Grappler",
+  "data": {
+    "tier": 2,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "close",
+    "damage": "d6+2",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

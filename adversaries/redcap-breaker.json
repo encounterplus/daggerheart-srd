@@ -1,0 +1,47 @@
+{
+  "id": "563bb1aa-d40a-5633-98f6-87f61b772d5f",
+  "name": "Redcap Breaker",
+  "descr": "A large, brutish fey creature who has a conical red cap sealed on their head with candle wax.",
+  "data": {
+    "tier": 1,
+    "type": "bruiser",
+    "motivesAndTactics": "Beat chest and bellow, ragdoll puny enemies, rush forward recklessly",
+    "difficulty": 13,
+    "thresholds": {
+      "major": 8,
+      "severe": 15
+    },
+    "hp": 6,
+    "stress": 3,
+    "attackModifier": 1,
+    "attack": {
+      "name": "Wooden Mallet",
+      "range": "melee",
+      "damage": "1d12+2",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Bones",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Backbreaker",
+        "type": "action",
+        "text": "**Mark a Stress** to make an attack against a target within Melee range. On a success, deal **3d4+10** physical damage. A target who marks HP from this attack is _Restrained_ until they clear a HP."
+      },
+      {
+        "name": "Kneecapper",
+        "type": "reaction",
+        "text": "When the Breaker makes a successful standard attack, you can **spend a Fear** to make the target temporarily _Vulnerable._"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

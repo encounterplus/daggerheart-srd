@@ -1,0 +1,10 @@
+{
+  "id": "3b014c06-bd97-5ef8-ad1a-55df1a28d817",
+  "name": "Collapsible Pole",
+  "descr": "You can break down this 18-foot pole into six interlinked 3-foot segments.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

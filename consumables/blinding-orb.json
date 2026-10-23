@@ -1,0 +1,10 @@
+{
+  "id": "3f092e8e-fac5-5f0a-abc2-6e5c4e062f97",
+  "name": "Blinding Orb",
+  "descr": "You can activate this orb to create a flash of bright light. All targets within Close range become _Vulnerable_ until they mark HP.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

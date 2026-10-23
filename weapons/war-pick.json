@@ -1,0 +1,19 @@
+{
+  "id": "355734e8-870a-5510-a9af-d9235cf73d8c",
+  "name": "War Pick",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d8+3",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "4a2f8720-9cbe-598e-9e23-ac4529c4ec91",
+  "name": "Shadowbind",
+  "descr": "Make a **Spellcast Roll** against all adversaries within Very Close range. Targets you succeed against are temporarily _Restrained_ as their shadow binds them in place.",
+  "data": {
+    "level": 2,
+    "recall": 0,
+    "type": "spell",
+    "domain": "midnight"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

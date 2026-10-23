@@ -1,0 +1,19 @@
+{
+  "id": "6a3bed8e-9b64-5d5a-8e5c-cc651d728a24",
+  "name": "Advanced Fighting Cloak",
+  "data": {
+    "tier": 3,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "presence",
+    "range": "melee",
+    "damage": "d4+4",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

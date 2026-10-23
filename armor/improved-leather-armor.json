@@ -1,0 +1,17 @@
+{
+  "id": "4aa05779-1bd2-5349-8689-a8d4b579c1f7",
+  "name": "Improved Leather Armor",
+  "data": {
+    "tier": 2,
+    "thresholds": {
+      "major": 9,
+      "severe": 20
+    },
+    "score": 4
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

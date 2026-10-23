@@ -1,0 +1,19 @@
+{
+  "id": "7f59e548-4734-57f1-bfcb-304ffadb43f7",
+  "name": "Advanced Longsword",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "melee",
+    "damage": "d10+9",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

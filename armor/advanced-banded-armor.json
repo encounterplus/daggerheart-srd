@@ -1,0 +1,17 @@
+{
+  "id": "05b67d71-c67a-5c98-919b-a47151f6c28e",
+  "name": "Advanced Banded Armor",
+  "data": {
+    "tier": 3,
+    "thresholds": {
+      "major": 15,
+      "severe": 34
+    },
+    "score": 6
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

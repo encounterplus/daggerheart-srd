@@ -1,0 +1,16 @@
+{
+  "id": "834b25f8-d661-5a15-a43a-ef6fa228bd73",
+  "name": "Rejuvenation Barrier",
+  "descr": "Make a **Spellcast Roll (15)**. Once per rest on a success, create a temporary barrier of protective energy around you at Very Close range. You and all allies within the barrier when this spell is cast clear **1d4** Hit Points. While the barrier is up, you and all allies within have resistance to physical damage from outside the barrier.\n\nWhen you move, the barrier follows you.",
+  "data": {
+    "level": 8,
+    "recall": 1,
+    "type": "spell",
+    "domain": "sage"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

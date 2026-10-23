@@ -1,0 +1,10 @@
+{
+  "id": "c89860e4-0691-5f57-8305-eeb8af5aaceb",
+  "name": "Lyrebird Lozenge",
+  "descr": "You can dissolve this lozenge in your mouth to perfectly mimic any voice you've heard until the end of the scene.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

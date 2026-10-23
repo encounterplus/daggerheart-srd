@@ -1,0 +1,47 @@
+{
+  "id": "2c60c292-241d-5488-9ddd-1d8e5cc475f2",
+  "name": "Greater Water Elemental",
+  "descr": "A huge living wave that crashes down upon enemies.",
+  "data": {
+    "tier": 3,
+    "type": "support",
+    "motivesAndTactics": "Deluge, disperse, drown",
+    "difficulty": 17,
+    "thresholds": {
+      "major": 17,
+      "severe": 34
+    },
+    "hp": 5,
+    "stress": 5,
+    "attackModifier": 3,
+    "attack": {
+      "name": "Crashing Wave",
+      "range": "veryClose",
+      "damage": "3d4+1",
+      "damageType": "mag"
+    },
+    "experience": [],
+    "features": [
+      {
+        "name": "Water Jet",
+        "type": "action",
+        "text": "**Mark a Stress** to attack a target within Very Close range. On a success, deal **2d4+7** physical damage and the target's next action has disadvantage. On a failure, the target must mark a Stress."
+      },
+      {
+        "name": "Drowning Embrace",
+        "type": "action",
+        "text": "**Spend a Fear** to make an attack against all targets within Very Close range. Targets the Elemental succeeds against become _Restrained_ and _Vulnerable_ as they begin drowning. A target can break free, ending both conditions, with a successful Strength or Instinct Roll."
+      },
+      {
+        "name": "High Tide",
+        "type": "reaction",
+        "text": "When the Elemental makes a successful standard attack, you can **mark a Stress** to knock the target back to Close range."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

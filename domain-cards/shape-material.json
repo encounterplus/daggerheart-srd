@@ -1,0 +1,16 @@
+{
+  "id": "58a74a58-d117-52a5-9040-eda4d400b9bc",
+  "name": "Shape Material",
+  "descr": "**Spend a Hope** to shape a section of natural material you're touching (such as stone, ice, or wood) to suit your purpose. The area of the material can be no larger than you. For example, you can form a rudimentary tool or create a door.\n\nYou can only affect the material within Close range of where you're touching it.",
+  "data": {
+    "level": 5,
+    "recall": 1,
+    "type": "spell",
+    "domain": "splendor"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

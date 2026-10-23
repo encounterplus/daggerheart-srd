@@ -1,0 +1,10 @@
+{
+  "id": "826a0567-e4f6-5187-b4ad-9153d32dd99c",
+  "name": "Speaking Orbs",
+  "descr": "This pair of orbs allows any creatures holding them to communicate with each other across any distance.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

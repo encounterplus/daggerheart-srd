@@ -1,0 +1,19 @@
+{
+  "id": "4755068b-df34-5c90-a838-55402fbf849a",
+  "name": "Shadowblade",
+  "data": {
+    "tier": 1,
+    "category": "primary",
+    "type": "magic",
+    "trait": "presence",
+    "range": "melee",
+    "damage": "d8 phy/",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "9a3c489c-30ff-50b7-bc2d-1d40374553dd",
+  "name": "Advanced Rune Shield",
+  "data": {
+    "tier": 3,
+    "category": "secondary",
+    "type": "magic",
+    "trait": "knowledge",
+    "range": "melee",
+    "damage": "d4+4",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

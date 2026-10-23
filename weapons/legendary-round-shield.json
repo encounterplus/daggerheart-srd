@@ -1,0 +1,19 @@
+{
+  "id": "2b5e9f7e-b3e0-5241-b820-2dd139a6dd23",
+  "name": "Legendary Round Shield",
+  "data": {
+    "tier": 4,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d4+6",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "7f03da81-e07a-5d8c-a955-639836c005a3",
+  "name": "School of Knowledge",
+  "descr": "Play the School of Knowledge if you want a keen understanding of the world around you.",
+  "data": {
+    "class": "Wizard",
+    "spellcastTrait": "knowledge",
+    "foundations": [
+      {
+        "name": "Prepared",
+        "text": "Take an additional domain card of your level or lower from a domain you have access to."
+      },
+      {
+        "name": "Adept",
+        "text": "When you Utilize an Experience, you can **mark a Stress** instead of spending a Hope. If you do, double your Experience modifier for that roll."
+      }
+    ],
+    "specializations": [
+      {
+        "name": "Accomplished",
+        "text": "Take an additional domain card of your level or lower from a domain you have access to."
+      },
+      {
+        "name": "Perfect Recall",
+        "text": "Once per rest, when you recall a domain card in your vault, you can reduce its Recall Cost by 1."
+      }
+    ],
+    "masteries": [
+      {
+        "name": "Brilliant",
+        "text": "Take an additional domain card of your level or lower from a domain you have access to."
+      },
+      {
+        "name": "Honed Expertise",
+        "text": "When you use an Experience, roll a **d6.** On a result of 5 or higher, you can use it without spending Hope."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

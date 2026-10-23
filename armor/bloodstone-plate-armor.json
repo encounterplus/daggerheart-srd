@@ -1,0 +1,17 @@
+{
+  "id": "7f72a90f-1795-52c9-aacc-bea7fdfd0574",
+  "name": "Bloodstone Plate Armor",
+  "data": {
+    "tier": 3,
+    "thresholds": {
+      "major": 13,
+      "severe": 35
+    },
+    "score": 6
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

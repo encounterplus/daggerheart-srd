@@ -1,0 +1,10 @@
+{
+  "id": "b76b18ac-fd2d-54ab-a30c-a9f425391484",
+  "name": "Major Control Potion",
+  "descr": "You gain a +1 bonus to your Finesse until your next rest.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "a95796dc-fbc8-5b45-91a7-7febdb7c2115",
+  "name": "Gossip Flower",
+  "descr": "You can plant this seed in soil. It instantly grows into a small flower that records everything it hears for up to one week. When plucked, the flower recites what it recorded in real time, then withers.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "b2c4b8c7-b02d-50fb-9ff7-62806c5ad5e7",
+  "name": "Deathseer’s Powder",
+  "descr": "You can sprinkle this powder over a recently deceased corpse to conjure a spectral reprise of their final minute of life.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

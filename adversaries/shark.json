@@ -1,0 +1,52 @@
+{
+  "id": "ca0a863b-eb88-5836-af2f-ca0cfb328bdf",
+  "name": "Shark",
+  "descr": "A large aquatic predator, always on the move.",
+  "data": {
+    "tier": 2,
+    "type": "bruiser",
+    "motivesAndTactics": "Find the blood, isolate prey, target the weak",
+    "difficulty": 14,
+    "thresholds": {
+      "major": 14,
+      "severe": 28
+    },
+    "hp": 7,
+    "stress": 3,
+    "attackModifier": 2,
+    "attack": {
+      "name": "Toothy Maw",
+      "range": "veryClose",
+      "damage": "2d12+1",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Sense of Smell",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Terrifying",
+        "type": "passive",
+        "text": "When the Shark makes a successful attack, all PCs within Far range lose a Hope and you gain a Fear."
+      },
+      {
+        "name": "Rending Bite",
+        "type": "passive",
+        "text": "When the Shark makes a successful attack, the target must mark an Armor Slot without receiving its benefits (they can still use armor to reduce the damage). If they can't mark an Armor Slot, they must mark an additional HP."
+      },
+      {
+        "name": "Blood in the Water",
+        "type": "reaction",
+        "text": "When a creature within Close range of the Shark marks HP from another creature's attack, you can **mark a Stress** to immediately spotlight the Shark, moving them into Melee range of the target and making a standard attack."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

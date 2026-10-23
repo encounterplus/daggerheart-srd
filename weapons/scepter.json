@@ -1,0 +1,19 @@
+{
+  "id": "babb8aa9-d8c8-517b-9e2a-b51adee401fc",
+  "name": "Scepter",
+  "data": {
+    "tier": 1,
+    "category": "primary",
+    "type": "magic",
+    "trait": "presence",
+    "range": "far",
+    "damage": "d6",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

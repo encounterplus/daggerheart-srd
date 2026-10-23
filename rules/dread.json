@@ -1,0 +1,11 @@
+{
+  "id": "ad742747-8674-5138-86e7-77c9cccee8dc",
+  "name": "Dread",
+  "type": "domain",
+  "descr": "Dread is the domain of **nightmares and fear.** Those who choose this path can call forth monstrosities, enfeeble their foes, and channel terrifying magic to destroy their enemies. Dread grants its adherents power over forces most are too afraid to employ. The Dread domain can be accessed by the **Warlock** and **Witch** classes.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

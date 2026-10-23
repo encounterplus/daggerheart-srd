@@ -1,0 +1,10 @@
+{
+  "id": "522d54b8-cc5b-59d2-9006-26d5f1c8e9aa",
+  "name": "Iron Dagger Pendant",
+  "descr": "Once per long rest, you can spend a Hope to tell the pendant a creature's name. The pendant gently pulls you toward that creature's current location until your next long rest.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "3915871a-6deb-5328-9d7d-48caaff16f6f",
+  "name": "Storm God’s Greataxe",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "magic",
+    "trait": "strength",
+    "range": "veryClose",
+    "damage": "d10+9",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

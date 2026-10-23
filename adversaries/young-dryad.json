@@ -1,0 +1,52 @@
+{
+  "id": "9981ce4f-94e5-5774-917f-1b02da7f16aa",
+  "name": "Young Dryad",
+  "descr": "An imperious tree-person leading their forest's defenses.",
+  "data": {
+    "tier": 1,
+    "type": "leader",
+    "motivesAndTactics": "Command, nurture, prune the unwelcome",
+    "difficulty": 11,
+    "thresholds": {
+      "major": 6,
+      "severe": 11
+    },
+    "hp": 6,
+    "stress": 2,
+    "attackModifier": 0,
+    "attack": {
+      "name": "Scythe",
+      "range": "melee",
+      "damage": "1d8+5",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Leadership",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Voice of the Forest",
+        "type": "action",
+        "text": "**Mark a Stress** to spotlight **1d4** allies within range of a target they can attack without moving. On a success, their attacks deal half damage."
+      },
+      {
+        "name": "Thorny Cage",
+        "type": "action",
+        "text": "**Spend a Fear** to form a cage around a target within Very Close range and _Restrain_ them until they're freed with a successful Strength Roll. When a creature makes an action roll against the cage, they must mark a Stress."
+      },
+      {
+        "name": "Momentum",
+        "type": "reaction",
+        "text": "When the Dryad makes a successful attack against a PC, you gain a Fear."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

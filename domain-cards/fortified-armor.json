@@ -1,0 +1,16 @@
+{
+  "id": "5d08209b-864f-599d-8030-6f8ea98612cc",
+  "name": "Fortified Armor",
+  "descr": "While you are wearing armor, gain a +2 bonus to your damage thresholds.",
+  "data": {
+    "level": 4,
+    "recall": 0,
+    "type": "ability",
+    "domain": "blade"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

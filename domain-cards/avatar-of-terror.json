@@ -1,0 +1,16 @@
+{
+  "id": "01f2d149-4793-5f68-91e6-a70b759cfb48",
+  "name": "Avatar of Terror",
+  "descr": "**Mark a Stress** to transform into a creature fueled by fear. While in this form, you gain a **1d6** bonus to your damage rolls for each Fear in the GM's pool. Additionally, you gain a Hope when the GM spends a Fear to spotlight an adversary within Very Close range.\n\nBefore you make an action roll, you must spend a Hope. If you can't, you revert to your normal form.",
+  "data": {
+    "level": 10,
+    "recall": 2,
+    "type": "spell",
+    "domain": "dread"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

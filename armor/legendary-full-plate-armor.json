@@ -1,0 +1,17 @@
+{
+  "id": "f1a4ccae-c369-525c-94ef-404b85471913",
+  "name": "Legendary Full Plate Armor",
+  "data": {
+    "tier": 4,
+    "thresholds": {
+      "major": 17,
+      "severe": 44
+    },
+    "score": 7
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

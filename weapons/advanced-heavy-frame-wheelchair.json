@@ -1,0 +1,19 @@
+{
+  "id": "7821afab-65e6-5611-865a-de2709dae657",
+  "name": "Advanced Heavy-frame Wheelchair",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d12+9",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

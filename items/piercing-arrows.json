@@ -1,0 +1,10 @@
+{
+  "id": "0d2898c3-eaff-540c-b516-9e8c972a8bcb",
+  "name": "Piercing Arrows",
+  "descr": "Three times per rest when you succeed on an attack with one of these arrows, you can add your Proficiency to the damage roll.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

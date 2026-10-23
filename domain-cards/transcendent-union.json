@@ -1,0 +1,16 @@
+{
+  "id": "80e625e9-8caf-5392-869e-da0ff202ac95",
+  "name": "Transcendent Union",
+  "descr": "Once per long rest, **spend 5 Hope** to cast this spell on two or more willing creatures. Until your next rest, when a creature connected by this union would mark Stress or Hit Points, the connected creatures can choose who marks it.",
+  "data": {
+    "level": 10,
+    "recall": 1,
+    "type": "spell",
+    "domain": "codex"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

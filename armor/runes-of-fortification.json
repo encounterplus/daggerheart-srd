@@ -1,0 +1,17 @@
+{
+  "id": "56e21689-c53d-511e-8d8c-b9f2255be56f",
+  "name": "Runes Of Fortification",
+  "data": {
+    "tier": 3,
+    "thresholds": {
+      "major": 17,
+      "severe": 43
+    },
+    "score": 6
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

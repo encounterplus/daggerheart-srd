@@ -1,0 +1,19 @@
+{
+  "id": "abe7c187-a10a-5bca-b258-e655c1ddf7cb",
+  "name": "Improved Katana",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "melee",
+    "damage": "d10+6",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

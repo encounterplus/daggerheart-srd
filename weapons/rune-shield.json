@@ -1,0 +1,19 @@
+{
+  "id": "89af1ab4-6391-5402-b212-7b01f640aaf0",
+  "name": "Rune Shield",
+  "data": {
+    "tier": 1,
+    "category": "secondary",
+    "type": "magic",
+    "trait": "knowledge",
+    "range": "melee",
+    "damage": "d4",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

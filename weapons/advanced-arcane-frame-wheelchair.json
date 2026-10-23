@@ -1,0 +1,19 @@
+{
+  "id": "5542905a-ba7b-5f65-ace5-a0b2bc9e3134",
+  "name": "Advanced Arcane-frame Wheelchair",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "magic",
+    "trait": "spellcast",
+    "range": "far",
+    "damage": "d6+6",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

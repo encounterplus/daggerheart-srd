@@ -1,0 +1,16 @@
+{
+  "id": "a4b12905-5afc-59b1-aa46-2a729cf9181c",
+  "name": "Deadly Focus",
+  "descr": "Once per rest, you can apply all your focus toward a target of your choice. Until you attack another creature, you defeat the target, or the battle ends, gain a +1 bonus to your Proficiency.",
+  "data": {
+    "level": 4,
+    "recall": 2,
+    "type": "ability",
+    "domain": "blade"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "6856f90d-5309-5a75-9c4f-08eef780c0a5",
+  "name": "Phantom Retreat",
+  "descr": "**Spend a Hope** to activate Phantom Retreat where you're currently standing. **Spend another Hope** at any time before your next rest to disappear from where you are and reappear where you were standing when you activated Phantom Retreat. This spell ends after you reappear.",
+  "data": {
+    "level": 5,
+    "recall": 2,
+    "type": "spell",
+    "domain": "midnight"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

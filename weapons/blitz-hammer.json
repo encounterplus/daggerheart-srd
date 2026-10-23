@@ -1,0 +1,19 @@
+{
+  "id": "e64cbb5a-21db-5c0a-9e8d-47327ab1e766",
+  "name": "Blitz Hammer",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d10+7",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

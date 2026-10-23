@@ -1,0 +1,49 @@
+{
+  "id": "636cf22b-c0ac-58c1-9013-2ea5c0b965d5",
+  "name": "Darkweave Swarmlings",
+  "descr": "A teeming swarm of tiny spiders woven out of shadow-silk.",
+  "data": {
+    "tier": 1,
+    "type": "horde",
+    "typeDetail": "8/HP",
+    "motivesAndTactics": "Burst out of holes, climb up legs, crawl into ears, scuttle under clothes",
+    "difficulty": 9,
+    "thresholds": {
+      "major": 4,
+      "severe": 8
+    },
+    "hp": 8,
+    "stress": 4,
+    "attackModifier": 0,
+    "attack": {
+      "name": "Nibble",
+      "range": "melee",
+      "damage": "1d8",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Climb",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Horde",
+        "nameDetail": "1d4",
+        "type": "passive",
+        "text": "When the Swarmlings have marked half or more of their HP, their standard attack deals **1d4** physical damage instead."
+      },
+      {
+        "name": "\"Get 'em Off, Get 'em Off!\"",
+        "type": "reaction",
+        "text": "When an attack from the Swarmlings causes a target to mark HP, you can **mark a Stress** to make the target temporarily _Covered in Spiders._ While _Covered_ _in Spiders,_ the target must roll a **d6** when they make an action roll. On a result of 4 or higher, they must mark a Stress or you gain a Fear."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

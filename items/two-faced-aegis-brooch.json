@@ -1,0 +1,10 @@
+{
+  "id": "948e9b7a-8d15-57e6-9cd6-f974db5f257d",
+  "name": "Two-faced Aegis Brooch",
+  "descr": "Once per rest, flip a coin. On heads, you become immune to the next physical damage you take. On tails, you become immune to the next magic damage you take.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

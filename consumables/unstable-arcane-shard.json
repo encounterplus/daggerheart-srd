@@ -1,0 +1,10 @@
+{
+  "id": "c19d3b8c-baa5-58ef-9a4a-a4ca786e4b59",
+  "name": "Unstable Arcane Shard",
+  "descr": "You can make a Finesse Roll to throw this shard at a group of adversaries within Far range. Targets you succeed against take 1d20 magic damage.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

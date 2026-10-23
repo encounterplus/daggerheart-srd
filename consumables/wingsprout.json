@@ -1,0 +1,10 @@
+{
+  "id": "5bf76ec3-6e20-59d8-92f2-47ce647b29c8",
+  "name": "Wingsprout",
+  "descr": "You gain magic wings that allow you to fly for a number of minutes equal to your level.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

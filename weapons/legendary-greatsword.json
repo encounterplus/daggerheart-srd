@@ -1,0 +1,19 @@
+{
+  "id": "4e56901b-3f4f-53ea-b2f0-0a4b623f57c4",
+  "name": "Legendary Greatsword",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d10+12",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

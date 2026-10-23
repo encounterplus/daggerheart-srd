@@ -1,0 +1,16 @@
+{
+  "id": "f8a5a3bd-3646-5d1d-8c92-dba9985b3feb",
+  "name": "Manifest Wall",
+  "descr": "Make a **Spellcast Roll (15)**. Once per rest on a success, **spend a Hope** to create a temporary magical wall between two points within Far range. It can be up to 50 feet high and form at any angle. Creatures or objects in its path are shunted to a side of your choice. The wall stays up until your next rest or you cast Manifest Wall again.",
+  "data": {
+    "level": 5,
+    "recall": 2,
+    "type": "spell",
+    "domain": "codex"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

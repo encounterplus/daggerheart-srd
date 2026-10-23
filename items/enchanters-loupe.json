@@ -1,0 +1,10 @@
+{
+  "id": "6c495b2f-130d-59c1-b1b5-99d34f62de08",
+  "name": "Enchanter’s Loupe",
+  "descr": "You can use this loupe to see through illusions and enchantments.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

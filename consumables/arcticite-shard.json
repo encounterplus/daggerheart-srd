@@ -1,0 +1,10 @@
+{
+  "id": "e33a37a9-4eab-5d90-b728-ff22e1a6ed1a",
+  "name": "Arcticite Shard",
+  "descr": "Choose a point within Far range. All targets within Close range of that point must succeed on a Reaction Roll (16) or take 3d6 magic damage and become temporarily _Restrained_ by ice.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "d0a6e6e6-d696-5faf-8ce9-cefd580eba97",
+  "name": "Chicken-foot Hut",
+  "descr": "A tall wooden shack that moves around on giant chicken legs.",
+  "data": {
+    "tier": 2,
+    "type": "bruiser",
+    "motivesAndTactics": "Claw, protect master, run and jump, trample",
+    "difficulty": 16,
+    "thresholds": {
+      "major": 14,
+      "severe": 27
+    },
+    "hp": 8,
+    "stress": 2,
+    "attackModifier": 2,
+    "attack": {
+      "name": "Clawed Feet",
+      "range": "veryClose",
+      "damage": "2d10+3",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Forests",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Fast",
+        "type": "passive",
+        "text": "The Hut can move up to Far range when spotlighted."
+      },
+      {
+        "name": "Double Strike",
+        "type": "action",
+        "text": "**Mark a Stress** to make two standard attacks. If both attacks succeed against the same target, combine the damage."
+      },
+      {
+        "name": "Pin",
+        "type": "reaction",
+        "text": "When the Hut makes a successful standard attack, you can **mark a Stress** to temporarily _Restrain_ the target. The Hut drags the _Restrained_ target when it moves."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

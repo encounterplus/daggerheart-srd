@@ -1,0 +1,10 @@
+{
+  "id": "d74a6397-fe0d-57f2-9360-567e32b45e58",
+  "name": "Major Charm Potion",
+  "descr": "You gain a +1 bonus to your Presence until your next rest.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

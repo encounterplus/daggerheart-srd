@@ -1,0 +1,16 @@
+{
+  "id": "3da94af1-8a51-5ed7-ba8e-392d367451b4",
+  "name": "Chains of Affliction",
+  "descr": "**Mark 2 Stress** to temporarily _Chain_ a target within Close range. When a _Chained_ creature deals damage, the target of their attack marks one fewer Hit Point than they normally would. You can't have more than one creature _Chained_ at a time.",
+  "data": {
+    "level": 4,
+    "recall": 2,
+    "type": "spell",
+    "domain": "dread"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

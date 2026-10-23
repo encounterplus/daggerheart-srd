@@ -1,0 +1,58 @@
+{
+  "id": "792fedac-5ca5-50f6-9ff6-b39f7695ffa9",
+  "name": "Acid Burrower",
+  "descr": "A horse-sized insect with digging claws and acidic blood.",
+  "data": {
+    "tier": 1,
+    "type": "solo",
+    "motivesAndTactics": "Burrow, drag away, feed, reposition",
+    "difficulty": 14,
+    "thresholds": {
+      "major": 8,
+      "severe": 15
+    },
+    "hp": 8,
+    "stress": 3,
+    "attackModifier": 3,
+    "attack": {
+      "name": "Claws",
+      "range": "veryClose",
+      "damage": "1d12+2",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Tremor Sense",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Relentless",
+        "nameDetail": "3",
+        "type": "passive",
+        "text": "The Burrower can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them."
+      },
+      {
+        "name": "Earth Eruption",
+        "type": "action",
+        "text": "**Mark a Stress** to have the Burrower burst out of the ground. All creatures within Very Close range must succeed on an Agility Reaction Roll or be knocked over, making them _Vulnerable_ until they next act."
+      },
+      {
+        "name": "Spit Acid",
+        "type": "action",
+        "text": "Make an attack against all targets in front of the Burrower within Close range. Targets the Burrower succeeds against take **2d6** physical damage and must mark an Armor Slot without receiving its benefits (they can still use armor to reduce the damage). If they can't mark an Armor Slot, they must mark an additional HP and you gain a Fear."
+      },
+      {
+        "name": "Acid Bath",
+        "type": "reaction",
+        "text": "When the Burrower takes Severe damage, all creatures within Close range are bathed in their acidic blood, taking **1d10** physical damage. This splash covers the ground within Very Close range with blood, and all creatures other than the Burrower who move through it take **1d6** physical damage."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

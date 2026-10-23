@@ -1,0 +1,10 @@
+{
+  "id": "50f62fd7-10eb-5e2d-966e-06bf38a3aba6",
+  "name": "Phobophage’s Circlet",
+  "descr": "When the GM spends a Fear, roll a d4. Once per scene on a result of 4, you clear a Stress.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

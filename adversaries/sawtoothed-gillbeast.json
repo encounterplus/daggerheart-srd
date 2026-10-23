@@ -1,0 +1,52 @@
+{
+  "id": "4a380acd-0ea8-5f45-90c7-d96493f12cd6",
+  "name": "Sawtoothed Gillbeast",
+  "descr": "A stocky fish creature that has rows of razor-sharp teeth.",
+  "data": {
+    "tier": 1,
+    "type": "standard",
+    "motivesAndTactics": "Clamber ashore, hit and run, peek above the waterline",
+    "difficulty": 12,
+    "thresholds": {
+      "major": 5,
+      "severe": 10
+    },
+    "hp": 4,
+    "stress": 2,
+    "attackModifier": 1,
+    "attack": {
+      "name": "Waterlogged Weaponry",
+      "range": "close",
+      "damage": "1d8+1",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Aquatic",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Ka-Chomp",
+        "type": "action",
+        "text": "**Mark a Stress** to attack a target within Melee range. On a success, the target takes **1d12** physical damage and must mark an Armor Slot without gaining its benefit (they can still use armor to reduce the damage)."
+      },
+      {
+        "name": "Feeding Frenzy",
+        "type": "reaction",
+        "text": "When a creature marks HP, you can **spend a Fear** to spotlight all Sawtoothed Gillbeasts within Very Close range of them. Those Gillbeasts move into Melee range of the creature and each make a standard attack against them. If any attacks succeed, combine their damage."
+      },
+      {
+        "name": "Scaly",
+        "type": "reaction",
+        "text": "When the Gillbeast would mark any number of HP, roll a **d6**. On a result of 6, you can mark a Stress instead."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

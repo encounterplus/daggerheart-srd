@@ -1,0 +1,19 @@
+{
+  "id": "b2744a73-646e-556c-8458-b3417bd5ca84",
+  "name": "Heavy-frame Wheelchair",
+  "data": {
+    "tier": 1,
+    "category": "primary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d12+3",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

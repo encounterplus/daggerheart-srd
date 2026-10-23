@@ -1,0 +1,104 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - '[0-9]+.[0-9]+.[0-9]+'
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Existing tag to (re)build and release, e.g. 1.0.1'
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+env:
+  MODULE_ID: daggerheart-srd
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Resolve tag
+        id: tag
+        run: echo "tag=${{ inputs.tag || github.ref_name }}" >> "$GITHUB_OUTPUT"
+
+      - name: Checkout tag
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ steps.tag.outputs.tag }}
+
+      - name: Verify versions and download URL
+        env:
+          TAG: ${{ steps.tag.outputs.tag }}
+        run: |
+          set -euo pipefail
+
+          manifest_version=$(jq -r '.version' manifest.json)
+          module_version=$(jq -r '.version' module.json)
+          manifest_id=$(jq -r '.id' manifest.json)
+          module_id=$(jq -r '.id' module.json)
+          download=$(jq -r '.download' manifest.json)
+          expected_download="https://github.com/${GITHUB_REPOSITORY}/releases/download/${TAG}/${MODULE_ID}.module"
+
+          fail=0
+
+          if [ "$manifest_id" != "$MODULE_ID" ]; then
+            echo "::error file=manifest.json::id is '$manifest_id', expected '$MODULE_ID'"
+            fail=1
+          fi
+
+          if [ "$module_id" != "$MODULE_ID" ]; then
+            echo "::error file=module.json::id is '$module_id', expected '$MODULE_ID'"
+            fail=1
+          fi
+
+          if [ "$manifest_version" != "$TAG" ]; then
+            echo "::error file=manifest.json::version is '$manifest_version', expected '$TAG' (the tag)"
+            fail=1
+          fi
+
+          if [ "$module_version" != "$TAG" ]; then
+            echo "::error file=module.json::version is '$module_version', expected '$TAG' (the tag)"
+            fail=1
+          fi
+
+          if [ "$download" != "$expected_download" ]; then
+            echo "::error file=manifest.json::download is '$download', expected '$expected_download'"
+            fail=1
+          fi
+
+          if [ "$fail" -ne 0 ]; then
+            echo "Run npm run bump -- ${TAG} to fix these files, then re-tag."
+            exit 1
+          fi
+
+          echo "Versions OK: ${TAG}"
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build ${{ env.MODULE_ID }}.module
+        run: |
+          set -euo pipefail
+          npm run build
+          unzip -l "dist/${MODULE_ID}.module"
+
+      - name: Publish release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.tag.outputs.tag }}
+          name: ${{ steps.tag.outputs.tag }}
+          generate_release_notes: true
+          make_latest: true
+          files: |
+            dist/${{ env.MODULE_ID }}.module
+            manifest.json

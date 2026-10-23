@@ -1,0 +1,37 @@
+{
+  "id": "4684b443-7252-5a81-a593-6a91e1dcab29",
+  "name": "Pack Predator",
+  "data": {
+    "tier": 1,
+    "examples": "Coyote, Hyena, Wolf, etc.",
+    "trait": "strength",
+    "traitModifier": 2,
+    "evasionModifier": 1,
+    "attack": {
+      "range": "melee",
+      "trait": "strength",
+      "damage": "d8+2",
+      "damageType": "phy"
+    },
+    "advantages": [
+      "attack",
+      "sprint",
+      "track"
+    ],
+    "features": [
+      {
+        "name": "Hobbling Strike",
+        "text": "When you succeed on an attack against a target within Melee range, you can **mark a Stress** to make the target temporarily _Vulnerable_."
+      },
+      {
+        "name": "Pack Hunting",
+        "text": "When you succeed on an attack against the same target as an ally who acts immediately before you, add a **d8** to your damage roll."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

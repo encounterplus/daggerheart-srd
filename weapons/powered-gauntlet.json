@@ -1,0 +1,19 @@
+{
+  "id": "d9003d69-cc14-50ca-9253-18993fe0e8c9",
+  "name": "Powered Gauntlet",
+  "data": {
+    "tier": 3,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "knowledge",
+    "range": "close",
+    "damage": "d6+4",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

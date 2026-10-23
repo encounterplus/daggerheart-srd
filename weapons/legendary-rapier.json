@@ -1,0 +1,19 @@
+{
+  "id": "84c580d8-a98a-5bfa-a022-7b8c39d6edff",
+  "name": "Legendary Rapier",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "physical",
+    "trait": "presence",
+    "range": "melee",
+    "damage": "d8+9",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

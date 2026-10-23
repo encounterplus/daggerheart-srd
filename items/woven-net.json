@@ -1,0 +1,10 @@
+{
+  "id": "07740549-a3b5-56cb-8d36-c4a5bc1ccda7",
+  "name": "Woven Net",
+  "descr": "You can make a Finesse Roll using this net to trap a small creature. A trapped target can break free with a successful Attack Roll (16).",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

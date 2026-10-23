@@ -1,0 +1,10 @@
+{
+  "id": "0009c95d-c9f4-57e8-b7ea-e19b53e07f24",
+  "name": "Shard Of Memory",
+  "descr": "Once per long rest, you can spend 2 Hope to recall a domain card from your vault instead of paying its Recall Cost.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

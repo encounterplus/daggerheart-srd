@@ -1,0 +1,19 @@
+{
+  "id": "1fe15c37-e2dc-54eb-9557-4add5a46dc36",
+  "name": "Rocket Maul",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "magic",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d10+7",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

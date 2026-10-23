@@ -1,0 +1,19 @@
+{
+  "id": "63b64764-0d89-5127-b998-9f40343f3681",
+  "name": "Advanced Hatchet",
+  "data": {
+    "tier": 3,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "melee",
+    "damage": "d8+4",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

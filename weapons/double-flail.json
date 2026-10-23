@@ -1,0 +1,19 @@
+{
+  "id": "c1f4edcb-47c6-5d1b-a3c3-f47af4b507eb",
+  "name": "Double Flail",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "veryClose",
+    "damage": "d10+8",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

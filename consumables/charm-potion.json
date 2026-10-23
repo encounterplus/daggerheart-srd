@@ -1,0 +1,10 @@
+{
+  "id": "4e185a61-799a-5852-a2e9-56869bb07991",
+  "name": "Charm Potion",
+  "descr": "You gain a +1 bonus to your next Presence Roll.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

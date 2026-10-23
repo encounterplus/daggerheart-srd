@@ -1,0 +1,19 @@
+{
+  "id": "e5bff140-afc6-546c-a299-0cd79d15ea34",
+  "name": "Greatstaff",
+  "data": {
+    "tier": 1,
+    "category": "primary",
+    "type": "magic",
+    "trait": "knowledge",
+    "range": "veryFar",
+    "damage": "d6",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

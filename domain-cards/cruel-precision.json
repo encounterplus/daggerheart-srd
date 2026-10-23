@@ -1,0 +1,16 @@
+{
+  "id": "b28431e1-e243-511c-b5f2-399151d575fe",
+  "name": "Cruel Precision",
+  "descr": "When you make a successful attack with a weapon, gain a bonus to your damage roll equal to either your Finesse or Agility.",
+  "data": {
+    "level": 7,
+    "recall": 1,
+    "type": "ability",
+    "domain": "bone"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

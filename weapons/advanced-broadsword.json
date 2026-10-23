@@ -1,0 +1,19 @@
+{
+  "id": "4ab866f7-6aad-5c35-b0b3-faae2c3243d8",
+  "name": "Advanced Broadsword",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "melee",
+    "damage": "d8+6",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

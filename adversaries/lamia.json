@@ -1,0 +1,52 @@
+{
+  "id": "48818164-5b7b-5475-82b8-6772d5aa4707",
+  "name": "Lamia",
+  "descr": "A snake-tailed humanoid monster who stalks the night to absorb the life energy of sleeping people.",
+  "data": {
+    "tier": 3,
+    "type": "skulk",
+    "motivesAndTactics": "Attack the unaware, avoid sunlight, leech life force, put to sleep, slither through tall grass",
+    "difficulty": 17,
+    "thresholds": {
+      "major": 18,
+      "severe": 35
+    },
+    "hp": 6,
+    "stress": 5,
+    "attackModifier": 3,
+    "attack": {
+      "name": "Curved Dagger",
+      "range": "melee",
+      "damage": "3d8+4",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Snaky",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Constriction",
+        "type": "action",
+        "text": "**Mark a Stress** to have the Lamia wrap their tail around a PC within Melee range and squeeze. The target must succeed on a Finesse Reaction Roll or become _Constricted_ until the Lamia moves or takes Major or greater damage. While _Constricted_, the target is _Restrained_ and must mark a Stress when the Lamia takes the spotlight."
+      },
+      {
+        "name": "Life Leech",
+        "type": "action",
+        "text": "**Mark a Stress** to force a _Vulnerable_ or _Restrained_ target within Melee range to mark **1d4-1** HP. The Lamia then clears an equal number of HP."
+      },
+      {
+        "name": "Sleep Toxin",
+        "type": "reaction",
+        "text": "When the Lamia makes a successful standard attack against a PC, you can **spend a Fear** to make them _Vulnerable_ until they succeed on a Instinct Roll (19)."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

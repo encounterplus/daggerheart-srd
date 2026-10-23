@@ -1,0 +1,10 @@
+{
+  "id": "03e0e360-cd9e-5d2e-87bf-31350f853044",
+  "name": "Soul-twin Circlets",
+  "descr": "Two creatures can wear this pair of circlets. You can spend a Hope to switch places with whoever is wearing the other circlet.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

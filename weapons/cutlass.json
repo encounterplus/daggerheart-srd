@@ -1,0 +1,19 @@
+{
+  "id": "c07947fc-e23b-5efd-937a-b946605f2eeb",
+  "name": "Cutlass",
+  "data": {
+    "tier": 1,
+    "category": "primary",
+    "type": "physical",
+    "trait": "presence",
+    "range": "melee",
+    "damage": "d8+1",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

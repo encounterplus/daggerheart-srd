@@ -1,0 +1,19 @@
+{
+  "id": "b5294a53-e287-5e72-a89e-451fafb0eb92",
+  "name": "Improved Rapier",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "presence",
+    "range": "melee",
+    "damage": "d8+3",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

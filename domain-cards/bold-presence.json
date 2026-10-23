@@ -1,0 +1,16 @@
+{
+  "id": "af8a5cb3-af20-5b83-a7bc-d51dcaa58406",
+  "name": "Bold Presence",
+  "descr": "When you make a Presence Roll, you can **spend a Hope** to add your Strength to the roll.\n\nAdditionally, once per rest when you would gain a condition, you can describe how your bold presence aids you in the situation and avoid gaining the condition.",
+  "data": {
+    "level": 2,
+    "recall": 0,
+    "type": "ability",
+    "domain": "valor"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

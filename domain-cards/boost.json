@@ -1,0 +1,16 @@
+{
+  "id": "4473a346-0f00-5e83-9414-0f6124ca8bcf",
+  "name": "Boost",
+  "descr": "**Mark a Stress** to boost off a willing ally within Close range, fling yourself into the air, and perform an aerial attack against a target within Far range. You have advantage on the attack, add a **d10** to the damage roll, and end your move within Melee range of the target.",
+  "data": {
+    "level": 4,
+    "recall": 1,
+    "type": "ability",
+    "domain": "bone"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "5330062f-7058-5390-9cba-ac3b41e27ef3",
+  "name": "Advanced Enchanted Chakram",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "magic",
+    "trait": "finesse",
+    "range": "close",
+    "damage": "d6+7",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

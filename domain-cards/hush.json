@@ -1,0 +1,16 @@
+{
+  "id": "6d2139ef-e6e3-51d6-8589-ea97ad42c2e9",
+  "name": "Hush",
+  "descr": "Make a **Spellcast Roll** against a target within Close range. On a success, **spend a Hope** to conjure suppressive magic around the target that encompasses everything within Very Close range of them and follows them as they move.\n\nThe target and anything within the area is _Silenced_ until the GM spends a Fear on their turn to clear this condition, you cast Hush again, or you take Major damage. While _Silenced_, they can't make noise and can't cast spells.",
+  "data": {
+    "level": 5,
+    "recall": 1,
+    "type": "spell",
+    "domain": "midnight"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

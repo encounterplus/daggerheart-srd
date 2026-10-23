@@ -1,0 +1,10 @@
+{
+  "id": "b51a4de9-a7aa-5140-952a-5844ab177867",
+  "name": "Self-sewing Thread",
+  "descr": "You can use this thread to clear either a Hit Point or 2 Armor Slots.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

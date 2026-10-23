@@ -1,0 +1,10 @@
+{
+  "id": "9620be25-99f2-5ea8-bab9-cf409f64b4bd",
+  "name": "Warding Candle",
+  "descr": "You can light this candle to fill an area within Close range with a halo of light. A creature outside the halo can't enter it if they have ill intent toward a creature within it. The candle burns for an hour.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

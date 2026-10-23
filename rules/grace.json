@@ -1,0 +1,11 @@
+{
+  "id": "2b9d010f-629d-516a-914f-f09b37d57697",
+  "name": "Grace",
+  "type": "domain",
+  "descr": "Grace is the domain of **charisma.** Through rapturous storytelling, charming spells, or a shroud of lies, those who channel this power define the realities of their adversaries, bending perception to their will. Grace offers its wielders raw magnetism and mastery over language. The Grace domain can be accessed by the **Bard**, **Rogue**, and **Warlock** classes",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

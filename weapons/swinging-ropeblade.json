@@ -1,0 +1,19 @@
+{
+  "id": "035dd63c-7ea8-5bb9-af8c-bbe4115b8466",
+  "name": "Swinging Ropeblade",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "physical",
+    "trait": "presence",
+    "range": "close",
+    "damage": "d8+9",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

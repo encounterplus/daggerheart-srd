@@ -1,0 +1,19 @@
+{
+  "id": "564886b1-b725-5222-9174-924d6367dc01",
+  "name": "Legendary Quarterstaff",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "physical",
+    "trait": "instinct",
+    "range": "melee",
+    "damage": "d10+12",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

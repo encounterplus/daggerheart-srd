@@ -1,0 +1,10 @@
+{
+  "id": "c44ac4b7-c749-5192-9ac0-1e7b42dab7d2",
+  "name": "Reliquary Of The Sightless Saint",
+  "descr": "You gain a +1 bonus to your Hope Die when you make the Risk It All death move.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

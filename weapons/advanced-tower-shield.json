@@ -1,0 +1,19 @@
+{
+  "id": "93604260-4bd1-548b-8295-d14349968eca",
+  "name": "Advanced Tower Shield",
+  "data": {
+    "tier": 3,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d6+4",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

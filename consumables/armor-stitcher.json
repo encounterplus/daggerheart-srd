@@ -1,0 +1,10 @@
+{
+  "id": "17f8aaef-2889-5d85-af0d-79176472939b",
+  "name": "Armor Stitcher",
+  "descr": "You can use this stitcher to spend any number of Hope and clear that many Armor Slots.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

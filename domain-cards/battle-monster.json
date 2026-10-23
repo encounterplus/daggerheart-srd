@@ -1,0 +1,16 @@
+{
+  "id": "59b644a1-19b8-5dbb-8ee4-3f2eee3efe13",
+  "name": "Battle Monster",
+  "descr": "When you make a successful attack against an adversary, you can **mark 4 Stress** to force the target to mark a number of Hit Points equal to the number of Hit Points you currently have marked instead of rolling for damage.",
+  "data": {
+    "level": 10,
+    "recall": 0,
+    "type": "ability",
+    "domain": "blade"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "4294e6de-c5d9-5304-aab9-8650c3a57ccb",
+  "name": "Copycat",
+  "descr": "Once per long rest, this card can mimic the features of another domain card of level 8 or lower in another player's loadout. **Spend Hope equal to half the card's level** to gain access to the feature. It lasts until your next rest or they place the card in their vault.",
+  "data": {
+    "level": 9,
+    "recall": 3,
+    "type": "spell",
+    "domain": "grace"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

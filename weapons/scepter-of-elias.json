@@ -1,0 +1,19 @@
+{
+  "id": "32768624-ffe0-590c-a621-a0636ec18bfa",
+  "name": "Scepter Of Elias",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "magic",
+    "trait": "presence",
+    "range": "far",
+    "damage": "d6+3",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

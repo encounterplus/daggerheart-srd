@@ -1,0 +1,17 @@
+{
+  "id": "1b137dc0-8f9a-5925-8513-97763631d0f5",
+  "name": "Chainmail Armor",
+  "data": {
+    "tier": 1,
+    "thresholds": {
+      "major": 7,
+      "severe": 15
+    },
+    "score": 4
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

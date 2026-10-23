@@ -1,0 +1,47 @@
+{
+  "id": "e90abc7f-b73e-5723-8786-e840101151a4",
+  "name": "Harrier",
+  "descr": "A nimble fighter armed with javelins.",
+  "data": {
+    "tier": 1,
+    "type": "standard",
+    "motivesAndTactics": "Flank, harry, kite, profit",
+    "difficulty": 12,
+    "thresholds": {
+      "major": 5,
+      "severe": 9
+    },
+    "hp": 3,
+    "stress": 3,
+    "attackModifier": 1,
+    "attack": {
+      "name": "Javelin",
+      "range": "close",
+      "damage": "1d6+2",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Camouflage",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Maintain Distance",
+        "type": "passive",
+        "text": "After making a standard attack, the Harrier can move anywhere within Far range."
+      },
+      {
+        "name": "Fall Back",
+        "type": "reaction",
+        "text": "When a creature moves into Melee range to make an attack, you can **mark a Stress** before the attack roll to move anywhere within Close range and make an attack against that creature. On a success, deal **1d10+2** physical damage."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

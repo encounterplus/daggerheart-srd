@@ -1,0 +1,16 @@
+{
+  "id": "5d79eef1-6599-542f-a5ca-a3ae871f7469",
+  "name": "Towering Stalk",
+  "descr": "Once per rest, you can conjure a thick, twisting stalk within Close range that can be easily climbed. Its height can grow up to Far range.\n\n**Mark a Stress** to use this spell as an attack. Make a **Spellcast Roll** against an adversary or group of adversaries within Close range. The erupting stalk lifts targets you succeed against into the air and drops them, dealing **d8** physical damage using your Proficiency.",
+  "data": {
+    "level": 3,
+    "recall": 1,
+    "type": "spell",
+    "domain": "sage"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

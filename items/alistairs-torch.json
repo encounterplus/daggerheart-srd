@@ -1,0 +1,10 @@
+{
+  "id": "abfee21b-93ff-5bfd-aa1b-7ffecbb93c68",
+  "name": "Alistair’s Torch",
+  "descr": "You can light this magic torch at will. The flame's light fills a much larger space than it should, enough to illuminate a cave bright as day.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

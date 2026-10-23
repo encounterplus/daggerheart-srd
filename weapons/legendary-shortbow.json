@@ -1,0 +1,19 @@
+{
+  "id": "40d44fc2-1c5c-5d0d-b048-305221a460fe",
+  "name": "Legendary Shortbow",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "far",
+    "damage": "d6+12",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

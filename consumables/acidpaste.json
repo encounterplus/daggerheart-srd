@@ -1,0 +1,10 @@
+{
+  "id": "7bf4e14d-8b90-515c-beb8-98284a05c375",
+  "name": "Acidpaste",
+  "descr": "This paste eats away walls and other surfaces in bright flashes.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

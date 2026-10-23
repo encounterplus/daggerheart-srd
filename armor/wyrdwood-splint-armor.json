@@ -1,0 +1,17 @@
+{
+  "id": "980ff92a-3a27-523d-a474-d9635f0dc118",
+  "name": "Wyrdwood Splint Armor",
+  "data": {
+    "tier": 2,
+    "thresholds": {
+      "major": 10,
+      "severe": 21
+    },
+    "score": 5
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

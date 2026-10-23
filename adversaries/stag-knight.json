@@ -1,0 +1,52 @@
+{
+  "id": "deb2b0df-7294-50a6-94f8-63bc8b2ab8a1",
+  "name": "Stag Knight",
+  "descr": "A knight with huge, majestic antlers wearing armor made of dangerous thorns.",
+  "data": {
+    "tier": 3,
+    "type": "standard",
+    "motivesAndTactics": "Isolate, maneuver, protect the forest, weed the unwelcome",
+    "difficulty": 17,
+    "thresholds": {
+      "major": 19,
+      "severe": 36
+    },
+    "hp": 7,
+    "stress": 5,
+    "attackModifier": 3,
+    "attack": {
+      "name": "Bramble Sword",
+      "range": "melee",
+      "damage": "3d8+3",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Forest Knowledge",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "From Above",
+        "type": "passive",
+        "text": "When the Knight succeeds on a standard attack from above a target, they deal **3d12+3** physical damage instead of their standard damage."
+      },
+      {
+        "name": "Blade of the Forest",
+        "type": "action",
+        "text": "**Spend a Fear** to make an attack against all targets within Very Close range. Targets the Knight succeeds against take physical damage equal to **3d4** + the target's Major threshold."
+      },
+      {
+        "name": "Thorny Armor",
+        "type": "reaction",
+        "text": "When the Knight takes damage from an attack within Melee range, you can **mark a Stress** to deal **1d10+5** physical damage to the attacker."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

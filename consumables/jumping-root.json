@@ -1,0 +1,10 @@
+{
+  "id": "752b3330-810e-5114-ae42-499f8faa14eb",
+  "name": "Jumping Root",
+  "descr": "Eat this root to leap up to Far range once without needing to roll.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

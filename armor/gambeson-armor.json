@@ -1,0 +1,17 @@
+{
+  "id": "20c26fb2-e004-5ca9-9711-0d3f6d3743d9",
+  "name": "Gambeson Armor",
+  "data": {
+    "tier": 1,
+    "thresholds": {
+      "major": 5,
+      "severe": 11
+    },
+    "score": 3
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

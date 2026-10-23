@@ -1,0 +1,10 @@
+{
+  "id": "9b892ef4-af90-5f80-9349-7e2d98773985",
+  "name": "Gem Of Sagacity",
+  "descr": "You can attach this gem to a weapon, allowing you to use your Knowledge when making an attack with that weapon.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

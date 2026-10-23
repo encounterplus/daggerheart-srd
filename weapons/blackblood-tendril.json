@@ -1,0 +1,19 @@
+{
+  "id": "bd7e9fd2-53e7-5f10-b2be-bf7f90a183c6",
+  "name": "Blackblood Tendril",
+  "data": {
+    "tier": 4,
+    "category": "secondary",
+    "type": "magic",
+    "trait": "instinct",
+    "range": "close",
+    "damage": "d6+8",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

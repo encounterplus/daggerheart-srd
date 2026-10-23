@@ -1,0 +1,63 @@
+{
+  "id": "c850f328-210d-53cd-8bbc-fbe551b967ae",
+  "name": "High Seraph",
+  "descr": "A divine champion, head of a hallowed host of warriors who enforce their god's will.",
+  "data": {
+    "tier": 4,
+    "type": "leader",
+    "motivesAndTactics": "Enforce dogma, fly, pronounce judgment, smite",
+    "difficulty": 20,
+    "thresholds": {
+      "major": 37,
+      "severe": 70
+    },
+    "hp": 7,
+    "stress": 5,
+    "attackModifier": 8,
+    "attack": {
+      "name": "Holy Sword",
+      "range": "veryClose",
+      "damage": "4d10+10",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Divine Knowledge",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Relentless",
+        "nameDetail": "3",
+        "type": "passive",
+        "text": "The Seraph can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them."
+      },
+      {
+        "name": "Divine Flight",
+        "type": "passive",
+        "text": "While the Seraph is flying, **spend a Fear** to move up to Far range instead of Close range before taking an action."
+      },
+      {
+        "name": "Judgment",
+        "type": "action",
+        "text": "**Spend a Fear** to make a target _Guilty_ in the eyes of the Seraph's god until the Seraph is defeated. While _Guilty_, the target doesn't gain Hope on a result with Hope. When the Seraph succeeds on a standard attack against a _Guilty_ target, they deal Severe damage instead of their standard damage. The Seraph can only mark one target at a time."
+      },
+      {
+        "name": "God Rays",
+        "type": "action",
+        "text": "**Mark a Stress** to reflect a sliver of divinity as a searing beam of light that hits up to twenty targets within Very Far range. Targets must make a Presence Reaction Roll, with disadvantage if they are marked _Guilty_. Targets who fail take **4d6+12** magic damage. Targets who succeed take half damage."
+      },
+      {
+        "name": "We Are One",
+        "type": "action",
+        "text": "Once per scene, **spend a Fear** to spotlight all other adversaries within Far range. Attacks they make while spotlighted in this way deal half damage."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

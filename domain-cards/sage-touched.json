@@ -1,0 +1,16 @@
+{
+  "id": "25277577-507d-5cc2-91e5-1c9809029151",
+  "name": "Sage-touched",
+  "descr": "When 4 or more of the domain cards in your loadout are from the Sage domain, gain the following benefits:\n\n- While you're in a natural environment, you gain a +2 bonus to your Spellcast Rolls.\n- Once per rest, you can double your Agility or Instinct when making a roll that uses that trait. You must choose to do this before you roll.",
+  "data": {
+    "level": 7,
+    "recall": 2,
+    "type": "ability",
+    "domain": "sage"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

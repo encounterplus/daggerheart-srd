@@ -1,0 +1,16 @@
+{
+  "id": "ad06746f-fa95-56d3-b06c-b2024b22978a",
+  "name": "Overwhelming Aura",
+  "descr": "Make a **Spellcast Roll (15)** to magically empower your aura. On a success, **spend 2 Hope** to make your Presence equal to your Spellcast trait until your next long rest.\n\nWhile this spell is active, an adversary must mark a Stress when they target you with an attack.",
+  "data": {
+    "level": 9,
+    "recall": 2,
+    "type": "spell",
+    "domain": "splendor"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

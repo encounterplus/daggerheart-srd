@@ -1,0 +1,16 @@
+{
+  "id": "d5cd4fc1-6b5b-5e8a-8e30-437df7d103c3",
+  "name": "Earthquake",
+  "descr": "Make a **Spellcast Roll (16)**. Once per rest on a success, all targets within Very Far range who aren't flying must make a Reaction Roll (18). Targets who fail take **3d10+8** physical damage and are temporarily _Vulnerable_. Targets who succeed take half damage.\n\nAdditionally, when you succeed on the Spellcast Roll, all terrain within Very Far range becomes difficult to move through and structures within this range might sustain damage or crumble.",
+  "data": {
+    "level": 9,
+    "recall": 2,
+    "type": "spell",
+    "domain": "arcana"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

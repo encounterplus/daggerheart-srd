@@ -1,0 +1,47 @@
+{
+  "id": "6e0b20ab-1b0a-5938-bd72-f15208e63f81",
+  "name": "Masked Thief",
+  "descr": "A cunning thief with acrobatic skill and a flair for the dramatic.",
+  "data": {
+    "tier": 2,
+    "type": "skulk",
+    "motivesAndTactics": "Evade, hide, pilfer, profit",
+    "difficulty": 14,
+    "thresholds": {
+      "major": 8,
+      "severe": 17
+    },
+    "hp": 4,
+    "stress": 5,
+    "attackModifier": 3,
+    "attack": {
+      "name": "Backsword",
+      "range": "melee",
+      "damage": "2d8+3",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Acrobatics",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Quick Hands",
+        "type": "action",
+        "text": "Make an attack against a target within Melee range. On a success, deal **1d8+2** physical damage and the Thief steals one item or consumable from the target's inventory."
+      },
+      {
+        "name": "Escape Plan",
+        "type": "action",
+        "text": "**Mark a Stress** to reveal a snare trap set anywhere on the battlefield by the Thief. All targets within Very Close range of the trap must succeed on an Agility Reaction Roll (13) or be pulled off their feet and suspended upside down. A target is _Restrained_ and _Vulnerable_ until they break free, ending both conditions, with a successful Finesse or Strength Roll (13)."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

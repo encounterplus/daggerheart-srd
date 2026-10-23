@@ -1,0 +1,37 @@
+{
+  "id": "8b19856e-366a-5177-9444-493a44afd472",
+  "name": "Powerful Beast",
+  "data": {
+    "tier": 2,
+    "examples": "Bear, Bull, Moose, etc.",
+    "trait": "strength",
+    "traitModifier": 3,
+    "evasionModifier": 1,
+    "attack": {
+      "range": "melee",
+      "trait": "strength",
+      "damage": "d10+4",
+      "damageType": "phy"
+    },
+    "advantages": [
+      "navigate",
+      "protect",
+      "scare"
+    ],
+    "features": [
+      {
+        "name": "Rampage",
+        "text": "When you roll a 1 on a damage die, you can roll a **d10** and add the result to the damage roll. Additionally, before you make an attack roll, you can **mark a Stress** to gain a +1 bonus to your Proficiency for that attack."
+      },
+      {
+        "name": "Thick Hide",
+        "text": "You gain a +2 bonus to your damage thresholds."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

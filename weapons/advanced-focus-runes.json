@@ -1,0 +1,19 @@
+{
+  "id": "4cbf099d-a61e-59d7-8824-bd2c8b355a91",
+  "name": "Advanced Focus Runes",
+  "data": {
+    "tier": 3,
+    "category": "secondary",
+    "type": "magic",
+    "trait": "instinct",
+    "range": "veryClose",
+    "damage": "d6+4",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

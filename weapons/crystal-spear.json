@@ -1,0 +1,19 @@
+{
+  "id": "fecd6d35-e1da-5610-9e23-df793df639a6",
+  "name": "Crystal Spear",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "magic",
+    "trait": "finesse",
+    "range": "veryClose",
+    "damage": "d10+6",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

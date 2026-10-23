@@ -1,0 +1,10 @@
+{
+  "id": "46c2122b-c829-5e67-8892-530d8158c94e",
+  "name": "Belt Of Unity",
+  "descr": "Once per session, you can spend 5 Hope to lead a Tag Team Roll with three PCs instead of two.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

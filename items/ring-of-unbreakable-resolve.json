@@ -1,0 +1,10 @@
+{
+  "id": "640f5ee5-415f-5c55-8012-27e70a9ad66c",
+  "name": "Ring Of Unbreakable Resolve",
+  "descr": "Once per session, when the GM spends a Fear, you can spend 4 Hope to cancel the effects of that spent Fear.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

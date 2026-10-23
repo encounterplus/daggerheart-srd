@@ -1,0 +1,16 @@
+{
+  "id": "02f6d64b-706d-5ee6-9748-e3bee5f43c67",
+  "name": "Armorer",
+  "descr": "While you're wearing armor, gain a +1 bonus to your Armor Score.\n\nDuring a rest, when you choose to repair your armor as a downtime move, your allies also clear an Armor Slot.",
+  "data": {
+    "level": 5,
+    "recall": 1,
+    "type": "ability",
+    "domain": "valor"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

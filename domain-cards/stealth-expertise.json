@@ -1,0 +1,16 @@
+{
+  "id": "4555a87c-f3f7-5a8c-97dd-bb3913b2b1e7",
+  "name": "Stealth Expertise",
+  "descr": "When you roll with Fear while attempting to move unnoticed through a dangerous area, you can **mark a Stress** to roll with Hope instead.\n\nIf an ally within Close range is also attempting to move unnoticed and rolls with Fear, you can **mark a Stress** to change their result to a roll with Hope.",
+  "data": {
+    "level": 4,
+    "recall": 0,
+    "type": "ability",
+    "domain": "midnight"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

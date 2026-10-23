@@ -1,0 +1,16 @@
+{
+  "id": "1620bd0b-0dd4-54c8-a734-89725b05b1ae",
+  "name": "Swift Step",
+  "descr": "When an attack made against you fails, clear a Stress. If you can't clear a Stress, gain a Hope.",
+  "data": {
+    "level": 10,
+    "recall": 2,
+    "type": "ability",
+    "domain": "bone"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

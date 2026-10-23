@@ -1,0 +1,19 @@
+{
+  "id": "f958d0b5-85cd-5c30-b8f3-4e613c49c277",
+  "name": "Legendary Longbow",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "veryFar",
+    "damage": "d8+12",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

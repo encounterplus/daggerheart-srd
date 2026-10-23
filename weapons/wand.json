@@ -1,0 +1,19 @@
+{
+  "id": "886b6f88-b347-5c12-8007-486d510a02c8",
+  "name": "Wand",
+  "data": {
+    "tier": 1,
+    "category": "primary",
+    "type": "magic",
+    "trait": "knowledge",
+    "range": "far",
+    "damage": "d6+1",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

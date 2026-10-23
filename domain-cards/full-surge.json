@@ -1,0 +1,16 @@
+{
+  "id": "6603c0f8-11dc-5490-8759-f868ec12c727",
+  "name": "Full Surge",
+  "descr": "Once per long rest, **mark 3 Stress** to push your body to its limits. Gain a +2 bonus to all of your character traits until your next rest.",
+  "data": {
+    "level": 8,
+    "recall": 1,
+    "type": "ability",
+    "domain": "valor"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

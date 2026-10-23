@@ -1,0 +1,19 @@
+{
+  "id": "f96bda6b-65ae-5626-b352-9801daf75dab",
+  "name": "Improved Twisted Dagger",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "knowledge",
+    "range": "melee",
+    "damage": "d8+3",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

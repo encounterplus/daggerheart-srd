@@ -1,0 +1,19 @@
+{
+  "id": "2b236539-ddf1-5971-96a8-f24d0ade4ffe",
+  "name": "Wand Of Enthrallment",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "magic",
+    "trait": "presence",
+    "range": "far",
+    "damage": "d6+4",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

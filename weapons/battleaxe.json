@@ -1,0 +1,19 @@
+{
+  "id": "20b08e10-71bf-5a55-9aef-43d4dd0f23a2",
+  "name": "Battleaxe",
+  "data": {
+    "tier": 1,
+    "category": "primary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d10+3",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

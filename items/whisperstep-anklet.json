@@ -1,0 +1,10 @@
+{
+  "id": "ad6878b5-1ebf-5018-819e-c6b9715521b6",
+  "name": "Whisperstep Anklet",
+  "descr": "This anklet makes your steps silent as long as you don't move faster than walking speed.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

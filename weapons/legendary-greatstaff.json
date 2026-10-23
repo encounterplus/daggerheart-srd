@@ -1,0 +1,19 @@
+{
+  "id": "cad5e2e8-55f3-5219-b48c-2d02918cfa06",
+  "name": "Legendary Greatstaff",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "magic",
+    "trait": "knowledge",
+    "range": "veryFar",
+    "damage": "d6+9",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

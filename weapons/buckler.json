@@ -1,0 +1,19 @@
+{
+  "id": "cc2f4491-54a5-52c1-93d3-e4ef18dd9df6",
+  "name": "Buckler",
+  "data": {
+    "tier": 3,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "melee",
+    "damage": "d4+4",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

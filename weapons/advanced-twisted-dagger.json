@@ -1,0 +1,19 @@
+{
+  "id": "62358ae9-aa10-50a1-99e9-15e4c8cc6d3c",
+  "name": "Advanced Twisted Dagger",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "physical",
+    "trait": "knowledge",
+    "range": "melee",
+    "damage": "d8+6",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

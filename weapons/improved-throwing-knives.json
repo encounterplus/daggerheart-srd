@@ -1,0 +1,19 @@
+{
+  "id": "143d5fbe-2359-510d-9d85-7542c5c164d3",
+  "name": "Improved Throwing Knives",
+  "data": {
+    "tier": 2,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "melee",
+    "damage": "d8+2",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

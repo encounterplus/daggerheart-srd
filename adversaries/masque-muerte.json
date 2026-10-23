@@ -1,0 +1,66 @@
+{
+  "id": "813dddd6-71b9-5462-94f7-4e7b35726b4d",
+  "name": "Masque Muerte",
+  "descr": "The raging soul of a villainous masked wrestler.",
+  "data": {
+    "tier": 1,
+    "type": "solo",
+    "motivesAndTactics": "Call out, embarrass, energize the audience, pin opponents to the ground",
+    "difficulty": 13,
+    "thresholds": {
+      "major": 7,
+      "severe": 14
+    },
+    "hp": 8,
+    "stress": 4,
+    "attackModifier": 4,
+    "attack": {
+      "name": "Open-Handed Strike",
+      "range": "melee",
+      "damage": "1d12+2",
+      "damageType": "mag"
+    },
+    "experience": [
+      {
+        "name": "Grappler",
+        "modifier": 3
+      },
+      {
+        "name": "Showboat",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Libre",
+        "type": "passive",
+        "text": "The Masque Muerte can't be _Restrained_."
+      },
+      {
+        "name": "Heel Turn",
+        "type": "action",
+        "text": "**Mark a Stress** to make an attack against a PC within Close range. On a success, the target must mark a Stress and is temporarily _Vulnerable_ as the Masque Muerte assaults them with a string of insulting taunts."
+      },
+      {
+        "name": "Spectral Suplex",
+        "type": "action",
+        "text": "**Spend a Fear** to have the Masque Muerte suplex a _Restrained_ PC, dealing **1d10+6** magic damage to them."
+      },
+      {
+        "name": "Unmasking Death",
+        "type": "action",
+        "text": "**Spend a Fear** to have the Masque Muerte momentarily remove their mask, revealing their horrifying face underneath. Each PC within Close range must succeed on a Presence Reaction Roll or mark a Stress."
+      },
+      {
+        "name": "Tag Team",
+        "type": "reaction",
+        "text": "When the Masque Muerte deals damage to a PC, you can **spend a Fear** to have a spectral wrestler appear and _Pin_ the target until they escape with a successful Strength Roll. While _Pinned_, the target is _Restrained_ and takes an extra **1d12** magic damage from the Masque Muerte's attacks."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

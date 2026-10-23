@@ -1,0 +1,19 @@
+{
+  "id": "29f4d658-9760-5ee6-a411-7ac93e8962c2",
+  "name": "Greatbow",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "far",
+    "damage": "d6+6",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

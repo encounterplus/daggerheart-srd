@@ -1,0 +1,16 @@
+{
+  "id": "441c723f-4b54-5e9f-8c19-432cc13e94ed",
+  "name": "Tell No Lies",
+  "descr": "Make a **Spellcast Roll** against a target within Very Close range. On a success, they can't lie to you while they remain within Close range, but they are not compelled to speak. If you ask them a question and they refuse to answer, they must mark a Stress and the effect ends. The target is typically unaware this spell has been cast on them until it causes them to utter the truth.",
+  "data": {
+    "level": 2,
+    "recall": 1,
+    "type": "spell",
+    "domain": "grace"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

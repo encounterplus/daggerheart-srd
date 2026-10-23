@@ -1,0 +1,19 @@
+{
+  "id": "1225d9b5-64aa-55dc-98ed-8a6b3507c97b",
+  "name": "Dual-ended Sword",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "melee",
+    "damage": "d10+9",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

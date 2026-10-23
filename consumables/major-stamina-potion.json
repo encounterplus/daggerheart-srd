@@ -1,0 +1,10 @@
+{
+  "id": "d4616de3-7486-5fff-86b8-9b758aca8c2c",
+  "name": "Major Stamina Potion",
+  "descr": "Clear 1d4+2 Stress.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

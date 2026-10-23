@@ -1,0 +1,19 @@
+{
+  "id": "2f5e8afc-3951-5de9-8ea1-8465adfbdfc5",
+  "name": "Small Dagger",
+  "data": {
+    "tier": 1,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "melee",
+    "damage": "d8",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

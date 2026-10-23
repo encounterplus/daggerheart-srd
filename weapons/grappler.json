@@ -1,0 +1,19 @@
+{
+  "id": "474910e4-8404-561b-9db8-ec24b9c2e12e",
+  "name": "Grappler",
+  "data": {
+    "tier": 1,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "close",
+    "damage": "d6",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

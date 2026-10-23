@@ -1,0 +1,47 @@
+{
+  "id": "e567ee04-73f0-5d78-9247-9035273e2c68",
+  "name": "Common Ruffian",
+  "descr": "A local laborer or artisan pushed by circumstances to assail others.",
+  "data": {
+    "tier": 1,
+    "type": "standard",
+    "motivesAndTactics": "Do violence, seek security and survival",
+    "difficulty": 12,
+    "thresholds": {
+      "major": 6,
+      "severe": 10
+    },
+    "hp": 4,
+    "stress": 4,
+    "attackModifier": 0,
+    "attack": {
+      "name": "Improvised Weapon",
+      "range": "melee",
+      "damage": "1d8",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Desperate",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Group Attack",
+        "type": "action",
+        "text": "**Spend a Fear** to choose a target and spotlight all Ruffians within Close range of them. The Ruffians move into Melee range of the target and make one shared attack roll. On a success, they deal **1d8** physical damage each. Combine this damage."
+      },
+      {
+        "name": "Survival Instinct",
+        "type": "reaction",
+        "text": "When the Ruffian marks half their HP, roll a **d6**. On a result of 4 or higher, the Ruffian flees the scene. Otherwise, you gain a Fear."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

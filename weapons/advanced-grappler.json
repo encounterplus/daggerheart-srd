@@ -1,0 +1,19 @@
+{
+  "id": "58f06087-670e-5c07-bc60-07f21fcb4f1e",
+  "name": "Advanced Grappler",
+  "data": {
+    "tier": 3,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "close",
+    "damage": "d6+4",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

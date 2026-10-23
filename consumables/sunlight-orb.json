@@ -1,0 +1,10 @@
+{
+  "id": "73677b3d-8360-55ff-a65b-30a02007ae15",
+  "name": "Sunlight Orb",
+  "descr": "You can shatter this orb to make the area within Very Far range appear as though it's sunlit daytime for the next 24 hours.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

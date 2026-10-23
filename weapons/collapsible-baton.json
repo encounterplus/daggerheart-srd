@@ -1,0 +1,19 @@
+{
+  "id": "1bddec5e-6174-5614-81b9-aaea1ca89920",
+  "name": "Collapsible Baton",
+  "data": {
+    "tier": 2,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d8",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

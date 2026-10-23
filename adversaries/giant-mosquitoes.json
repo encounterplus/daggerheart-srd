@@ -1,0 +1,53 @@
+{
+  "id": "434a31be-84eb-5ce2-9309-cd26ad438670",
+  "name": "Giant Mosquitoes",
+  "descr": "Dozens of fist-sized mosquitoes, flying together for protection.",
+  "data": {
+    "tier": 1,
+    "type": "horde",
+    "typeDetail": "5/HP",
+    "motivesAndTactics": "Fly away, harass, steal blood",
+    "difficulty": 10,
+    "thresholds": {
+      "major": 5,
+      "severe": 9
+    },
+    "hp": 6,
+    "stress": 3,
+    "attackModifier": -2,
+    "attack": {
+      "name": "Proboscis",
+      "range": "melee",
+      "damage": "1d8+3",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Camouflage",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Horde (1d4+1)",
+        "type": "passive",
+        "text": "When the Mosquitoes have marked half or more of their HP, their standard attack deals **1d4+1** physical damage instead."
+      },
+      {
+        "name": "Flying",
+        "type": "passive",
+        "text": "While flying, the Mosquitoes have a +2 bonus to their Difficulty."
+      },
+      {
+        "name": "Bloodsucker",
+        "type": "reaction",
+        "text": "When the Mosquitoes' attack causes a target to mark HP, you can **mark a Stress** to force the target to mark an additional HP."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

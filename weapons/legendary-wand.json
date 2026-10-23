@@ -1,0 +1,19 @@
+{
+  "id": "7c8da495-3aca-5d23-b2e3-8c690de61b69",
+  "name": "Legendary Wand",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "magic",
+    "trait": "knowledge",
+    "range": "far",
+    "damage": "d6+10",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

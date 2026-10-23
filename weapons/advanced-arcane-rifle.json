@@ -1,0 +1,19 @@
+{
+  "id": "cd6e82ea-2fd6-5b6a-b35e-c6bfd73b3d8e",
+  "name": "Advanced Arcane Rifle",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "magic",
+    "trait": "agility",
+    "range": "veryFar",
+    "damage": "d10+9",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

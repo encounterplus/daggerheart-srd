@@ -1,0 +1,19 @@
+{
+  "id": "cf1cbd35-1368-5b53-b5e3-1a1b6d75cea5",
+  "name": "Ego Blade",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "magic",
+    "trait": "agility",
+    "range": "melee",
+    "damage": "d12+4",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

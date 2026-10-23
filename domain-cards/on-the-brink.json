@@ -1,0 +1,16 @@
+{
+  "id": "23d0b7e7-90d0-524f-8574-1c8c148e9a74",
+  "name": "On the Brink",
+  "descr": "When you have 2 or fewer Hit Points unmarked, you don't take Minor damage.",
+  "data": {
+    "level": 9,
+    "recall": 1,
+    "type": "ability",
+    "domain": "bone"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

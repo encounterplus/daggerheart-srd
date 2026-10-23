@@ -1,0 +1,17 @@
+{
+  "id": "fdaef3ad-0f4d-5344-9b8e-5230481028c3",
+  "name": "Advanced Gambeson Armor",
+  "data": {
+    "tier": 3,
+    "thresholds": {
+      "major": 9,
+      "severe": 23
+    },
+    "score": 5
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "40687aed-8082-51d5-a4eb-105c4b2f24cb",
+  "name": "Glowmoss Mushroom",
+  "descr": "You can break this mushroom into pieces, causing it to glow bright blue until your next long rest.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

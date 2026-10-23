@@ -1,0 +1,10 @@
+{
+  "id": "2d030fa4-7230-5063-9589-1e4bf6d1533f",
+  "name": "Windup Toy",
+  "descr": "This small mechanical device is shaped like a strixwolf pup and can be programmed to perform simple tricks.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

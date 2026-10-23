@@ -1,0 +1,19 @@
+{
+  "id": "d426c233-5c4c-5fe7-9f2a-7030126a8e87",
+  "name": "Improved Scimitar",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "presence",
+    "range": "melee",
+    "damage": "d8+4",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

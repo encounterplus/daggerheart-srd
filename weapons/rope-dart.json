@@ -1,0 +1,19 @@
+{
+  "id": "e6805e98-9c32-5ee7-9031-5b7959fd46f6",
+  "name": "Rope Dart",
+  "data": {
+    "tier": 1,
+    "category": "primary",
+    "type": "physical",
+    "trait": "instinct",
+    "range": "close",
+    "damage": "d6+1",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

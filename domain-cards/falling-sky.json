@@ -1,0 +1,16 @@
+{
+  "id": "28fc822c-589e-593f-8047-002c60267241",
+  "name": "Falling Sky",
+  "descr": "Make a **Spellcast Roll** against all adversaries within Far range. **Mark any number of Stress** to make shards of arcana rain down from above. Targets you succeed against take **1d20+2** magic damage for each Stress marked.",
+  "data": {
+    "level": 10,
+    "recall": 1,
+    "type": "spell",
+    "domain": "arcana"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

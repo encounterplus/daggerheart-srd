@@ -1,0 +1,43 @@
+{
+  "id": "a435ab1f-f92d-5708-932a-9b7a578f4e11",
+  "name": "Swarm Of Rats",
+  "descr": "A skittering mass of ordinary rodents moving as one like a ravenous wave.",
+  "data": {
+    "tier": 1,
+    "type": "horde",
+    "typeDetail": "10/HP",
+    "motivesAndTactics": "Consume, obscure, swarm",
+    "difficulty": 10,
+    "thresholds": {
+      "major": 6,
+      "severe": 10
+    },
+    "hp": 6,
+    "stress": 2,
+    "attackModifier": -3,
+    "attack": {
+      "name": "Claws",
+      "range": "melee",
+      "damage": "1d8+2",
+      "damageType": "phy"
+    },
+    "experience": [],
+    "features": [
+      {
+        "name": "Horde (1d4+1)",
+        "type": "passive",
+        "text": "When the Swarm has marked half or more of their HP, their standard attack deals **1d4+1** physical damage instead."
+      },
+      {
+        "name": "In Your Face",
+        "type": "passive",
+        "text": "All targets within Melee range have disadvantage on attacks against targets other than the Swarm."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

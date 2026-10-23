@@ -1,0 +1,16 @@
+{
+  "id": "e9efd82a-6745-51ea-8863-83635e2046ff",
+  "name": "Critical Inspiration",
+  "descr": "Once per rest, when you critically succeed on an attack, all allies within Very Close range can clear a Stress or gain a Hope.",
+  "data": {
+    "level": 3,
+    "recall": 1,
+    "type": "ability",
+    "domain": "valor"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

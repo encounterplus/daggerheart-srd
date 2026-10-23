@@ -1,0 +1,10 @@
+{
+  "id": "ecc67363-9821-5686-bc68-93d47bacea92",
+  "name": "Titan’s Girdle",
+  "descr": "Once per scene, you can activate this girdle to gain a +1 bonus to your Proficiency for your next attack.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

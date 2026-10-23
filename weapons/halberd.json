@@ -1,0 +1,19 @@
+{
+  "id": "13d907e6-7cba-5559-a7ea-07bcb67a72df",
+  "name": "Halberd",
+  "data": {
+    "tier": 1,
+    "category": "primary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "veryClose",
+    "damage": "d10+2",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

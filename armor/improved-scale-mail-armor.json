@@ -1,0 +1,17 @@
+{
+  "id": "21e48a5a-7ff2-57f2-bf3c-4aa4eccd61ac",
+  "name": "Improved Scale Mail Armor",
+  "data": {
+    "tier": 2,
+    "thresholds": {
+      "major": 11,
+      "severe": 23
+    },
+    "score": 4
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

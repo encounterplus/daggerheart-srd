@@ -1,0 +1,16 @@
+{
+  "id": "a2d1c6ad-e3cc-5396-9259-e6080d219c5f",
+  "name": "Adjust Reality",
+  "descr": "After you or a willing ally make any roll, you can **spend 5 Hope** to change the numerical result of that roll to a result of your choice instead. The result must be plausible within the range of the dice.",
+  "data": {
+    "level": 10,
+    "recall": 1,
+    "type": "spell",
+    "domain": "arcana"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

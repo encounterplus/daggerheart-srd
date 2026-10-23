@@ -1,0 +1,19 @@
+{
+  "id": "ac79cb87-93fb-5d25-b316-aa3b5574a174",
+  "name": "Advanced Throwing Knives",
+  "data": {
+    "tier": 3,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "melee",
+    "damage": "d8+4",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

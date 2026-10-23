@@ -1,0 +1,19 @@
+{
+  "id": "3467cfbb-499a-5236-af7f-303ac23bf20f",
+  "name": "Hand Cannon",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "veryFar",
+    "damage": "d6+12",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "9b1e9935-cc10-5a50-91fb-1df5a019b3e3",
+  "name": "Featherstep Potion",
+  "descr": "You can drink this potion to sprout small wings from your ankles that give you a bonus to your Evasion equal to your tier until your next rest.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

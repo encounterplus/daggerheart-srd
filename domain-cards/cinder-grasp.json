@@ -1,0 +1,16 @@
+{
+  "id": "8ab2d75f-c24d-5f96-9ff1-0fa3f8c914d8",
+  "name": "Cinder Grasp",
+  "descr": "Make a **Spellcast Roll** against a target within Melee range. On a success, the target instantly bursts into flames, takes **1d20+3** magic damage, and is temporarily lit _On Fire_.\n\nWhen a creature acts while _On Fire_, they must take an extra **2d6** magic damage if they are still _On Fire_ at the end of their action.",
+  "data": {
+    "level": 2,
+    "recall": 1,
+    "type": "spell",
+    "domain": "arcana"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

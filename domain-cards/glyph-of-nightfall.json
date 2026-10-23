@@ -1,0 +1,16 @@
+{
+  "id": "c142f930-c791-5e4f-9a99-84f91130d745",
+  "name": "Glyph of Nightfall",
+  "descr": "Make a **Spellcast Roll** against a target within Very Close range. On a success, **spend a Hope** to conjure a dark glyph upon their body that exposes their weak points, temporarily reducing the target's Difficulty by a value equal to your Knowledge (minimum 1).",
+  "data": {
+    "level": 4,
+    "recall": 1,
+    "type": "spell",
+    "domain": "midnight"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

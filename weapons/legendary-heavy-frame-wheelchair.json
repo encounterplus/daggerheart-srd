@@ -1,0 +1,19 @@
+{
+  "id": "08abf563-193c-546d-a8a6-6e0cba4dcd82",
+  "name": "Legendary Heavy-frame Wheelchair",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d12+12",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

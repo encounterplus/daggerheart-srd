@@ -1,0 +1,52 @@
+{
+  "id": "328f6586-45dd-55a2-85c4-91bcc6ee5526",
+  "name": "Dragon Knight",
+  "descr": "A knight clad in dragonplate armor and a helmet in the shape of a dragon's head.",
+  "data": {
+    "tier": 2,
+    "type": "bruiser",
+    "motivesAndTactics": "Exploit an opening, get some distance, knock enemies off-balance, strike from above",
+    "difficulty": 15,
+    "thresholds": {
+      "major": 15,
+      "severe": 30
+    },
+    "hp": 5,
+    "stress": 3,
+    "attackModifier": 2,
+    "attack": {
+      "name": "Lance",
+      "range": "veryClose",
+      "damage": "2d12+3",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Jousts",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "High Ground",
+        "type": "passive",
+        "text": "The Knight gains advantage on attacks made against targets below them."
+      },
+      {
+        "name": "Leaping Strike",
+        "type": "action",
+        "text": "**Mark a Stress** to have the Knight leap into Melee range of a target within Far range and make a standard attack against them. On a success, the attack deals an extra **1d12** damage, and the target must mark an Armor Slot without receiving its benefits (they can still use armor to reduce the damage)."
+      },
+      {
+        "name": "Comeback",
+        "type": "reaction",
+        "text": "When the Knight fails a standard attack, you can **spend a Fear** to reroll the attack with advantage."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "8f0ed706-426d-5de4-8078-7c62e4b32e53",
+  "name": "Death Grip",
+  "descr": "Make a **Spellcast Roll** against a target within Close range and choose one of the following options:\n\n- You pull the target into Melee range or pull yourself into Melee range of them.\n- You constrict the target and force them to mark 2 Stress.\n- All adversaries between you and the target must succeed on a Reaction Roll (13) or be hit by vines, taking **3d6+2** physical damage.\n\nOn a success, vines reach out from your hands, causing the chosen effect and temporarily _Restraining_ the target.",
+  "data": {
+    "level": 4,
+    "recall": 1,
+    "type": "spell",
+    "domain": "sage"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

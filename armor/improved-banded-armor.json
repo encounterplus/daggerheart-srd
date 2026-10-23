@@ -1,0 +1,17 @@
+{
+  "id": "f4f18be9-d995-545f-b060-9b5f11ea4686",
+  "name": "Improved Banded Armor",
+  "data": {
+    "tier": 2,
+    "thresholds": {
+      "major": 13,
+      "severe": 27
+    },
+    "score": 5
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

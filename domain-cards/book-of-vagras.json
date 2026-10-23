@@ -1,0 +1,16 @@
+{
+  "id": "c33ac262-0854-59bd-85c2-939c80858aa0",
+  "name": "Book of Vagras",
+  "descr": "_Runic Lock:_ Make a **Spellcast Roll (15)** on an object you're touching that can close (such as a lock, chest, or box). Once per rest on a success, you can lock the object so it can only be opened by creatures of your choice. Someone with access to magic and an hour of time to study the spell can break it.\n\n_Arcane Door:_ When you have no adversaries within Melee range, make a **Spellcast Roll (13)**. On a success, **spend a Hope** to create a portal from where you are to a point within Far range you can see. It closes once a creature has passed through it.\n\n_Reveal:_ Make a **Spellcast Roll**. If there is anything magically hidden within Close range, it is revealed.",
+  "data": {
+    "level": 2,
+    "recall": 2,
+    "type": "grimoire",
+    "domain": "codex"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

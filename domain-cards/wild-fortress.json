@@ -1,0 +1,16 @@
+{
+  "id": "807a5bb6-08e1-5226-8fbe-41a124a5ae3c",
+  "name": "Wild Fortress",
+  "descr": "Make a **Spellcast Roll (13)**. On a success, **spend 2 Hope** to grow a natural barricade in the shape of a dome that you and one ally can take cover within. While inside the dome, a creature can't be targeted by attacks and can't make attacks. Attacks made against the dome automatically succeed. The dome has the following damage thresholds and lasts until it marks 3 Hit Points. Place tokens on this card to represent marking Hit Points.\n\nThresholds: 15/30",
+  "data": {
+    "level": 5,
+    "recall": 1,
+    "type": "spell",
+    "domain": "sage"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

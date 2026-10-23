@@ -1,0 +1,19 @@
+{
+  "id": "867b2260-92fc-5012-93e0-951f556119d5",
+  "name": "Segmented Staff",
+  "data": {
+    "tier": 2,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "veryClose",
+    "damage": "d6+4",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

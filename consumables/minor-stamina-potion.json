@@ -1,0 +1,10 @@
+{
+  "id": "16070ce3-da13-5e68-9277-6c91fec427e0",
+  "name": "Minor Stamina Potion",
+  "descr": "Clear 1d4 Stress.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

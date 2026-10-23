@@ -1,0 +1,37 @@
+{
+  "id": "0d0f29ca-0656-57cb-b05f-2f5b2f3eaa97",
+  "name": "Aquatic Predator",
+  "data": {
+    "tier": 3,
+    "examples": "Dolphin, Orca, Shark, etc.",
+    "trait": "agility",
+    "traitModifier": 2,
+    "evasionModifier": 4,
+    "attack": {
+      "range": "melee",
+      "trait": "agility",
+      "damage": "d10+6",
+      "damageType": "phy"
+    },
+    "advantages": [
+      "attack",
+      "swim",
+      "track"
+    ],
+    "features": [
+      {
+        "name": "Aquatic",
+        "text": "You can breathe and move naturally underwater."
+      },
+      {
+        "name": "Vicious Maul",
+        "text": "When you succeed on an attack against a target, you can **spend a Hope** to make them _Vulnerable_ and gain a +1 bonus to your Proficiency for this attack."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

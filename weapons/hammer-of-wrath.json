@@ -1,0 +1,19 @@
+{
+  "id": "3ea5d32e-6c9f-5b21-b407-5808989b361c",
+  "name": "Hammer Of Wrath",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d10+7",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

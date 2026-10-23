@@ -1,0 +1,17 @@
+{
+  "id": "01b5e079-ede4-59f1-90af-77b5d711647e",
+  "name": "Advanced Full Plate Armor",
+  "data": {
+    "tier": 3,
+    "thresholds": {
+      "major": 15,
+      "severe": 35
+    },
+    "score": 6
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

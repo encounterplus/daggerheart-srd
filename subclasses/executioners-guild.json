@@ -1,0 +1,44 @@
+{
+  "id": "5a1383e1-3b01-52bb-bc25-300a79130eb8",
+  "name": "Executioners Guild",
+  "descr": "Play the Executioners Guild if you want to strike down your targets with lethal precision.",
+  "data": {
+    "class": "Assassin",
+    "spellcastTrait": "agility",
+    "foundations": [
+      {
+        "name": "First Strike",
+        "text": "The first time in a scene you succeed on an attack, you deal double damage."
+      },
+      {
+        "name": "Ambush",
+        "text": "Your \"Marked for Death\" feature uses **d6s** instead of d4s."
+      }
+    ],
+    "specializations": [
+      {
+        "name": "Death Strike",
+        "text": "When you deal Severe damage to a creature, you can **mark a Stress** to force them to mark an additional Hit Point."
+      },
+      {
+        "name": "Scorpion's Poise",
+        "text": "You gain a +2 bonus to your Evasion against attacks made by a creature you've _Marked for_ _Death_."
+      }
+    ],
+    "masteries": [
+      {
+        "name": "True Strike",
+        "text": "Once per long rest when you fail an attack, you can **spend a Hope** to make it a success instead."
+      },
+      {
+        "name": "Backstab",
+        "text": "Your \"Marked for Death\" feature uses **d8s** instead of d6s."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

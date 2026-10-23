@@ -1,0 +1,19 @@
+{
+  "id": "4f820637-834c-5a70-9bfd-31ea47a8dd25",
+  "name": "Legendary Fighting Cloak",
+  "data": {
+    "tier": 4,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "presence",
+    "range": "melee",
+    "damage": "d4+6",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

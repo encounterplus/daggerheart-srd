@@ -1,0 +1,63 @@
+{
+  "id": "e9c2b6e8-d152-58c0-8ff8-377609c71a7e",
+  "name": "Demon Lord Berzug",
+  "descr": "The ruler of a deep circle in the Circles Below and a huge hybrid beast with a serpent's tail, a lizard's hind legs, a crab's claw arms, and a two-faced wolf's head.",
+  "data": {
+    "tier": 4,
+    "type": "solo",
+    "motivesAndTactics": "Destroy goodness, sow chaos, unseat rivals",
+    "difficulty": 20,
+    "thresholds": {
+      "major": 35,
+      "severe": 70
+    },
+    "hp": 12,
+    "stress": 8,
+    "attackModifier": 8,
+    "attack": {
+      "name": "Abyssal Claws",
+      "range": "close",
+      "damage": "4d12+10",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Infernal Knowledge",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Relentless",
+        "nameDetail": "3",
+        "type": "passive",
+        "text": "Berzug can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them."
+      },
+      {
+        "name": "Chaos Lash",
+        "type": "action",
+        "text": "**Mark a Stress** to have Berzug lash at up to three PCs within Close range and force each target to make an Agility Reaction Roll. Targets who fail take **4d20** physical damage. Targets who succeed take half damage."
+      },
+      {
+        "name": "Gaze into the Abyss",
+        "type": "action",
+        "text": "**Spend a Fear** to have Berzug lock eyes with a PC within Far range. The target must succeed on a Presence Reaction Roll or gain one of the following conditions (roll a **d6** and use the corresponding result):  \n1-2: _Mesmerized._ The target immediately moves into Melee range of Berzug and is _Vulnerable_ and _Restrained_ until they clear the condition with a successful Instinct Roll.  \n3-4: _Confused._ The target must mark a Stress each time they make an action roll until they clear the condition with a successful Knowledge Roll.  \n5-6: _Enthralled._ Until the PC makes a successful Presence Roll to clear the condition, you can spotlight them during a GM turn as if they were an adversary. When you do so, choose a target within Close range of the _Enthralled_ PC. The _Enthralled_ PC moves into Melee range of the target and makes a weapon attack against them using a **d20** instead of Duality Dice."
+      },
+      {
+        "name": "Crushing Strike",
+        "type": "reaction",
+        "text": "When a PC marks HP from Berzug's standard attack, you can **mark a Stress** to force them to mark a number of Stress equal to the number of HP they marked. You gain a Fear."
+      },
+      {
+        "name": "Horrifying",
+        "type": "reaction",
+        "text": "When a PC fails an attack against Berzug, you gain a Fear."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

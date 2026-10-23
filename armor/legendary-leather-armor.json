@@ -1,0 +1,17 @@
+{
+  "id": "e6dc7426-5970-5eb8-b935-a16c3535044c",
+  "name": "Legendary Leather Armor",
+  "data": {
+    "tier": 4,
+    "thresholds": {
+      "major": 13,
+      "severe": 36
+    },
+    "score": 6
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

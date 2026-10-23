@@ -1,0 +1,17 @@
+{
+  "id": "b7e65c0a-234b-574f-b686-ec78644265c8",
+  "name": "Granminster’s Finery",
+  "data": {
+    "tier": 3,
+    "thresholds": {
+      "major": 11,
+      "severe": 27
+    },
+    "score": 2
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

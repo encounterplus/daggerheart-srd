@@ -1,0 +1,19 @@
+{
+  "id": "2ffa93e8-d863-5704-8569-47167d40c019",
+  "name": "Enchanted Shillelagh",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "magic",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d8+3",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

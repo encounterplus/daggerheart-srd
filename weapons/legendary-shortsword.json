@@ -1,0 +1,19 @@
+{
+  "id": "447b0cb7-63d6-576c-b91b-ef8633cbbbb4",
+  "name": "Legendary Shortsword",
+  "data": {
+    "tier": 4,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "melee",
+    "damage": "d8+6",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "c7ece54a-6b65-5019-ac04-03f38db1517a",
+  "name": "Drake",
+  "descr": "A clawed quadruped that has a scaled, serpentine body and a willingness to serve its cousins, the dragons.",
+  "data": {
+    "tier": 3,
+    "type": "skulk",
+    "motivesAndTactics": "Coil and crush, protect master, slither around lairs and ruins, strike first",
+    "difficulty": 14,
+    "thresholds": {
+      "major": 16,
+      "severe": 30
+    },
+    "hp": 5,
+    "stress": 3,
+    "attackModifier": 4,
+    "attack": {
+      "name": "Claws & Teeth",
+      "range": "melee",
+      "damage": "3d8+5",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Vicious",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Relentless",
+        "nameDetail": "2",
+        "type": "passive",
+        "text": "The Drake can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight it."
+      },
+      {
+        "name": "Guard Dog",
+        "type": "reaction",
+        "text": "When a PC would deal damage to a creature within Close range, you can **mark a Stress** to have the Drake move to intercept the attack and take the damage instead. If the attacker is within Melee range of the Drake's new position, you can immediately spotlight the Drake without spending Fear."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

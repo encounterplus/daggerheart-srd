@@ -1,0 +1,37 @@
+{
+  "id": "9459e9fd-17c3-5caa-aa6e-dc20bce5220d",
+  "name": "Mighty Lizard",
+  "data": {
+    "tier": 3,
+    "examples": "Alligator, Crocodile, Gila Monster, etc.",
+    "trait": "instinct",
+    "traitModifier": 2,
+    "evasionModifier": 1,
+    "attack": {
+      "range": "melee",
+      "trait": "instinct",
+      "damage": "d10+7",
+      "damageType": "phy"
+    },
+    "advantages": [
+      "attack",
+      "sneak",
+      "track"
+    ],
+    "features": [
+      {
+        "name": "Physical Defense",
+        "text": "You gain a +3 bonus to your damage thresholds."
+      },
+      {
+        "name": "Snapping Strike",
+        "text": "When you succeed on an attack against a target within Melee range, you can **spend a Hope** to clamp that opponent in your jaws, making them temporarily _Restrained_ and _Vulnerable._"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

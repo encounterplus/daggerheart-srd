@@ -1,0 +1,19 @@
+{
+  "id": "a68f8d86-724e-555e-9ac3-bab4d7d6683d",
+  "name": "Advanced Hand Runes",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "magic",
+    "trait": "instinct",
+    "range": "veryClose",
+    "damage": "d10+6",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "3377799d-9d28-5e55-b73c-f660833cbc6f",
+  "name": "Bustling Marketplace",
+  "descr": "The economic heart of the settlement, with local artisans, traveling merchants, and patrons across social classes.",
+  "data": {
+    "tier": 1,
+    "type": "social",
+    "impulses": "Buy low, and sell high, tempt and tantalize with wares from near and far",
+    "difficulty": "10",
+    "adversaries": "Guards (Bladed Guard, Head Guard), Masked Thief, Merchant",
+    "features": [
+      {
+        "name": "Tip the Scales",
+        "type": "passive",
+        "text": "PCs can gain advantage on a Presence Roll by offering a handful of gold as part of the interaction.\n\nWill any coin be accepted, or only local currency? How overt are the PCs in offering this bribe?"
+      },
+      {
+        "name": "Unexpected Find",
+        "type": "action",
+        "text": "Reveal to the PCs that one of the merchants has something they want or need, such as food from their home, a rare book, magical components, a dubious treasure map, or a magical key.\n\nWhat cost beyond gold will the merchant ask for in exchange for this rarity?"
+      },
+      {
+        "name": "Sticky Fingers",
+        "type": "action",
+        "text": "A thief tries to steal something from a PC. The PC must succeed on an Instinct Roll to notice the thief or lose an item of the GM's choice as the thief escapes to a Close distance. To retrieve the stolen item, the PCs must complete a Progress Countdown (6) to chase down the thief before the thief completes a Consequence Countdown (4) and escapes to their hideout.\n\nWhat drove this person to pickpocketing? Where is the thief's hideout and how has it avoided notice?"
+      },
+      {
+        "name": "Crowd Closes In",
+        "type": "reaction",
+        "text": "When one of the PCs splits from the group, the crowds shift and cut them off from the party.\n\nWhere does the crowd's movement carry them? How do they feel about being alone but surrounded?"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2b2fd4e4-2f79-5252-a147-9c216a5644e6",
+  "name": "Untouchable",
+  "descr": "Gain a bonus to your Evasion equal to half your Agility.",
+  "data": {
+    "level": 1,
+    "recall": 1,
+    "type": "ability",
+    "domain": "bone"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

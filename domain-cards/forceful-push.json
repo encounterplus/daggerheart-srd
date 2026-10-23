@@ -1,0 +1,16 @@
+{
+  "id": "d1c5c65e-e738-5e36-ab66-243b75665233",
+  "name": "Forceful Push",
+  "descr": "Make an attack with your primary weapon against a target within Melee range. On a success, you deal damage and knock them back to Close range. On a success with Hope, add a **d6** to your damage roll.\n\nAdditionally, you can **spend a Hope** to make them temporarily _Vulnerable_.",
+  "data": {
+    "level": 1,
+    "recall": 0,
+    "type": "ability",
+    "domain": "valor"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

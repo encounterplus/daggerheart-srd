@@ -1,0 +1,16 @@
+{
+  "id": "76aeeb85-eeb3-5975-84b0-aea11def3bbf",
+  "name": "Not Good Enough",
+  "descr": "When you roll your damage dice, you can reroll any 1s or 2s.",
+  "data": {
+    "level": 1,
+    "recall": 1,
+    "type": "ability",
+    "domain": "blade"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

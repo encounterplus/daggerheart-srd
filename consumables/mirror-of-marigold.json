@@ -1,0 +1,10 @@
+{
+  "id": "aadf02c9-da20-5059-81e6-7e5235d31da3",
+  "name": "Mirror Of Marigold",
+  "descr": "When you take damage, you can spend a Hope to negate that damage, after which the mirror shatters.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

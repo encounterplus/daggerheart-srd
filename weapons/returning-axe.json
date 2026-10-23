@@ -1,0 +1,19 @@
+{
+  "id": "c51413b1-1b07-531c-9a8e-0973bda58fc5",
+  "name": "Returning Axe",
+  "data": {
+    "tier": 2,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "close",
+    "damage": "d6+4",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

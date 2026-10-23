@@ -1,0 +1,42 @@
+{
+  "id": "5036f569-e4d9-5536-86e3-2d6581eaf57f",
+  "name": "Cult Fang",
+  "descr": "A professional killer-turned-cultist.",
+  "data": {
+    "tier": 2,
+    "type": "skulk",
+    "motivesAndTactics": "Capture sacrifices, isolate prey, rise in the ranks",
+    "difficulty": 15,
+    "thresholds": {
+      "major": 9,
+      "severe": 17
+    },
+    "hp": 4,
+    "stress": 4,
+    "attackModifier": 2,
+    "attack": {
+      "name": "Long Knife",
+      "range": "melee",
+      "damage": "2d8+4",
+      "damageType": "phy"
+    },
+    "experience": [],
+    "features": [
+      {
+        "name": "Shadow's Embrace",
+        "type": "passive",
+        "text": "The Fang can climb and walk on vertical surfaces. **Mark a Stress** to move from one shadow to another within Far range."
+      },
+      {
+        "name": "Pick Off the Straggler",
+        "type": "action",
+        "text": "**Mark a Stress** to cause a target within Melee range to make an Instinct Reaction Roll. On a failure, the target must mark 2 Stress and is teleported with the Fang to a shadow within Far range, making them temporarily _Vulnerable_. On a success, the target must mark a Stress."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

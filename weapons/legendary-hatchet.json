@@ -1,0 +1,19 @@
+{
+  "id": "9583a0d8-6828-5235-bb82-14750a7894d9",
+  "name": "Legendary Hatchet",
+  "data": {
+    "tier": 4,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "melee",
+    "damage": "d8+6",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

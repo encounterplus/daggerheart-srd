@@ -1,0 +1,10 @@
+{
+  "id": "5303af57-229f-5ff9-9d08-8413b46e7b7a",
+  "name": "Salamander Salve",
+  "descr": "You can apply this salve to your skin to make yourself immune to heat until your next rest.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

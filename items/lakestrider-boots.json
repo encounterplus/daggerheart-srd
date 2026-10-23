@@ -1,0 +1,10 @@
+{
+  "id": "33ee46fc-d14d-5988-8c30-7e69e7bb4a66",
+  "name": "Lakestrider Boots",
+  "descr": "You can walk on the surface of water as if it were soft ground.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

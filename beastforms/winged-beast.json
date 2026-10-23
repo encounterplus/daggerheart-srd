@@ -1,0 +1,37 @@
+{
+  "id": "e5c58006-c47b-5e9b-97ed-3ded063e2c5f",
+  "name": "Winged Beast",
+  "data": {
+    "tier": 2,
+    "examples": "Hawk, Owl, Raven, etc.",
+    "trait": "finesse",
+    "traitModifier": 1,
+    "evasionModifier": 3,
+    "attack": {
+      "range": "melee",
+      "trait": "finesse",
+      "damage": "d4+2",
+      "damageType": "phy"
+    },
+    "advantages": [
+      "deceive",
+      "locate",
+      "scare"
+    ],
+    "features": [
+      {
+        "name": "Bird's-Eye View",
+        "text": "You can fly at will. Once per rest while you are airborne, you can ask the GM a question about the scene below you without needing to roll. The first time a character makes a roll to act on this information, they gain advantage on the roll."
+      },
+      {
+        "name": "Hollow Bones",
+        "text": "You gain a -2 penalty to your damage thresholds."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

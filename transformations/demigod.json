@@ -1,0 +1,23 @@
+{
+  "id": "c614ffac-d9f2-56c2-90d8-f735469c94c2",
+  "name": "Demigod",
+  "descr": "Demigods are mortal creatures whose veins flow with the blood of the gods. They typically gain their power from divine parentage, accomplishing an incredible feat, or receiving a gift from a god. Many demigods appear as a typical member of their mortal ancestry, but all possess a subtle luminosity and a gleam in their eyes. They’re also known to have pearlescent or metallic skin, and they might grow in size or gain physical features related to their power when it reveals itself. Because they share the blood of a Faint Divinity, a Forgotten God, a New God, or any other deity, no two demigods look the same.\n\nDemigods are bestowed with a fragment of deific power, but not everything a demigod inherits is a blessing. Though they often excel at tasks they’re well suited for, the expectations set upon them are often difficult and costly to live up to.",
+  "data": {
+    "features": [
+      {
+        "name": "Gifted",
+        "text": "You gain a +1 bonus to action, reaction, and damage rolls."
+      },
+      {
+        "name": "Weight of Divinity",
+        "text": "When you fail a roll, you must mark a Stress or the GM gains a Fear."
+      }
+    ],
+    "questions": "- Your divinity has affected an aspect of your appearance. In what way do you look different from others?\n\n- Who bestowed demigod status upon you, and what trial did you complete to earn this gift?\n\n- You were made fun of as a child for your divine parentage. Why?\n\n- Why was the knowledge that you are a demigod kept from you for many years? Who kept this secret?\n\n- You have an obligation you must fulfill due to the immortal blood that runs in your veins. What is this duty?\n\n- In what way did your divinity initially manifest? Why did it surprise you?\n\n"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "6658fa3d-24da-53ad-87f7-8854b2fb3c33",
+  "name": "Archmage’s Tower",
+  "descr": "An impossibly tall spire that pierces the heavens and resonates with immense power.",
+  "data": {
+    "tier": 3,
+    "type": "exploration",
+    "impulses": "Collect magical energy, exhaust intruders, reveal the unknown, unleash bursts of magical power",
+    "difficulty": "16",
+    "adversaries": "Alchemical Creations (Chimera, Lamia, *Manticore*), *Archmage*",
+    "features": [
+      {
+        "name": "Mystical Defenses",
+        "type": "passive",
+        "text": "_Countdown (12)_. To climb the tower, the PCs must complete the countdown. On a failure or a roll with Fear, they trigger one of the archmage's many arcane traps and hazards, taking **3d10** magic damage. On a failure with Fear, the damage dealt gains a bonus equal to the PC's level.\n\nWhat do the designs of the archmage's defenses tell you about their specific area of expertise? What signature style or flourish do the traps and hazards all share?"
+      },
+      {
+        "name": "Archmage's Aerie",
+        "type": "passive",
+        "text": "The top floor of the tower is a many-chambered laboratory, library, and workshop containing everything needed to study magic in its highest forms. A PC with a Spellcast Trait can make a Knowledge Roll to partake in the archmage's research. On a success, they gain a +1 bonus to their Spellcast Rolls until their next long rest. On a failure, their investigation goes wrong, and they take **3d8+4** magic damage.\n\nWhat part of the aerie calls to you? What do the archmage's notes reveal to you?"
+      },
+      {
+        "name": "Amalgamated Adversaries",
+        "type": "reaction",
+        "text": "**Spend a Fear** to summon two adversaries within Close range of a PC. Each adversary can use the other's features as if they were their own.\n\nWhich creatures has the archmage chosen to combine? What do they hope to learn in doing so?"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

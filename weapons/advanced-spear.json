@@ -1,0 +1,19 @@
+{
+  "id": "9910c38e-b200-52b3-b7e7-3598dda1ccb8",
+  "name": "Advanced Spear",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "veryClose",
+    "damage": "d8+9",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

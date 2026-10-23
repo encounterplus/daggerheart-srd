@@ -1,0 +1,17 @@
+{
+  "id": "e1f4ee2b-8c93-53a2-8edb-e18a66564e9d",
+  "name": "Astral Raiment",
+  "data": {
+    "tier": 3,
+    "thresholds": {
+      "major": 11,
+      "severe": 27
+    },
+    "score": 5
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

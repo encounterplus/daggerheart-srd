@@ -1,0 +1,37 @@
+{
+  "id": "454b2fcf-1965-5d59-83e2-f7eac59e9a37",
+  "name": "Stalking Arachnid",
+  "data": {
+    "tier": 1,
+    "examples": "Tarantula, Wolf Spider, etc.",
+    "trait": "finesse",
+    "traitModifier": 1,
+    "evasionModifier": 2,
+    "attack": {
+      "range": "melee",
+      "trait": "finesse",
+      "damage": "d6+1",
+      "damageType": "phy"
+    },
+    "advantages": [
+      "attack",
+      "climb",
+      "sneak"
+    ],
+    "features": [
+      {
+        "name": "Venomous Bite",
+        "text": "When you succeed on an attack against a target within Melee range, the target becomes temporarily _Poisoned_. A _Poisoned_ creature takes **1d10** direct physical damage each time they act."
+      },
+      {
+        "name": "Webslinger",
+        "text": "You can create a strong web material useful for both adventuring and battle. The web is resilient enough to support one creature. You can temporarily _Restrain_ a target within Close range by succeeding on a Finesse Roll against them."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

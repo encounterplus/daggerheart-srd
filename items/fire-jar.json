@@ -1,0 +1,10 @@
+{
+  "id": "5b024d4b-ba19-53c4-802a-22ea0018ef77",
+  "name": "Fire Jar",
+  "descr": "You can pour out the strange liquid contents of this jar to instantly produce fire. The contents regenerate when you take a long rest.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

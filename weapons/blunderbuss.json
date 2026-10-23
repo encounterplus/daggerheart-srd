@@ -1,0 +1,19 @@
+{
+  "id": "e84fa913-2201-5b96-be45-df8d49742230",
+  "name": "Blunderbuss",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "close",
+    "damage": "d8+6",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

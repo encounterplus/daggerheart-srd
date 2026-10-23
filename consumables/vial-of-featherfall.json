@@ -1,0 +1,10 @@
+{
+  "id": "86860bcc-3d53-5350-97d7-43029d789337",
+  "name": "Vial Of Featherfall",
+  "descr": "You can drink this potion to ignore damage from falling for the next 10 minutes.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

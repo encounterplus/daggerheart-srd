@@ -1,0 +1,37 @@
+{
+  "id": "5e0841ab-fa41-556e-924c-7a67b6c004d1",
+  "name": "Aquatic Scout",
+  "data": {
+    "tier": 1,
+    "examples": "Eel, Fish, Octopus, etc.",
+    "trait": "agility",
+    "traitModifier": 1,
+    "evasionModifier": 2,
+    "attack": {
+      "range": "melee",
+      "trait": "agility",
+      "damage": "d4",
+      "damageType": "phy"
+    },
+    "advantages": [
+      "navigate",
+      "sneak",
+      "swim"
+    ],
+    "features": [
+      {
+        "name": "Aquatic",
+        "text": "You can breathe and move naturally underwater."
+      },
+      {
+        "name": "Fragile",
+        "text": "When you take Major or greater damage, you drop out of Beastform."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "07b74a01-b8ac-5e5a-b13d-20996d7dda3f",
+  "name": "Thief’s Compass",
+  "descr": "This compass points the way toward the nearest exit while indoors and the closest entrance while outdoors.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "daggerheart-srd",
+  "private": true,
+  "description": "Daggerheart SRD module for Encounter+",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "bump": "node scripts/bump-version.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "jszip": "^3.10.2",
+    "yaml": "^2.9.1"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "5d24b19a-9034-5ac0-a61d-80e43b7417c1",
+  "name": "Conjure Swarm",
+  "descr": "_Tekaira Armored Beetles:_ **Mark a Stress** to conjure armored beetles that encircle you. When you next take damage, reduce the severity by one threshold. You can **spend a Hope** to keep the beetles conjured after taking damage.\n\n_Fire Flies:_ Make a **Spellcast Roll** against all adversaries within Close range. **Spend a Hope** to deal **2d8+3** magic damage to targets you succeeded against.",
+  "data": {
+    "level": 2,
+    "recall": 1,
+    "type": "spell",
+    "domain": "sage"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

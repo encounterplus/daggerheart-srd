@@ -1,0 +1,10 @@
+{
+  "id": "df4c684c-f278-514c-8cac-743a1e7767d2",
+  "name": "Feast Of Xuria",
+  "descr": "You can eat this meal to clear all HP and Stress and gain 1d4 Hope.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

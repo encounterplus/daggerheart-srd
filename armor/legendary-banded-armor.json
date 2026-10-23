@@ -1,0 +1,17 @@
+{
+  "id": "9a6420f2-75c6-575f-9d0d-f8ca047a23ae",
+  "name": "Legendary Banded Armor",
+  "data": {
+    "tier": 4,
+    "thresholds": {
+      "major": 17,
+      "severe": 43
+    },
+    "score": 7
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

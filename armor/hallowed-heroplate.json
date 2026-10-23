@@ -1,0 +1,17 @@
+{
+  "id": "9b12766e-bcb8-5599-9234-3f8ec7957f2d",
+  "name": "Hallowed Heroplate",
+  "data": {
+    "tier": 4,
+    "thresholds": {
+      "major": 13,
+      "severe": 35
+    },
+    "score": 7
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

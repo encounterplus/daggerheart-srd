@@ -1,0 +1,42 @@
+{
+  "id": "b7935def-17bc-5e61-900b-a1baf8ea6f65",
+  "name": "Outer Realms Corrupter",
+  "descr": "A shifting, formless mass seemingly made of chromatic light.",
+  "data": {
+    "tier": 4,
+    "type": "support",
+    "motivesAndTactics": "Confuse, distract, overwhelm",
+    "difficulty": 19,
+    "thresholds": {
+      "major": 27,
+      "severe": 47
+    },
+    "hp": 4,
+    "stress": 3,
+    "attackModifier": 7,
+    "attack": {
+      "name": "Corroding Pseudopod",
+      "range": "veryClose",
+      "damage": "4d8+5",
+      "damageType": "mag"
+    },
+    "experience": [],
+    "features": [
+      {
+        "name": "Will-Shattering Touch",
+        "type": "passive",
+        "text": "When a PC takes damage from the Corrupter, they lose a Hope."
+      },
+      {
+        "name": "Disgorge Reality Flotsam",
+        "type": "action",
+        "text": "**Mark a Stress** to spew partially digested portions of consumed realities at all targets within Close range. Targets must succeed on a Knowledge Reaction Roll or mark 2 Stress."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

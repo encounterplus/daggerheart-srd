@@ -1,0 +1,19 @@
+{
+  "id": "b455c38e-6d9a-5ddf-b713-521c0c3aeff3",
+  "name": "Improved Rune Shield",
+  "data": {
+    "tier": 2,
+    "category": "secondary",
+    "type": "magic",
+    "trait": "knowledge",
+    "range": "melee",
+    "damage": "d4+2",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "acc88cfe-09d2-56f0-8493-e5d10901a11e",
+  "name": "Hand Crossbow",
+  "data": {
+    "tier": 1,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "far",
+    "damage": "d6+1",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

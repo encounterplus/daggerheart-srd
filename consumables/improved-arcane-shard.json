@@ -1,0 +1,10 @@
+{
+  "id": "4fde3ab0-f1f0-53e1-b713-0dbc54a74155",
+  "name": "Improved Arcane Shard",
+  "descr": "You can make a Finesse Roll to throw this shard at a group of adversaries within Far range. Targets you succeed against take 2d20 magic damage.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

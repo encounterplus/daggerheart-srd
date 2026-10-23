@@ -1,0 +1,19 @@
+{
+  "id": "3c9cbc51-f3f6-5649-be61-54e47c422d6c",
+  "name": "Legendary Casting Dagger",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "magic",
+    "trait": "instinct",
+    "range": "close",
+    "damage": "d6+9",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "969a816e-61fa-5abb-a499-6cef714bd96a",
+  "name": "Legendary Shortstaff",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "magic",
+    "trait": "instinct",
+    "range": "close",
+    "damage": "d8+10",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

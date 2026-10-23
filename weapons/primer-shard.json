@@ -1,0 +1,19 @@
+{
+  "id": "4be01e06-6d28-5052-97cf-6aca567cf5c3",
+  "name": "Primer Shard",
+  "data": {
+    "tier": 4,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "instinct",
+    "range": "veryClose",
+    "damage": "d4",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

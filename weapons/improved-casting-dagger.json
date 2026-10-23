@@ -1,0 +1,19 @@
+{
+  "id": "3ea32f5e-136f-5ae4-8be4-038dfe2fc442",
+  "name": "Improved Casting Dagger",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "magic",
+    "trait": "instinct",
+    "range": "close",
+    "damage": "d6+3",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "f68a76b8-42d7-5ff0-8b00-dff1c89eb87b",
+  "name": "Knowledge Stone",
+  "descr": "If you die while holding this stone, an ally can take a card from your loadout to place in their loadout or vault. After they take this knowledge, the stone crumbles.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

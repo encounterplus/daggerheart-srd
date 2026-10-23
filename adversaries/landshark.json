@@ -1,0 +1,56 @@
+{
+  "id": "7805e2ad-4fe3-568b-9227-cc6d78382976",
+  "name": "Landshark",
+  "descr": "A quadrupedal shark that swims through the ground.",
+  "data": {
+    "tier": 2,
+    "type": "bruiser",
+    "motivesAndTactics": "Burrow, burst out of the ground, circle prey",
+    "difficulty": 14,
+    "thresholds": {
+      "major": 14,
+      "severe": 25
+    },
+    "hp": 7,
+    "stress": 3,
+    "attackModifier": 2,
+    "attack": {
+      "name": "Toothy Maw",
+      "range": "veryClose",
+      "damage": "2d10+2",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Subterranean",
+        "modifier": 3
+      },
+      {
+        "name": "Bloodthirsty",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Burrowing",
+        "type": "passive",
+        "text": "The Landshark can move through the ground as easily as over it. When the Landshark moves, it can choose to burrow or surface. While underground, the Landshark has resistance to all damage but can't attack."
+      },
+      {
+        "name": "Thick-Skinned",
+        "type": "passive",
+        "text": "When the Landshark would be forced to mark any number of HP, you can mark an equal number of Stress instead."
+      },
+      {
+        "name": "Rending Chomp",
+        "type": "reaction",
+        "text": "When the Landshark makes a successful attack against a PC within Melee range, you can **spend a Fear** to force the target to mark an Armor Slot without receiving its benefits (they can still use armor to reduce the damage)."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

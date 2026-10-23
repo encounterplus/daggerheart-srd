@@ -1,0 +1,10 @@
+{
+  "id": "a71214da-7c70-59e3-841d-58672da3a684",
+  "name": "Major Stride Potion",
+  "descr": "You gain a +1 bonus to your Agility until your next rest.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

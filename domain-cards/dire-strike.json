@@ -1,0 +1,16 @@
+{
+  "id": "6d2d2d2b-8aed-59b9-bb67-1f03fef4e775",
+  "name": "Dire Strike",
+  "descr": "When a target marks any number of Hit Points from an attack you make, you can **spend a Hope** to drain power from them. The GM loses a Fear.",
+  "data": {
+    "level": 5,
+    "recall": 2,
+    "type": "spell",
+    "domain": "dread"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

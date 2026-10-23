@@ -1,0 +1,37 @@
+{
+  "id": "fd864c07-bc3a-5eb5-93d5-4c1d638835a4",
+  "name": "Pouncing Predator",
+  "data": {
+    "tier": 2,
+    "examples": "Cheetah, Lion, Panther, etc.",
+    "trait": "instinct",
+    "traitModifier": 1,
+    "evasionModifier": 3,
+    "attack": {
+      "range": "melee",
+      "trait": "instinct",
+      "damage": "d8+6",
+      "damageType": "phy"
+    },
+    "advantages": [
+      "attack",
+      "climb",
+      "sneak"
+    ],
+    "features": [
+      {
+        "name": "Fleet",
+        "text": "**Spend a Hope** to move up to Far range without rolling."
+      },
+      {
+        "name": "Takedown",
+        "text": "**Mark a Stress** to move into Melee range of a target and make an attack roll against them. On a success, you gain a +2 bonus to your Proficiency for this attack and the target must mark a Stress."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

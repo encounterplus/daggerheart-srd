@@ -1,0 +1,19 @@
+{
+  "id": "64905536-8592-5bdb-b42f-72819bdf7660",
+  "name": "Soul Chain",
+  "data": {
+    "tier": 3,
+    "category": "secondary",
+    "type": "magic",
+    "trait": "presence",
+    "range": "veryClose",
+    "damage": "d6+5",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

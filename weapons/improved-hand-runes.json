@@ -1,0 +1,19 @@
+{
+  "id": "e8723183-9435-5615-a7a2-11b739095764",
+  "name": "Improved Hand Runes",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "magic",
+    "trait": "instinct",
+    "range": "veryClose",
+    "damage": "d10+3",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "70df41e8-f6ad-5689-8a85-57b5a10443aa",
+  "name": "Advanced Whip",
+  "data": {
+    "tier": 3,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "presence",
+    "range": "veryClose",
+    "damage": "d6+4",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

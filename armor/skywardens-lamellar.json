@@ -1,0 +1,17 @@
+{
+  "id": "237a135f-870e-5dc5-9df6-3eb8368d6468",
+  "name": "Skywarden’s Lamellar",
+  "data": {
+    "tier": 3,
+    "thresholds": {
+      "major": 11,
+      "severe": 27
+    },
+    "score": 5
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

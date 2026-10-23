@@ -1,0 +1,16 @@
+{
+  "id": "9e687145-09b5-5599-ab9c-6754426939af",
+  "name": "Eldritch Flesh",
+  "descr": "Gain a +1 bonus to your damage thresholds for each Stress you have marked.\n\nAdditionally, when you roll with Fear, you can **spend 2 Hope** to clear an Armor Slot.",
+  "data": {
+    "level": 8,
+    "recall": 1,
+    "type": "spell",
+    "domain": "dread"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

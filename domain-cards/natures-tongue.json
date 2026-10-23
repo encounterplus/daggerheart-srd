@@ -1,0 +1,16 @@
+{
+  "id": "379ee503-3a77-5525-b6ff-3da2ea291774",
+  "name": "Nature’s Tongue",
+  "descr": "You can speak the language of the natural world. When you want to speak to the plants and animals around you, make an **Instinct Roll (12)**. On a success, they'll give you the information they know. On a roll with Fear, their knowledge might be limited or come at a cost.\n\nAdditionally, before you make a Spellcast Roll while within a natural environment, you can **spend a Hope** to gain a +2 bonus to the roll.",
+  "data": {
+    "level": 1,
+    "recall": 0,
+    "type": "ability",
+    "domain": "sage"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

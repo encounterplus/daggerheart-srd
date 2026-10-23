@@ -1,0 +1,17 @@
+{
+  "id": "39238b69-df15-5b18-9eff-75e1a086fd5c",
+  "name": "Irontree Breastplate Armor",
+  "data": {
+    "tier": 2,
+    "thresholds": {
+      "major": 9,
+      "severe": 20
+    },
+    "score": 4
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

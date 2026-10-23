@@ -1,0 +1,19 @@
+{
+  "id": "c3450b5c-db7a-52e8-b58c-f88b9005d3b9",
+  "name": "Advanced Scepter",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "magic",
+    "trait": "presence",
+    "range": "far",
+    "damage": "d6+6",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

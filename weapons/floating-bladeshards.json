@@ -1,0 +1,19 @@
+{
+  "id": "2ef350d6-5fa3-565f-a54a-678ce2b69599",
+  "name": "Floating Bladeshards",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "magic",
+    "trait": "instinct",
+    "range": "close",
+    "damage": "d8+9",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

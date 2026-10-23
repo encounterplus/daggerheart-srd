@@ -1,0 +1,47 @@
+{
+  "id": "739b50f0-7abf-51bb-a6bf-954d5a53ee43",
+  "name": "Jagged Knife Bandit",
+  "descr": "A cunning criminal in a cloak bearing one of the gang's iconic knives.",
+  "data": {
+    "tier": 1,
+    "type": "standard",
+    "motivesAndTactics": "Escape, profit, steal, throw smoke",
+    "difficulty": 12,
+    "thresholds": {
+      "major": 8,
+      "severe": 14
+    },
+    "hp": 5,
+    "stress": 3,
+    "attackModifier": 1,
+    "attack": {
+      "name": "Daggers",
+      "range": "melee",
+      "damage": "1d8+1",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Thief",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Climber",
+        "type": "passive",
+        "text": "The Bandit climbs just as easily as they run."
+      },
+      {
+        "name": "From Above",
+        "type": "passive",
+        "text": "When the Bandit succeeds on a standard attack from above a target, they deal **1d10+1** physical damage instead of their standard damage."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

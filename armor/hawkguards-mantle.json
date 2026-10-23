@@ -1,0 +1,17 @@
+{
+  "id": "7cf043c5-0be8-53bf-a474-d35e48708676",
+  "name": "Hawkguard’s Mantle",
+  "data": {
+    "tier": 2,
+    "thresholds": {
+      "major": 9,
+      "severe": 20
+    },
+    "score": 4
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

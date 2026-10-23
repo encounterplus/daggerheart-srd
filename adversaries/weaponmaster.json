@@ -1,0 +1,47 @@
+{
+  "id": "9f077175-9d82-50bd-af58-fa7a2f35fbaf",
+  "name": "Weaponmaster",
+  "descr": "A master-at-arms wielding a sword twice their size.",
+  "data": {
+    "tier": 1,
+    "type": "bruiser",
+    "motivesAndTactics": "Act first, aim for the weakest, intimidate",
+    "difficulty": 14,
+    "thresholds": {
+      "major": 8,
+      "severe": 15
+    },
+    "hp": 6,
+    "stress": 3,
+    "attackModifier": 2,
+    "attack": {
+      "name": "Claymore",
+      "range": "veryClose",
+      "damage": "1d12+2",
+      "damageType": "phy"
+    },
+    "experience": [],
+    "features": [
+      {
+        "name": "Goading Strike",
+        "type": "action",
+        "text": "Make a standard attack against a target. On a success, **mark a Stress** to _Taunt_ the target until their next successful attack. The next time the _Taunted_ target attacks, they have disadvantage against targets other than the Weaponmaster."
+      },
+      {
+        "name": "Adrenaline Burst",
+        "type": "action",
+        "text": "Once per scene, **spend a Fear** to clear 2 HP and 2 Stress."
+      },
+      {
+        "name": "Momentum",
+        "type": "reaction",
+        "text": "When the Weaponmaster makes a successful attack against a PC, you gain a Fear."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

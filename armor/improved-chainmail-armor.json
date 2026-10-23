@@ -1,0 +1,17 @@
+{
+  "id": "b4d568cb-8c3c-5d82-a3d2-8bf026b5f3a2",
+  "name": "Improved Chainmail Armor",
+  "data": {
+    "tier": 2,
+    "thresholds": {
+      "major": 11,
+      "severe": 24
+    },
+    "score": 5
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

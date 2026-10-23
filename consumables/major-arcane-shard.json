@@ -1,0 +1,10 @@
+{
+  "id": "1343c5c1-b977-5b83-962d-ff936656a3af",
+  "name": "Major Arcane Shard",
+  "descr": "You can make a Finesse Roll to throw this shard at a group of adversaries within Far range. Targets you succeed against take 4d20 magic damage.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

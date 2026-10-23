@@ -1,0 +1,47 @@
+{
+  "id": "48e50a8c-280b-5bf7-8127-602bba639f8c",
+  "name": "Entombed Elite Guard",
+  "descr": "An elite undead soldier buried with their empress to defend the tomb from theft and desecration.",
+  "data": {
+    "tier": 2,
+    "type": "standard",
+    "motivesAndTactics": "Form up, protect the empress, strike as one",
+    "difficulty": 15,
+    "thresholds": {
+      "major": 9,
+      "severe": 18
+    },
+    "hp": 4,
+    "stress": 3,
+    "attackModifier": 2,
+    "attack": {
+      "name": "Curved Blade",
+      "range": "melee",
+      "damage": "2d10+2",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Soldier",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Battle Formation",
+        "type": "passive",
+        "text": "The Guard gains a +1 bonus to their Difficulty for each ally within Very Close range."
+      },
+      {
+        "name": "Javelin",
+        "type": "action",
+        "text": "Make an attack against a target within Very Far range. On a success, deal **2d6+2** physical damage."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

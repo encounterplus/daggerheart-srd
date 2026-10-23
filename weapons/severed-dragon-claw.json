@@ -1,0 +1,19 @@
+{
+  "id": "e076f97c-1965-584a-be6b-ae36a8024690",
+  "name": "Severed Dragon Claw",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "physical",
+    "trait": "instinct",
+    "range": "melee",
+    "damage": "d10+11",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

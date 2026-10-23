@@ -1,0 +1,19 @@
+{
+  "id": "93989be6-08cf-5f0d-9278-f18680771241",
+  "name": "Improved Fighting Cloak",
+  "data": {
+    "tier": 2,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "presence",
+    "range": "melee",
+    "damage": "d4+2",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

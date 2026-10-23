@@ -1,0 +1,10 @@
+{
+  "id": "bbda9c23-d556-5c53-9fd6-3ae3b549f960",
+  "name": "Improved Grindletooth Venom",
+  "descr": "You can apply this venom to a weapon that deals physical damage to add a d8 to your next damage roll with that weapon.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

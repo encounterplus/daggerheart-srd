@@ -1,0 +1,47 @@
+{
+  "id": "55729033-6825-545f-a357-222b90a4ef55",
+  "name": "Jagged Knife Hexer",
+  "descr": "A staff-wielding bandit in a cloak adorned with magical paraphernalia, using curses to vex their foes.",
+  "data": {
+    "tier": 1,
+    "type": "support",
+    "motivesAndTactics": "Command, hex, profit",
+    "difficulty": 13,
+    "thresholds": {
+      "major": 5,
+      "severe": 9
+    },
+    "hp": 4,
+    "stress": 4,
+    "attackModifier": 2,
+    "attack": {
+      "name": "Staff",
+      "range": "far",
+      "damage": "1d6+2",
+      "damageType": "mag"
+    },
+    "experience": [
+      {
+        "name": "Magical Knowledge",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Curse",
+        "type": "action",
+        "text": "Choose a target within Far range and temporarily _Curse_ them. While the target is _Cursed_, you can **mark a Stress** when that target rolls with Hope to make the roll be with Fear instead."
+      },
+      {
+        "name": "Chaotic Flux",
+        "type": "action",
+        "text": "Make an attack against up to three targets within Very Close range. **Mark a Stress** to deal **2d6+3** magic damage to targets the Hexer succeeded against."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

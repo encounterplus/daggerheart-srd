@@ -1,0 +1,17 @@
+{
+  "id": "ced59902-0f78-5e50-b555-b11872d08b0e",
+  "name": "Bladefare Armor",
+  "data": {
+    "tier": 3,
+    "thresholds": {
+      "major": 16,
+      "severe": 39
+    },
+    "score": 6
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

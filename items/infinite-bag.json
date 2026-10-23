@@ -1,0 +1,10 @@
+{
+  "id": "b895e916-7c5a-5108-990b-a19b41bc5e09",
+  "name": "Infinite Bag",
+  "descr": "When you store items in this bag, they are kept in a pocket dimension that never runs out of space. You can retrieve an item at any time.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

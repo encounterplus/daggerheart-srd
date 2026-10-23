@@ -1,0 +1,51 @@
+{
+  "id": "31934ae9-425c-5d91-9c23-52a2e724dca7",
+  "name": "Jagged Knife Kneebreaker",
+  "descr": "An imposing brawler carrying a large club.",
+  "data": {
+    "tier": 1,
+    "type": "bruiser",
+    "motivesAndTactics": "Grapple, intimidate, profit, steal",
+    "difficulty": 12,
+    "thresholds": {
+      "major": 7,
+      "severe": 14
+    },
+    "hp": 7,
+    "stress": 4,
+    "attackModifier": -3,
+    "attack": {
+      "name": "Club",
+      "range": "melee",
+      "damage": "1d4+6",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Thief",
+        "modifier": 2
+      },
+      {
+        "name": "Unveiled Threats",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "I've Got 'Em",
+        "type": "passive",
+        "text": "Creatures _Restrained_ by the Kneebreaker take double damage from attacks by other adversaries."
+      },
+      {
+        "name": "Hold Them Down",
+        "type": "action",
+        "text": "Make an attack against a target within Melee range. On a success, the target takes no damage but is _Restrained_ and _Vulnerable_. The target can break free, clearing both conditions, with a successful Strength Roll or is freed automatically if the Kneebreaker takes Major or greater damage."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

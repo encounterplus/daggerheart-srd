@@ -1,0 +1,52 @@
+{
+  "id": "1ad49442-3068-569c-b472-9b6bba28e2ba",
+  "name": "Giant Scorpion",
+  "descr": "A human-sized arachnid with tearing claws and a stinging tail.",
+  "data": {
+    "tier": 1,
+    "type": "bruiser",
+    "motivesAndTactics": "Ambush, feed, grapple, poison",
+    "difficulty": 13,
+    "thresholds": {
+      "major": 7,
+      "severe": 13
+    },
+    "hp": 6,
+    "stress": 3,
+    "attackModifier": 1,
+    "attack": {
+      "name": "Pincers",
+      "range": "melee",
+      "damage": "1d12+2",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Camouflage",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Double Strike",
+        "type": "action",
+        "text": "**Mark a Stress** to make a standard attack against two targets within Melee range."
+      },
+      {
+        "name": "Venomous Stinger",
+        "type": "action",
+        "text": "Make an attack against a target within Very Close range. On a success, **spend a Fear** to deal **1d4+4** physical damage and _Poison_ them until their next rest or they succeed on a Knowledge Roll (16). While _Poisoned_, the target must roll a **d6** before they make an action roll. On a result of 4 or lower, they must mark a Stress."
+      },
+      {
+        "name": "Momentum",
+        "type": "reaction",
+        "text": "When the Scorpion makes a successful attack against a PC, you gain a Fear."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

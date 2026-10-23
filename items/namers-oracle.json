@@ -1,0 +1,10 @@
+{
+  "id": "e19da920-2685-56de-a262-be6ff50b13b1",
+  "name": "Namer’s Oracle",
+  "descr": "Once per session, you can roll this set of runic dice to reveal the full name of the last person you touched.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

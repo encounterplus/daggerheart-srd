@@ -1,0 +1,10 @@
+{
+  "id": "af70fbba-a0c3-5cf4-867a-c27827214014",
+  "name": "Warp Pendant",
+  "descr": "Once per rest, mark a Stress to teleport to a location you can clearly see.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

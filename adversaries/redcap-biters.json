@@ -1,0 +1,48 @@
+{
+  "id": "9d940538-0f3e-56b3-b762-b8f142c7126f",
+  "name": "Redcap Biters",
+  "descr": "A troop of fist-sized fey creatures who have needle-sharp teeth and conical red caps sealed on their heads with candle wax.",
+  "data": {
+    "tier": 1,
+    "type": "horde",
+    "typeDetail": "3/HP",
+    "motivesAndTactics": "Bring 'em down, celebrate tiny victories, giggle and chitter, scamper between the walls",
+    "difficulty": 10,
+    "thresholds": {
+      "major": 6,
+      "severe": 11
+    },
+    "hp": 5,
+    "stress": 3,
+    "attackModifier": -1,
+    "attack": {
+      "name": "Gnash",
+      "range": "melee",
+      "damage": "1d8+4",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Nooks and Crannies",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Horde (1d4+2)",
+        "type": "passive",
+        "text": "When the Biters have marked half or more of their HP, their standard attack deals **1d4+2** physical damage instead."
+      },
+      {
+        "name": "Ankle Weights",
+        "type": "passive",
+        "text": "A PC must mark a Stress to move out of the Biters' Melee range."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

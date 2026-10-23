@@ -1,0 +1,19 @@
+{
+  "id": "9b997d9e-d17f-56d5-a887-df6565ad2f24",
+  "name": "Legendary Whipsword",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "veryClose",
+    "damage": "d8+9",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

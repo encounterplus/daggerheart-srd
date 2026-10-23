@@ -1,0 +1,10 @@
+{
+  "id": "e493ecbd-9eec-59a3-911f-bd9c0fc6524d",
+  "name": "Wildrider’s Saddle",
+  "descr": "This saddle grants any animal it's strapped onto the ability to understand their rider's commands.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

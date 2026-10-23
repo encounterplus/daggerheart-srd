@@ -1,0 +1,19 @@
+{
+  "id": "b8233982-f041-5f09-a582-e7fba3fa22fb",
+  "name": "Improved Crossbow",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "far",
+    "damage": "d6+4",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

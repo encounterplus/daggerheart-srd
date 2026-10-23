@@ -1,0 +1,19 @@
+{
+  "id": "a20ce52a-4d5c-5008-9bd6-5d2473a1f912",
+  "name": "Braveshield",
+  "data": {
+    "tier": 4,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "melee",
+    "damage": "d4+6",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

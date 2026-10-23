@@ -1,0 +1,16 @@
+{
+  "id": "878f7455-9bca-5cd1-b2ed-dd49a676a14e",
+  "name": "Floating Eye",
+  "descr": "**Spend a Hope** to create a single, small floating orb that you can move anywhere within Very Far range. While this spell is active, you can see through the orb as though you're looking out from its position. You can transition between using your own senses and seeing through the orb freely. If the orb takes damage or moves out of range, the spell ends.",
+  "data": {
+    "level": 2,
+    "recall": 0,
+    "type": "spell",
+    "domain": "arcana"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

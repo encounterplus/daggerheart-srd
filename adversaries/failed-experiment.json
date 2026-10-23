@@ -1,0 +1,52 @@
+{
+  "id": "7487523a-a341-531c-b02d-3761d6b2ef55",
+  "name": "Failed Experiment",
+  "descr": "A magical necromantic experiment gone wrong, leaving them warped and ungainly.",
+  "data": {
+    "tier": 2,
+    "type": "standard",
+    "motivesAndTactics": "Devour, hunt, track",
+    "difficulty": 13,
+    "thresholds": {
+      "major": 12,
+      "severe": 23
+    },
+    "hp": 3,
+    "stress": 3,
+    "attackModifier": 1,
+    "attack": {
+      "name": "Bite and Claw",
+      "range": "melee",
+      "damage": "2d6+5",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Copycat",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Warped Fortitude",
+        "type": "passive",
+        "text": "The Experiment is resistant to physical damage."
+      },
+      {
+        "name": "Overwhelm",
+        "type": "passive",
+        "text": "When a target the Experiment attacks has other adversaries within Very Close range, the Experiment deals double damage."
+      },
+      {
+        "name": "Lurching Lunge",
+        "type": "action",
+        "text": "**Mark a Stress** to spotlight the Experiment as an additional GM move instead of spending Fear."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

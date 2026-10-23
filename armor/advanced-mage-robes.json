@@ -1,0 +1,17 @@
+{
+  "id": "d1f91100-0a55-5e21-8090-0870ffcaf3ce",
+  "name": "Advanced Mage Robes",
+  "data": {
+    "tier": 3,
+    "thresholds": {
+      "major": 8,
+      "severe": 22
+    },
+    "score": 4
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

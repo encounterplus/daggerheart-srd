@@ -1,0 +1,10 @@
+{
+  "id": "ef3655ec-440b-5387-9e3c-664de457fd25",
+  "name": "Attune Potion",
+  "descr": "You gain a +1 bonus to your next Instinct Roll.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

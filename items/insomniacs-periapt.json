@@ -1,0 +1,10 @@
+{
+  "id": "bc8afbd9-5859-5449-812b-a4a44b61ef81",
+  "name": "Insomniac’s Periapt",
+  "descr": "When you take a rest without clearing Hit Points or Stress, you gain a +2 bonus to attack and damage rolls until your next rest.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

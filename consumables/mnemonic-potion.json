@@ -1,0 +1,10 @@
+{
+  "id": "8eb1a3d8-f52c-58c8-a4bd-f779b9865973",
+  "name": "Mnemonic Potion",
+  "descr": "You can drink this potion to Utilize an Experience without spending a Hope.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "4d7de203-6e71-5552-ad56-96c12bfe9a25",
+  "name": "Major Health Potion",
+  "descr": "Clear 1d4+2 HP.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

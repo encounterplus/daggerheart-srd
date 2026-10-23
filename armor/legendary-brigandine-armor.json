@@ -1,0 +1,17 @@
+{
+  "id": "e05ead35-d8b1-55a7-83e2-985d06b2a05d",
+  "name": "Legendary Brigandine Armor",
+  "data": {
+    "tier": 4,
+    "thresholds": {
+      "major": 13,
+      "severe": 35
+    },
+    "score": 6
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

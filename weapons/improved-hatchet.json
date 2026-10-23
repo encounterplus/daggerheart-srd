@@ -1,0 +1,19 @@
+{
+  "id": "c50d5f73-1eac-5afd-93af-e8eace07ba24",
+  "name": "Improved Hatchet",
+  "data": {
+    "tier": 2,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "melee",
+    "damage": "d8+2",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

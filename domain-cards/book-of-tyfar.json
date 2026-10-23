@@ -1,0 +1,16 @@
+{
+  "id": "18b0e090-2ea5-5de1-a903-9857ae6830e3",
+  "name": "Book of Tyfar",
+  "descr": "_Wild Flame:_ Make a **Spellcast Roll** against up to three adversaries within Melee range. Targets you succeed against take **2d6** magic damage and must mark a Stress as flames erupt from your hand.\n\n_Magic Hand:_ You conjure a magical hand with the same size and strength as your own within Far range.\n\n_Mysterious Mist:_ Make a **Spellcast Roll (13)** to cast a temporary thick fog that gathers in a stationary area within Very Close range. The fog heavily obscures this area and everything in it.",
+  "data": {
+    "level": 1,
+    "recall": 2,
+    "type": "grimoire",
+    "domain": "codex"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

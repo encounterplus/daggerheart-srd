@@ -1,0 +1,56 @@
+{
+  "id": "297303b4-9932-56e1-bd08-e582d2f2ded1",
+  "name": "Bear",
+  "descr": "A large bear with thick fur and powerful claws.",
+  "data": {
+    "tier": 1,
+    "type": "bruiser",
+    "motivesAndTactics": "Climb, defend territory, pummel, track",
+    "difficulty": 14,
+    "thresholds": {
+      "major": 9,
+      "severe": 17
+    },
+    "hp": 7,
+    "stress": 2,
+    "attackModifier": 1,
+    "attack": {
+      "name": "Claws",
+      "range": "melee",
+      "damage": "1d8+3",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Ambusher",
+        "modifier": 3
+      },
+      {
+        "name": "Keen Senses",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Overwhelming Force",
+        "type": "passive",
+        "text": "Targets who mark HP from the Bear's standard attack are knocked back to Very Close range."
+      },
+      {
+        "name": "Bite",
+        "type": "action",
+        "text": "**Mark a Stress** to make an attack against a target within Melee range. On a success, deal **3d4+10** physical damage and the target is _Restrained_ until they break free with a successful Strength Roll."
+      },
+      {
+        "name": "Momentum",
+        "type": "reaction",
+        "text": "When the Bear makes a successful attack against a PC, you gain a Fear."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

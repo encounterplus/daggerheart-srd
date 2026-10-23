@@ -1,0 +1,19 @@
+{
+  "id": "e6d768ad-9e2d-594f-abca-820c7fcd3e5d",
+  "name": "Advanced Rope Dart",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "physical",
+    "trait": "instinct",
+    "range": "close",
+    "damage": "d6+7",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

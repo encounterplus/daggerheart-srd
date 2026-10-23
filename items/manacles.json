@@ -1,0 +1,10 @@
+{
+  "id": "6c7755a9-83c6-5629-bee8-c9b2b209eae6",
+  "name": "Manacles",
+  "descr": "This pair of locking cuffs comes with a key.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

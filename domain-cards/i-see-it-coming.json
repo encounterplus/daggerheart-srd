@@ -1,0 +1,16 @@
+{
+  "id": "f38259f9-3854-5604-a85f-e1d546cad203",
+  "name": "I See It Coming",
+  "descr": "When you're targeted by an attack made from beyond Melee range, you can **mark a Stress** to roll a **d4** and gain a bonus to your Evasion equal to the result against the attack.",
+  "data": {
+    "level": 1,
+    "recall": 1,
+    "type": "ability",
+    "domain": "bone"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

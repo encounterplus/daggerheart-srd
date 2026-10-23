@@ -1,0 +1,17 @@
+{
+  "id": "5c7a5e16-158a-578f-82b2-ffb3b9eb88e6",
+  "name": "Runetan Floating Armor",
+  "data": {
+    "tier": 2,
+    "thresholds": {
+      "major": 9,
+      "severe": 20
+    },
+    "score": 4
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

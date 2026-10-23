@@ -1,0 +1,19 @@
+{
+  "id": "6d34cf28-1793-5e75-9592-132dfe9e79fe",
+  "name": "Splintershaft Bow",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "magic",
+    "trait": "agility",
+    "range": "far",
+    "damage": "d6+6",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

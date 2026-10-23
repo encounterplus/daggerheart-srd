@@ -1,0 +1,47 @@
+{
+  "id": "6608a8c1-1ca7-5275-9c8f-f509d9945322",
+  "name": "Bladed Guard",
+  "descr": "An armored guard bearing a sword and shield painted in the settlement's colors.",
+  "data": {
+    "tier": 1,
+    "type": "standard",
+    "motivesAndTactics": "Arrest, close gates, make it through the day, pin down",
+    "difficulty": 12,
+    "thresholds": {
+      "major": 5,
+      "severe": 9
+    },
+    "hp": 5,
+    "stress": 2,
+    "attackModifier": 1,
+    "attack": {
+      "name": "Longsword",
+      "range": "melee",
+      "damage": "1d6+1",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Local Knowledge",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Shield Wall",
+        "type": "passive",
+        "text": "A creature who tries to move within Very Close range of the Guard must succeed on an Agility Roll. If additional Bladed Guards are standing in a line alongside the first, and each is within Melee range of another guard in the line, the Difficulty increases by the total number of guards in that line."
+      },
+      {
+        "name": "Detain",
+        "type": "action",
+        "text": "Make an attack against a target within Very Close range. On a success, **mark a Stress** to _Restrain_ the target until they break free with a successful attack, Finesse Roll, or Strength Roll."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

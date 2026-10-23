@@ -1,0 +1,19 @@
+{
+  "id": "e87276d9-b196-51a4-967e-2e87d016bafe",
+  "name": "Throwing Knives",
+  "data": {
+    "tier": 1,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "melee",
+    "damage": "d8",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

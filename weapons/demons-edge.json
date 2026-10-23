@@ -1,0 +1,19 @@
+{
+  "id": "e0703904-a5ab-59ee-bfc5-9523233c5194",
+  "name": "Demon’s Edge",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "magic",
+    "trait": "presence",
+    "range": "melee",
+    "damage": "d8+10",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

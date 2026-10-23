@@ -1,0 +1,37 @@
+{
+  "id": "d1f81a7e-d6e1-58eb-95ed-d8a8cf0871dc",
+  "name": "Agile Scout",
+  "data": {
+    "tier": 1,
+    "examples": "Fox, Mouse, Weasel, etc.",
+    "trait": "agility",
+    "traitModifier": 1,
+    "evasionModifier": 2,
+    "attack": {
+      "range": "melee",
+      "trait": "agility",
+      "damage": "d4",
+      "damageType": "phy"
+    },
+    "advantages": [
+      "deceive",
+      "locate",
+      "sneak"
+    ],
+    "features": [
+      {
+        "name": "Agile",
+        "text": "Your movement is silent, and you can **spend a Hope** to move up to Far range without rolling."
+      },
+      {
+        "name": "Fragile",
+        "text": "When you take Major or greater damage, you drop out of Beastform."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

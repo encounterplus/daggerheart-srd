@@ -1,0 +1,19 @@
+{
+  "id": "6bf95ca8-34a6-5bba-8c4c-15403ad08aeb",
+  "name": "Adder’s Fang",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "magic",
+    "trait": "finesse",
+    "range": "melee",
+    "damage": "d8+9",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

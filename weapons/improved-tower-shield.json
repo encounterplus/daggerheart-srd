@@ -1,0 +1,19 @@
+{
+  "id": "ae55ca03-e43f-5f2e-aa21-d406f032887f",
+  "name": "Improved Tower Shield",
+  "data": {
+    "tier": 2,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d6+2",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "414d6b52-e6f6-5d07-ab42-11bf274530f2",
+  "name": "Cyrurgien’s Scalpel",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "knowledge",
+    "range": "melee",
+    "damage": "d8+3",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

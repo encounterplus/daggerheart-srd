@@ -1,0 +1,16 @@
+{
+  "id": "18e806a5-ec47-5393-99de-eeb333513514",
+  "name": "Book of Illiat",
+  "descr": "_Slumber:_ Make a **Spellcast Roll** against a target within Very Close range. On a success, they're _Asleep_ until they take damage or the GM spends a Fear on their turn to clear this condition.\n\n_Arcane Barrage:_ Once per rest, **spend any number of Hope** and shoot magical projectiles that strike a target of your choice within Close range. Roll a number of **d6s** equal to the Hope spent and deal that much magic damage to the target.\n\n_Telepathy:_ **Spend a Hope** to open a line of mental communication with one target you can see. This connection lasts until your next rest or you cast Telepathy again.",
+  "data": {
+    "level": 1,
+    "recall": 2,
+    "type": "grimoire",
+    "domain": "codex"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

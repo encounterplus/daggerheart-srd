@@ -1,0 +1,17 @@
+{
+  "id": "a1c96b1b-956d-5a30-9d3d-0da5f773c5d2",
+  "name": "Improved Mage Robes",
+  "data": {
+    "tier": 2,
+    "thresholds": {
+      "major": 6,
+      "severe": 15
+    },
+    "score": 3
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

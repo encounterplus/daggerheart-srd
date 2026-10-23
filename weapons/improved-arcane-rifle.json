@@ -1,0 +1,19 @@
+{
+  "id": "130e72fe-883d-5f3e-90f6-de9e9f72e952",
+  "name": "Improved Arcane Rifle",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "magic",
+    "trait": "agility",
+    "range": "veryFar",
+    "damage": "d10+6",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

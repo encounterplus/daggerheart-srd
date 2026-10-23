@@ -1,0 +1,19 @@
+{
+  "id": "02887377-2d2f-5786-81b6-a0582f12efff",
+  "name": "Improved Returning Blade",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "magic",
+    "trait": "finesse",
+    "range": "close",
+    "damage": "d8+3",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

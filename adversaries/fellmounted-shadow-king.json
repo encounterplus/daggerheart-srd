@@ -1,0 +1,62 @@
+{
+  "id": "f27b4358-3e13-57ac-a850-1bd5fff26a31",
+  "name": "Fellmounted Shadow King",
+  "descr": "The shade of a forgotten ruler, cursed to patrol the skies atop a winged eel in the service of an even greater evil.",
+  "data": {
+    "tier": 3,
+    "type": "support",
+    "motivesAndTactics": "Find magic items, inspire fear, patrol skies",
+    "difficulty": 15,
+    "thresholds": {
+      "major": 24,
+      "severe": 38
+    },
+    "hp": 8,
+    "stress": 5,
+    "attackModifier": 4,
+    "attack": {
+      "name": "Cursed Lance",
+      "range": "close",
+      "damage": "3d10+6",
+      "damageType": "mag"
+    },
+    "experience": [
+      {
+        "name": "Seeker",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Fellmount",
+        "type": "passive",
+        "text": "While the Shadow King is on his mount, he gains a +2 bonus to his Difficulty. When the Shadow King takes Severe damage, he's knocked from his mount. If the Shadow King is unmounted, his mount disappears until you **mark a Stress** to summon it again."
+      },
+      {
+        "name": "Light and Shadow",
+        "type": "passive",
+        "text": "The Shadow King has advantage on attack rolls while in shadow or darkness and disadvantage on attack rolls while in bright light."
+      },
+      {
+        "name": "Relic Hunter",
+        "type": "passive",
+        "text": "The Shadow King has advantage on attack rolls against PCs who have magic weapons or armor equipped."
+      },
+      {
+        "name": "Hellsong",
+        "type": "action",
+        "text": "**Spend 2 Fear** to have the Shadow King's mount unleash a spine-chilling screech that echoes over the battlefield. Each PC within Far range must make a Presence Reaction Roll (18). Targets who succeed must mark a Stress. Targets who fail must mark a Stress and lose a Hope. If a PC can't lose a Hope, you gain 2 Fear."
+      },
+      {
+        "name": "Air Support",
+        "type": "reaction",
+        "text": "Three times per scene, you can **spend a Fear** to have an ally within Far range reroll a failed attack with advantage."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

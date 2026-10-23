@@ -1,0 +1,17 @@
+{
+  "id": "69324af7-9649-5efa-80ba-99bc5cd5ab47",
+  "name": "Bellamoi Fine Armor",
+  "data": {
+    "tier": 3,
+    "thresholds": {
+      "major": 11,
+      "severe": 27
+    },
+    "score": 5
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

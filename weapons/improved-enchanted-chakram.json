@@ -1,0 +1,19 @@
+{
+  "id": "26c18f51-d542-50a0-9579-bcc2ac6faff0",
+  "name": "Improved Enchanted Chakram",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "magic",
+    "trait": "finesse",
+    "range": "close",
+    "damage": "d6+4",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

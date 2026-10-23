@@ -1,0 +1,19 @@
+{
+  "id": "f2e24bf6-4225-5473-b04d-47105b703cf2",
+  "name": "Advanced Quarterstaff",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "physical",
+    "trait": "instinct",
+    "range": "melee",
+    "damage": "d10+9",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

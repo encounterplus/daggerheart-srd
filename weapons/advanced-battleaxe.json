@@ -1,0 +1,19 @@
+{
+  "id": "a527a4d1-82d0-540e-ab86-7df24d5b3ec8",
+  "name": "Advanced Battleaxe",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d10+9",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

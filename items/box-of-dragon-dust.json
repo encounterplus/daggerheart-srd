@@ -1,0 +1,10 @@
+{
+  "id": "92dae1e4-297b-5998-b831-3825a30a20f8",
+  "name": "Box Of Dragon Dust",
+  "descr": "This snuffbox is filled with combustible powder.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

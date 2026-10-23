@@ -1,0 +1,47 @@
+{
+  "id": "3e4b7969-7685-5be8-9eb8-2bdaa456d482",
+  "name": "Spectral Guardian",
+  "descr": "A ghostly fighter with spears and swords, anchored by duty.",
+  "data": {
+    "tier": 2,
+    "type": "standard",
+    "motivesAndTactics": "Move through solid objects, protect treasure, rehash old battles",
+    "difficulty": 15,
+    "thresholds": {
+      "major": 7,
+      "severe": 15
+    },
+    "hp": 4,
+    "stress": 3,
+    "attackModifier": 1,
+    "attack": {
+      "name": "Spear",
+      "range": "veryClose",
+      "damage": "2d8+1",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Ancient Knowledge",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Ghost",
+        "type": "passive",
+        "text": "The Guardian has resistance to physical damage. **Mark a Stress** to move up to Close range through solid objects."
+      },
+      {
+        "name": "Grave Blade",
+        "type": "action",
+        "text": "**Spend a Fear** to make an attack against a target within Very Close range. On a success, deal **2d10+6** physical damage and the target must mark a Stress."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

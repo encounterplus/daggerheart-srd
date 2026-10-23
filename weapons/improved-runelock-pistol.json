@@ -1,0 +1,19 @@
+{
+  "id": "7f7f2cf6-0f56-5417-8b76-045a5fbfdba4",
+  "name": "Improved Runelock Pistol",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "magic",
+    "trait": "knowledge",
+    "range": "far",
+    "damage": "d6+6",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

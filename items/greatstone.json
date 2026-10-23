@@ -1,0 +1,10 @@
+{
+  "id": "441588df-5d17-5c9d-936e-fdcba406af0d",
+  "name": "Greatstone",
+  "descr": "You can attach this stone to a weapon that doesn't already have a feature. The weapon gains the following feature. _Powerful:_ On a successful attack, roll an additional damage die and discard the lowest result.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

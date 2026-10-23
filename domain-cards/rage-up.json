@@ -1,0 +1,16 @@
+{
+  "id": "c39f247a-8fed-5915-831b-376b427ddd41",
+  "name": "Rage Up",
+  "descr": "Before you make an attack, you can **mark a Stress** to gain a bonus to your damage roll equal to twice your Strength.\n\nYou can Rage Up twice per attack.",
+  "data": {
+    "level": 6,
+    "recall": 1,
+    "type": "ability",
+    "domain": "blade"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

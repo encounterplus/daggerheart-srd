@@ -1,0 +1,17 @@
+{
+  "id": "99e47be3-f3f1-5eb0-8f1a-09b639b23ec4",
+  "name": "Improved Full Plate Armor",
+  "data": {
+    "tier": 2,
+    "thresholds": {
+      "major": 13,
+      "severe": 28
+    },
+    "score": 5
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

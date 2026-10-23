@@ -1,0 +1,37 @@
+{
+  "id": "147ab6dd-9645-51df-9476-8359f34fc8ca",
+  "name": "Mighty Strider",
+  "data": {
+    "tier": 2,
+    "examples": "Camel, Horse, Zebra, etc.",
+    "trait": "agility",
+    "traitModifier": 1,
+    "evasionModifier": 2,
+    "attack": {
+      "range": "melee",
+      "trait": "agility",
+      "damage": "d8+1",
+      "damageType": "phy"
+    },
+    "advantages": [
+      "leap",
+      "navigate",
+      "sprint"
+    ],
+    "features": [
+      {
+        "name": "Carrier",
+        "text": "You can carry up to two willing allies with you when you move."
+      },
+      {
+        "name": "Trample",
+        "text": "**Mark a Stress** to move up to Close range in a straight line and make an attack against all targets within Melee range of the line. Targets you succeed against take **d8+1** physical damage using your Proficiency and are temporarily _Vulnerable_."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

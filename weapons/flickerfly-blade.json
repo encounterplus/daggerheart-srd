@@ -1,0 +1,19 @@
+{
+  "id": "2d3873b0-1376-5553-9df9-7aea26a11050",
+  "name": "Flickerfly Blade",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "melee",
+    "damage": "d8+5",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "6b871bf8-2090-5bd4-b929-46ef47d075df",
+  "name": "Dragonbloom Tea",
+  "descr": "You can drink this tea to unleash a fiery breath attack. Make an Instinct Roll against all adversaries in front of you within Close range. Targets you succeed against take d20 physical damage using your Proficiency.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2615a449-67a5-582b-915f-84d5ded97cac",
+  "name": "Advanced Scimitar",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "physical",
+    "trait": "presence",
+    "range": "melee",
+    "damage": "d8+7",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

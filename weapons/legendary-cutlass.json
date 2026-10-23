@@ -1,0 +1,19 @@
+{
+  "id": "b9356a19-1066-5a16-a99d-3b6d9b319618",
+  "name": "Legendary Cutlass",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "physical",
+    "trait": "presence",
+    "range": "melee",
+    "damage": "d8+10",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

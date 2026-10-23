@@ -1,0 +1,16 @@
+{
+  "id": "e66e54db-c228-592a-ad3f-4ec027dcedee",
+  "name": "Invigoration",
+  "descr": "When you or an ally within Close range has used a feature that has an exhaustion limit (such as once per rest or once per session), you can **spend any number of Hope** and roll that many **d6s**. If any roll a 6, the feature can be used again.",
+  "data": {
+    "level": 10,
+    "recall": 3,
+    "type": "spell",
+    "domain": "splendor"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

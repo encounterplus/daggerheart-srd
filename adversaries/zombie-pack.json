@@ -1,0 +1,43 @@
+{
+  "id": "948f27fe-3175-59dc-9cb4-5112a0401414",
+  "name": "Zombie Pack",
+  "descr": "A group of shambling corpses instinctively moving together.",
+  "data": {
+    "tier": 1,
+    "type": "horde",
+    "typeDetail": "2/HP",
+    "motivesAndTactics": "Consume flesh, hunger, maul",
+    "difficulty": 8,
+    "thresholds": {
+      "major": 6,
+      "severe": 12
+    },
+    "hp": 6,
+    "stress": 3,
+    "attackModifier": -1,
+    "attack": {
+      "name": "Bite",
+      "range": "melee",
+      "damage": "1d10+2",
+      "damageType": "phy"
+    },
+    "experience": [],
+    "features": [
+      {
+        "name": "Horde (1d4+2)",
+        "type": "passive",
+        "text": "When the Zombies have marked half or more of their HP, their standard attack deals **1d4+2** physical damage instead."
+      },
+      {
+        "name": "Overwhelm",
+        "type": "reaction",
+        "text": "When the Zombies mark HP from an attack within Melee range, you can **mark a Stress** to make a standard attack against the attacker."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

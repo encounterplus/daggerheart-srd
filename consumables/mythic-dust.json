@@ -1,0 +1,10 @@
+{
+  "id": "6eddaa8d-84dd-52f6-8e7f-9b5c0f3c8ec9",
+  "name": "Mythic Dust",
+  "descr": "You can apply this dust to a weapon that deals magic damage to add a d12 to your next damage roll with that weapon.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

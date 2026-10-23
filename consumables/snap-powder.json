@@ -1,0 +1,10 @@
+{
+  "id": "6996323d-6e2f-5c0e-bf7c-96f0f8d3f2c3",
+  "name": "Snap Powder",
+  "descr": "Mark a Stress and clear a HP.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

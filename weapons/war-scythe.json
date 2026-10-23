@@ -1,0 +1,19 @@
+{
+  "id": "cc152f26-c9a6-5cc2-a07f-5846cf93efeb",
+  "name": "War Scythe",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "veryClose",
+    "damage": "d8+5",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

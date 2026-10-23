@@ -1,0 +1,10 @@
+{
+  "id": "75eb13bb-458d-54b8-80d7-9c6017d7a7f7",
+  "name": "Mossmantle Potion",
+  "descr": "You can drink this tea to perfectly blend into natural environments until your next rest.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "c7f2a16d-38ab-531e-b6e5-d6d6300b7113",
+  "name": "Quarterstaff",
+  "data": {
+    "tier": 1,
+    "category": "primary",
+    "type": "physical",
+    "trait": "instinct",
+    "range": "melee",
+    "damage": "d10+3",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

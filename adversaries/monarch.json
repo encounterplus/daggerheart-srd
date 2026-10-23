@@ -1,0 +1,56 @@
+{
+  "id": "ddcc6d40-aacf-56a7-b153-195e88ae185b",
+  "name": "Monarch",
+  "descr": "The sovereign ruler of a nation, wreathed in the privilege of tradition and wielding unmatched power in their domain.",
+  "data": {
+    "tier": 3,
+    "type": "social",
+    "motivesAndTactics": "Control vassals, destroy rivals, forge a legacy",
+    "difficulty": 16,
+    "thresholds": {
+      "major": 16,
+      "severe": 32
+    },
+    "hp": 6,
+    "stress": 5,
+    "attackModifier": 0,
+    "attack": {
+      "name": "Warhammer",
+      "range": "melee",
+      "damage": "3d6+3",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "History",
+        "modifier": 3
+      },
+      {
+        "name": "Nobility",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Execute Them!",
+        "type": "action",
+        "text": "**Spend a Fear** per PC in the party to have the group condemned for crimes real or imagined. A PC who succeeds on a Presence Roll can demand trial by combat or another special form of trial."
+      },
+      {
+        "name": "Crownsguard",
+        "type": "action",
+        "text": "Once per scene, **mark a Stress** to summon six Tier 3 Minions, who appear at Close range to enforce the Monarch's will."
+      },
+      {
+        "name": "Casus Belli",
+        "type": "reaction",
+        "text": "_Long-Term Countdown (8)_. **Spend a Fear** to activate after the Monarch's desire for war is first revealed. When it triggers, the Monarch has a reason to rally the nation to war and the support to act on that reason. You gain **1d4** Fear."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

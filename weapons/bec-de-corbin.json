@@ -1,0 +1,19 @@
+{
+  "id": "37aadc58-a068-56d9-a19d-6f888e1f3ad2",
+  "name": "Bec De Corbin",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "veryClose",
+    "damage": "d10+9",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

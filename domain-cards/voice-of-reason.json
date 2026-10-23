@@ -1,0 +1,16 @@
+{
+  "id": "5a321f26-353e-5832-968c-a7ec8420df5e",
+  "name": "Voice of Reason",
+  "descr": "You speak with an unmatched power and authority. You have advantage on action rolls to de‑escalate violent situations or convince someone to follow your lead.\n\nAdditionally, you're emboldened in moments of duress. When all of your Stress slots are marked, you gain a +1 bonus to your Proficiency for damage rolls.",
+  "data": {
+    "level": 3,
+    "recall": 1,
+    "type": "ability",
+    "domain": "splendor"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

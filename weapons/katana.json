@@ -1,0 +1,19 @@
+{
+  "id": "ff457cd2-fb14-54ff-a263-9857d4ef762d",
+  "name": "Katana",
+  "data": {
+    "tier": 1,
+    "category": "primary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "melee",
+    "damage": "d10+3",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

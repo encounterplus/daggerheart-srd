@@ -1,0 +1,16 @@
+{
+  "id": "8e0a98f5-d804-5bc5-b8b0-c1a1c5ddc834",
+  "name": "Darkfire",
+  "descr": "Once per scene, **spend any number of Hope** to target an equal number of adversaries within Close range. Each target makes a **Reaction Roll (15)**. Targets who fail take **d8+6** magic damage using your Spellcast trait as they are engulfed in dark fire. Targets who succeed take half damage.",
+  "data": {
+    "level": 6,
+    "recall": 2,
+    "type": "spell",
+    "domain": "dread"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

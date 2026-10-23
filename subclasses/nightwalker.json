@@ -1,0 +1,40 @@
+{
+  "id": "7288ba45-3ec6-5b3b-8c0f-36f652f52f6c",
+  "name": "Nightwalker",
+  "descr": "Play the Nightwalker if you want to manipulate shadows to maneuver through the environment.",
+  "data": {
+    "class": "Rogue",
+    "spellcastTrait": "finesse",
+    "foundations": [
+      {
+        "name": "Shadow Stepper",
+        "text": "You can move from shadow to shadow. When you move into an area of darkness or a shadow cast by another creature or object, you can **mark a Stress** to disappear from where you are and reappear inside another shadow within Far range. When you reappear, you are _Cloaked._"
+      }
+    ],
+    "specializations": [
+      {
+        "name": "Dark Cloud",
+        "text": "Make a **Spellcast Roll (15).** On a success, create a temporary dark cloud that covers any area within Close range. Anyone in this cloud can't see outside of it, and anyone outside of it can't see in. You're considered _Cloaked_ from any adversary for whom the cloud blocks line of sight."
+      },
+      {
+        "name": "Adrenaline",
+        "text": "While you're _Vulnerable,_ add your level to your damage rolls."
+      }
+    ],
+    "masteries": [
+      {
+        "name": "Fleeting Shadow",
+        "text": "Gain a permanent +1 bonus to your Evasion. You can use your \"Shadow Stepper\" feature to move within Very Far range."
+      },
+      {
+        "name": "Vanishing Act",
+        "text": "**Mark a Stress** to become _Cloaked_ at any time. When _Cloaked_ from this feature, you automatically clear the _Restrained_ condition if you have it. You remain _Cloaked_ in this way until you roll with Fear or until your next rest."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

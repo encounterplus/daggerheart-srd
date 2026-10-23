@@ -1,0 +1,17 @@
+{
+  "id": "22793513-69f3-55f8-a4dd-0e1ef1f540a1",
+  "name": "Darkweave Shroud",
+  "data": {
+    "tier": 4,
+    "thresholds": {
+      "major": 13,
+      "severe": 36
+    },
+    "score": 5
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

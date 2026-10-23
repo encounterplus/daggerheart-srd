@@ -1,0 +1,17 @@
+{
+  "id": "4e785278-d636-57a7-92af-1ec1d061107f",
+  "name": "Banded Armor",
+  "data": {
+    "tier": 1,
+    "thresholds": {
+      "major": 8,
+      "severe": 16
+    },
+    "score": 4
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

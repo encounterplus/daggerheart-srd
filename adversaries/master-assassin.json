@@ -1,0 +1,61 @@
+{
+  "id": "0252ffd8-4963-5c25-af58-7411dd3c597b",
+  "name": "Master Assassin",
+  "descr": "A seasoned killer with a threatening voice and a deadly blade.",
+  "data": {
+    "tier": 2,
+    "type": "leader",
+    "motivesAndTactics": "Ambush, get out alive, kill, prepare for all scenarios",
+    "difficulty": 15,
+    "thresholds": {
+      "major": 12,
+      "severe": 25
+    },
+    "hp": 7,
+    "stress": 5,
+    "attackModifier": 5,
+    "attack": {
+      "name": "Serrated Dagger",
+      "range": "close",
+      "damage": "2d10+2",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Command",
+        "modifier": 3
+      },
+      {
+        "name": "Intrusion",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Won't See It Coming",
+        "type": "passive",
+        "text": "The Assassin deals direct damage while they're _Hidden_."
+      },
+      {
+        "name": "Strike as One",
+        "type": "action",
+        "text": "**Mark a Stress** to spotlight a number of other Assassins equal to the Assassin's unmarked Stress."
+      },
+      {
+        "name": "The Subtle Blade",
+        "type": "reaction",
+        "text": "When the Assassin successfully makes a standard attack against a _Vulnerable_ target, you can **spend a Fear** to deal Severe damage instead of their standard damage."
+      },
+      {
+        "name": "Momentum",
+        "type": "reaction",
+        "text": "When the Assassin makes a successful attack against a PC, you gain a Fear."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

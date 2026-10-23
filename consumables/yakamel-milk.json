@@ -1,0 +1,10 @@
+{
+  "id": "acc73058-e48c-57f2-b96f-e3b96a6df7bd",
+  "name": "Yakamel Milk",
+  "descr": "After consuming this milk, the next time you clear 1 or more Hit Points, you clear an additional Hit Point.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

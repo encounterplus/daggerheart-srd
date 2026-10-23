@@ -1,0 +1,10 @@
+{
+  "id": "9defeeff-b204-55ee-82ca-d69858b34968",
+  "name": "Gecko Gloves",
+  "descr": "You can climb up vertical surfaces and across ceilings.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

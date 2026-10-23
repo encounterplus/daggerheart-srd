@@ -1,0 +1,61 @@
+{
+  "id": "d5bdbb1f-38bb-552b-9d17-883bb9aaaa13",
+  "name": "Kelpie",
+  "descr": "A river-dwelling shapeshifter who prefers an enchanting equine form in and out of the water.",
+  "data": {
+    "tier": 1,
+    "type": "skulk",
+    "motivesAndTactics": "Adopt an attractive or useful shape, drown and devour, entice unwary travelers",
+    "difficulty": 12,
+    "thresholds": {
+      "major": 4,
+      "severe": 8
+    },
+    "hp": 3,
+    "stress": 5,
+    "attackModifier": -2,
+    "attack": {
+      "name": "Hooves",
+      "range": "veryClose",
+      "damage": "1d8+2",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Entanglement",
+        "modifier": 3
+      },
+      {
+        "name": "Mind Reader",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Captivating",
+        "type": "passive",
+        "text": "A PC must mark a Stress to move out of the Kelpie's Melee range."
+      },
+      {
+        "name": "Heart's Desire",
+        "type": "passive",
+        "text": "After the Kelpie interacts with or watches a creature for at least a hundred heartbeats, the Kelpie knows the physical form that creature would find most pleasing or alluring."
+      },
+      {
+        "name": "Shapeshifter",
+        "type": "action",
+        "text": "**Mark a Stress** to change the Kelpie's physical form into any creature or object smaller than a wagon. A creature has disadvantage on rolls against the Kelpie while the Kelpie is in a form the creature finds pleasing or alluring."
+      },
+      {
+        "name": "Enchant",
+        "type": "action",
+        "text": "**Spend a Fear** to have the Kelpie beguile a PC within Close range. The PC must succeed on an Instinct Reaction Roll or become _Enchanted_ until they take damage. While _Enchanted_, the PC perceives the Kelpie as a trusted friend or ally and will do what the Kelpie says unless it contradicts the PC's most deeply held morals."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

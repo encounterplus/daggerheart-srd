@@ -1,0 +1,29 @@
+{
+  "id": "d7fa9c4d-8c99-5465-82b1-30ee14940d9e",
+  "name": "Ambushers",
+  "descr": "An ambush is set by the PCs to catch unsuspecting adversaries off-guard.",
+  "data": {
+    "tier": 1,
+    "type": "event",
+    "impulses": "Escape, group up, protect the most vulnerable",
+    "difficulty": "Special (see \"Relative Strength\")",
+    "adversaries": "Any",
+    "features": [
+      {
+        "name": "Relative Strength",
+        "type": "passive",
+        "text": "The Difficulty of this environment equals that of the adversary with the highest Difficulty.\n\nWhich adversary is the least prepared? Which one is the most?"
+      },
+      {
+        "name": "Where Did They Come From?",
+        "type": "reaction",
+        "text": "When a PC starts the ambush on unsuspecting adversaries, you lose 2 Fear and the first attack roll a PC makes has advantage.\n\nWhat are the adversaries in the middle of doing when the ambush starts? How does this impact their approach to the fight?"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

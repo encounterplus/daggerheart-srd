@@ -1,0 +1,38 @@
+{
+  "id": "8f7af4be-2f3c-5791-a025-644fa282c6ed",
+  "name": "Mythic Aerial Hunter",
+  "data": {
+    "tier": 4,
+    "examples": "Dragon, Pterodactyl, Roc, Wyvern, etc.",
+    "trait": "finesse",
+    "traitModifier": 3,
+    "evasionModifier": 4,
+    "attack": {
+      "range": "melee",
+      "trait": "finesse",
+      "damage": "d10+11",
+      "damageType": "phy"
+    },
+    "advantages": [
+      "attack",
+      "deceive",
+      "locate",
+      "navigate"
+    ],
+    "features": [
+      {
+        "name": "Carrier",
+        "text": "You can carry up to three willing allies with you when you move."
+      },
+      {
+        "name": "Deadly Raptor",
+        "text": "You can fly at will and move up to Far range as part of your action. When you move in a straight line into Melee range of a target from at least Close range and make an attack against that target in the same action, you can reroll all damage dice that rolled a result lower than your Proficiency."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

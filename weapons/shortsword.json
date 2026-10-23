@@ -1,0 +1,19 @@
+{
+  "id": "e57e1b0e-e125-574c-a77a-7532f9b37bb8",
+  "name": "Shortsword",
+  "data": {
+    "tier": 1,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "melee",
+    "damage": "d8",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "e484e25a-9af1-58b0-b7d6-a8eb50ec451e",
+  "name": "Advanced Scale Mail Armor",
+  "data": {
+    "tier": 3,
+    "thresholds": {
+      "major": 13,
+      "severe": 30
+    },
+    "score": 5
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

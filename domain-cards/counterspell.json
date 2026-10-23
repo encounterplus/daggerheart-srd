@@ -1,0 +1,16 @@
+{
+  "id": "bb5f34fb-37cc-5234-be66-6501c7221842",
+  "name": "Counterspell",
+  "descr": "You can interrupt a magical effect taking place by making a reaction roll using your Spellcast trait. On a success, the effect stops and any consequences are avoided, and this card is placed in your vault.",
+  "data": {
+    "level": 3,
+    "recall": 2,
+    "type": "spell",
+    "domain": "arcana"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

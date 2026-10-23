@@ -1,0 +1,16 @@
+{
+  "id": "14f3210c-43b1-5729-9177-b605f1498990",
+  "name": "Hideous Retribution",
+  "descr": "When an ally within Close range takes damage from a target you can see, you can make a reaction roll against the target using your Spellcast trait. On a success, **mark a Stress** to deal **d6** magic damage using your Proficiency.",
+  "data": {
+    "level": 2,
+    "recall": 2,
+    "type": "spell",
+    "domain": "dread"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "594b31ea-99ea-5811-bfb8-f12bc0b5eb89",
+  "name": "Legendary Warhammer",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d12+12",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

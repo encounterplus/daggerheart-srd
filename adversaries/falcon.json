@@ -1,0 +1,51 @@
+{
+  "id": "170ed9d6-8c2e-5462-9744-b0db5a998fab",
+  "name": "Falcon",
+  "descr": "A bird of prey that has long, pointed wings and a notched beak.",
+  "data": {
+    "tier": 1,
+    "type": "skulk",
+    "motivesAndTactics": "Circle, clutch, dive, spy",
+    "difficulty": 12,
+    "thresholds": {
+      "major": 5,
+      "severe": 8
+    },
+    "hp": 3,
+    "stress": 3,
+    "attackModifier": 2,
+    "attack": {
+      "name": "Talons",
+      "range": "melee",
+      "damage": "1d6+1",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Keen Senses",
+        "modifier": 4
+      },
+      {
+        "name": "Fly",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Nimble Flyer",
+        "type": "passive",
+        "text": "While flying, the Falcon gains a +3 bonus to its Difficulty."
+      },
+      {
+        "name": "Dive Bomb",
+        "type": "action",
+        "text": "**Mark a Stress** to make a standard attack against a target from above. The Falcon gains a +2 bonus to the attack and damage rolls."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

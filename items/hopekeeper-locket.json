@@ -1,0 +1,10 @@
+{
+  "id": "20129d87-3ae5-5223-bc0f-4719df3e3591",
+  "name": "Hopekeeper Locket",
+  "descr": "During a long rest, if you have 6 Hope, you can spend a Hope to imbue this locket with your bountiful resolve. When you have 0 Hope, you can use the locket to immediately gain a Hope. The locket must be re-imbued before it can be used this way again.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

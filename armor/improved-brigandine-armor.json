@@ -1,0 +1,17 @@
+{
+  "id": "8817546d-3e22-55bb-8a23-8ac30bc19afb",
+  "name": "Improved Brigandine Armor",
+  "data": {
+    "tier": 2,
+    "thresholds": {
+      "major": 9,
+      "severe": 19
+    },
+    "score": 4
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "872bfe60-c563-5269-9cf5-0dc676ebdf48",
+  "name": "Advanced Shortsword",
+  "data": {
+    "tier": 3,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "melee",
+    "damage": "d8+4",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

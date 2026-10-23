@@ -1,0 +1,10 @@
+{
+  "id": "f2da2721-0f7d-5543-9d2d-b816f09aacce",
+  "name": "Glamour Stone",
+  "descr": "Activate this pebble-sized stone to memorize the appearance of someone you can see. Spend a Hope to magically recreate this guise on yourself as an illusion.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

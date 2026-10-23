@@ -1,0 +1,16 @@
+{
+  "id": "d8251618-76b8-5e94-8df0-afaba64ca220",
+  "name": "Reaper’s Strike",
+  "descr": "Once per long rest, **spend a Hope** to make an attack roll. The GM tells you which targets within range it would succeed against. Choose one of these targets and force them to mark 5 Hit Points.",
+  "data": {
+    "level": 9,
+    "recall": 3,
+    "type": "ability",
+    "domain": "blade"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

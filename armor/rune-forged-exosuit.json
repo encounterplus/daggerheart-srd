@@ -1,0 +1,17 @@
+{
+  "id": "215c4f1b-674d-5287-a188-dc60befdcc67",
+  "name": "Rune-forged Exosuit",
+  "data": {
+    "tier": 4,
+    "thresholds": {
+      "major": 12,
+      "severe": 39
+    },
+    "score": 7
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

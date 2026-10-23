@@ -1,0 +1,16 @@
+{
+  "id": "3b91bcac-13e2-5dc4-b01a-8fa6bf1d758e",
+  "name": "Splendor-touched",
+  "descr": "When 4 or more of the domain cards in your loadout are from the Splendor domain, gain the following benefits:\n\n- +3 bonus to your Severe damage threshold\n- Once per long rest, when incoming damage would require you to mark a number of Hit Points, you can choose to mark that much Stress or spend that much Hope instead.",
+  "data": {
+    "level": 7,
+    "recall": 2,
+    "type": "ability",
+    "domain": "splendor"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

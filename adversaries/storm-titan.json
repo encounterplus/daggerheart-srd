@@ -1,0 +1,63 @@
+{
+  "id": "6c277110-303d-5902-9b9a-ff2ee8cf9e90",
+  "name": "Storm Titan",
+  "descr": "An ancient, wise, and temperamental goliath who has hair made of mist and electricity crackling across their skin.",
+  "data": {
+    "tier": 3,
+    "type": "solo",
+    "motivesAndTactics": "Erupt violently, wait, watch",
+    "difficulty": 20,
+    "thresholds": {
+      "major": 35,
+      "severe": 70
+    },
+    "hp": 11,
+    "stress": 8,
+    "attackModifier": 7,
+    "attack": {
+      "name": "Lightning Bolt",
+      "range": "far",
+      "damage": "3d20+10",
+      "damageType": "mag"
+    },
+    "experience": [
+      {
+        "name": "Power of the Storm",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Relentless",
+        "nameDetail": "3",
+        "type": "passive",
+        "text": "The Titan can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them."
+      },
+      {
+        "name": "Momentum",
+        "type": "passive",
+        "text": "When the Titan makes a successful attack against a PC, you gain a Fear."
+      },
+      {
+        "name": "Ball Lightning",
+        "type": "action",
+        "text": "**Spend a Fear** to have the Titan conjure **1d4** spheres of electrical energy within Close range. When the Titan is spotlighted, they can move each sphere up to Close range. When a sphere moves within Very Close range of a PC, the PC takes **4d6** magic damage, and the sphere disappears. Each sphere has the same Difficulty as the Titan and disappears if a creature deals magic damage to it."
+      },
+      {
+        "name": "Storm Bringer",
+        "type": "action",
+        "text": "**Mark a Stress** to have the Titan conjure a raging storm. Each PC within Close range of the Titan must make a Strength Reaction Roll. Targets who fail take **3d12** magic damage and are _Vulnerable_ until they are spotlighted. Targets who succeed take half damage."
+      },
+      {
+        "name": "Thunderclap",
+        "type": "action",
+        "text": "**Spend a Fear** to target up to three PCs in front of the Titan within Close range. Each target marks a Stress and becomes _Vulnerable_ until they roll with Hope."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

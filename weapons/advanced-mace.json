@@ -1,0 +1,19 @@
+{
+  "id": "fc53370b-b341-5ffc-a861-9105fe4f7eb7",
+  "name": "Advanced Mace",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d8+7",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "a9d527d6-eca5-535a-801e-9d2b4859073c",
+  "name": "Stonemason’s Fortune",
+  "descr": "When you throw this gray brick on the ground, it immediately grows into a 6-foot-tall, 10-foot-wide, and 2-foot-deep wall of solid stone.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

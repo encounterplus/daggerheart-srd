@@ -1,0 +1,16 @@
+{
+  "id": "2e0ee01a-e7dd-56ed-acdf-5e139a82bc64",
+  "name": "Brace",
+  "descr": "When you mark an Armor Slot to reduce incoming damage, you can **mark a Stress** to mark an additional Armor Slot.",
+  "data": {
+    "level": 3,
+    "recall": 1,
+    "type": "ability",
+    "domain": "bone"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

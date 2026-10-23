@@ -1,0 +1,19 @@
+{
+  "id": "48a78b25-f647-5914-8ba8-5b50e3293ba1",
+  "name": "Bloodstaff",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "magic",
+    "trait": "instinct",
+    "range": "far",
+    "damage": "d20+7",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "6b33d1a5-87bc-52ab-a7fb-ce33609ca22b",
+  "name": "War Dart",
+  "data": {
+    "tier": 3,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "far",
+    "damage": "d6+5",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

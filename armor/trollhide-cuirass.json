@@ -1,0 +1,17 @@
+{
+  "id": "ee37d80b-22fb-5136-ac6c-64eeb3997ba9",
+  "name": "Trollhide Cuirass",
+  "data": {
+    "tier": 2,
+    "thresholds": {
+      "major": 11,
+      "severe": 23
+    },
+    "score": 5
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

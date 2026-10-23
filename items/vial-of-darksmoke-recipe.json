@@ -1,0 +1,10 @@
+{
+  "id": "47537867-420a-5782-995f-22f890c675af",
+  "name": "Vial Of Darksmoke Recipe",
+  "descr": "As a downtime move, you can mark a Stress to craft a Vial of Darksmoke.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

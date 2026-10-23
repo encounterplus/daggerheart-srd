@@ -1,0 +1,19 @@
+{
+  "id": "c2d2151c-4002-5084-a890-06d3bb062d68",
+  "name": "Legendary Beast",
+  "data": {
+    "tier": 3,
+    "examples": "Upgraded Tier 1 Options",
+    "features": [
+      {
+        "name": "Evolved",
+        "text": "Pick a Tier 1 Beastform option and become a larger, more powerful version of that creature. While you're in this form, you retain all traits and features from the original form and gain the following bonuses:\n\n- A +6 bonus to damage rolls\n- A +1 bonus to the trait used by this form\n- A +2 bonus to Evasion"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

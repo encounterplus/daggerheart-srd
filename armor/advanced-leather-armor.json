@@ -1,0 +1,17 @@
+{
+  "id": "46b681c0-b2a1-5dbf-ace0-429f348e8109",
+  "name": "Advanced Leather Armor",
+  "data": {
+    "tier": 3,
+    "thresholds": {
+      "major": 11,
+      "severe": 27
+    },
+    "score": 5
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

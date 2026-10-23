@@ -1,0 +1,37 @@
+{
+  "id": "c16d75be-bbcb-5a92-801b-e8a2fadff930",
+  "name": "Great Winged Beast",
+  "data": {
+    "tier": 3,
+    "examples": "Giant Eagle, Falcon, etc.",
+    "trait": "finesse",
+    "traitModifier": 2,
+    "evasionModifier": 3,
+    "attack": {
+      "range": "melee",
+      "trait": "finesse",
+      "damage": "d8+6",
+      "damageType": "phy"
+    },
+    "advantages": [
+      "deceive",
+      "distract",
+      "locate"
+    ],
+    "features": [
+      {
+        "name": "Bird's-Eye View",
+        "text": "You can fly at will. Once per rest while you are airborne, you can ask the GM a question about the scene below you without needing to roll. The first time a character makes a roll to act on this information, they gain advantage on the roll."
+      },
+      {
+        "name": "Carrier",
+        "text": "You can carry up to two willing allies with you when you move."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

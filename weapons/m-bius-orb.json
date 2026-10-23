@@ -1,0 +1,19 @@
+{
+  "id": "5e938a96-fc28-57bf-a371-2cce64ea835c",
+  "name": "Möbius Orb",
+  "data": {
+    "tier": 4,
+    "category": "secondary",
+    "type": "magic",
+    "trait": "knowledge",
+    "range": "melee",
+    "damage": "d8+6",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

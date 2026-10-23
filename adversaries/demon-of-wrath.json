@@ -1,0 +1,57 @@
+{
+  "id": "d691f795-cf1f-5df9-a52c-48d52507afd6",
+  "name": "Demon Of Wrath",
+  "descr": "A hulking demon with boulder-sized fists, driven by endless rage.",
+  "data": {
+    "tier": 3,
+    "type": "bruiser",
+    "motivesAndTactics": "Fuel anger, impress rivals, wreak havoc",
+    "difficulty": 17,
+    "thresholds": {
+      "major": 22,
+      "severe": 40
+    },
+    "hp": 7,
+    "stress": 5,
+    "attackModifier": 3,
+    "attack": {
+      "name": "Fists",
+      "range": "veryClose",
+      "damage": "3d8+1",
+      "damageType": "mag"
+    },
+    "experience": [
+      {
+        "name": "Intimidation",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Anger Unrelenting",
+        "type": "passive",
+        "text": "The Demon's attacks deal direct damage."
+      },
+      {
+        "name": "Battle Lust",
+        "type": "action",
+        "text": "**Spend a Fear** to boil the blood of all PCs within Far range. They use a d20 as their Fear Die until the end of the scene."
+      },
+      {
+        "name": "Retaliation",
+        "type": "reaction",
+        "text": "When the Demon takes damage from an attack within Close range, you can **mark a Stress** to make a standard attack against the attacker."
+      },
+      {
+        "name": "Blood and Souls",
+        "type": "reaction",
+        "text": "_Countdown (Loop 6)_. Activate the first time an attack is made within sight of the Demon. It ticks down when a PC takes a violent action. When it triggers, summon **1d4** Minor Demons, who appear at Close range."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

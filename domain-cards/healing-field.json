@@ -1,0 +1,16 @@
+{
+  "id": "73afc2e3-243c-5202-847b-089955b7a59e",
+  "name": "Healing Field",
+  "descr": "Once per long rest, you can conjure a field of healing plants around you. Everywhere within Close range of you bursts to life with vibrant nature, allowing you and all allies in the area to clear a Hit Point.\n\n**Spend 2 Hope** to allow you and all allies to clear 2 Hit Points instead.",
+  "data": {
+    "level": 4,
+    "recall": 2,
+    "type": "spell",
+    "domain": "sage"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

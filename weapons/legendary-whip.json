@@ -1,0 +1,19 @@
+{
+  "id": "11679932-1e30-593e-af25-7204012bc1e1",
+  "name": "Legendary Whip",
+  "data": {
+    "tier": 4,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "presence",
+    "range": "veryClose",
+    "damage": "d6+6",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

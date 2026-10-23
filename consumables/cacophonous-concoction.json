@@ -1,0 +1,10 @@
+{
+  "id": "d64c18d5-9e18-54cb-8da2-452f363b8322",
+  "name": "Cacophonous Concoction",
+  "descr": "When you drink this potion, anything you say or do in the next hour becomes impossible for a witness to recount. Any attempts they make to communicate what they saw, heard, or otherwise sensed comes out garbled or nonsensical.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

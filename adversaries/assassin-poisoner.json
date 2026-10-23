@@ -1,0 +1,52 @@
+{
+  "id": "691e667c-c9fd-5724-94ce-4cfef03cdd14",
+  "name": "Assassin Poisoner",
+  "descr": "A cunning scoundrel skilled in both poisons and ambushing.",
+  "data": {
+    "tier": 2,
+    "type": "skulk",
+    "motivesAndTactics": "Anticipate, get paid, kill, taint food and water",
+    "difficulty": 14,
+    "thresholds": {
+      "major": 8,
+      "severe": 16
+    },
+    "hp": 4,
+    "stress": 4,
+    "attackModifier": 3,
+    "attack": {
+      "name": "Poisoned Throwing Dagger",
+      "range": "close",
+      "damage": "2d8+1",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Intrusion",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Grindletooth Venom",
+        "type": "passive",
+        "text": "Targets who mark HP from the Assassin's attacks are _Vulnerable_ until they clear a HP."
+      },
+      {
+        "name": "Out of Nowhere",
+        "type": "passive",
+        "text": "The Assassin has advantage on attacks if they are _Hidden_."
+      },
+      {
+        "name": "Fumigation",
+        "type": "action",
+        "text": "Drop a smoke bomb that fills the air within Close range with smoke, _Dizzying_ all targets in this area. _Dizzied_ targets have disadvantage on their next action roll, then clear the condition."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

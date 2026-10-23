@@ -1,0 +1,16 @@
+{
+  "id": "37f4793f-c8b3-537c-8cca-1eb931ebdfd0",
+  "name": "Body Basher",
+  "descr": "You use the full force of your body in a fight. On a successful attack using a weapon with a Melee range, gain a bonus to your damage roll equal to your Strength.",
+  "data": {
+    "level": 2,
+    "recall": 1,
+    "type": "ability",
+    "domain": "valor"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

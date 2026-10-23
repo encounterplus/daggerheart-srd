@@ -1,0 +1,19 @@
+{
+  "id": "3efe5e38-d380-5dfa-9343-565769615234",
+  "name": "Tower Shield",
+  "data": {
+    "tier": 1,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d6",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

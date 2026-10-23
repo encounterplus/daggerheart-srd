@@ -1,0 +1,19 @@
+{
+  "id": "3c4c865d-a0ff-5ed5-a139-206ed8e4ef1a",
+  "name": "Improved Heavy-frame Wheelchair",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d12+6",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

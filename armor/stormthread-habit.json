@@ -1,0 +1,17 @@
+{
+  "id": "882cbd8d-6524-5154-8b9a-a8a5eaea63d2",
+  "name": "Stormthread Habit",
+  "data": {
+    "tier": 2,
+    "thresholds": {
+      "major": 9,
+      "severe": 20
+    },
+    "score": 4
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

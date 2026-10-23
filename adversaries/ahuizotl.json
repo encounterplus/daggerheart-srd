@@ -1,0 +1,56 @@
+{
+  "id": "84f1520e-1a47-5049-a4f8-44bee4e86e06",
+  "name": "Ahuizotl",
+  "descr": "A doglike ambush predator that has a clawed hand on the end of a long prehensile tail and drags victims into rivers to drown them.",
+  "data": {
+    "tier": 1,
+    "type": "skulk",
+    "motivesAndTactics": "Ambush, drown, restrain",
+    "difficulty": 12,
+    "thresholds": {
+      "major": 5,
+      "severe": 9
+    },
+    "hp": 4,
+    "stress": 3,
+    "attackModifier": 2,
+    "attack": {
+      "name": "Bite",
+      "range": "melee",
+      "damage": "1d6+2",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Stealth",
+        "modifier": 2
+      },
+      {
+        "name": "Swimming",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Aquatic Attacker",
+        "type": "passive",
+        "text": "When the Ahuizotl attacks from the water, it has advantage on the attack and deals an extra **1d6** damage."
+      },
+      {
+        "name": "Tail Swat",
+        "type": "action",
+        "text": "**Mark a Stress** to make an attack against a target within Very Close range. On a success, deal **1d8+2** physical damage."
+      },
+      {
+        "name": "Drag and Bag",
+        "type": "action",
+        "text": "**Spend a Fear** to have the Ahuizotl grab a target within Close range with its tail, pull the target into Melee range, and temporarily _Restrain_ them. The Ahuizotl has advantage on attacks against targets _Restrained_ in this way."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

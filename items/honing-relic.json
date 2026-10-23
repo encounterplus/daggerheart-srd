@@ -1,0 +1,10 @@
+{
+  "id": "206bcc92-b162-5ef4-adba-04b46cb4f1df",
+  "name": "Honing Relic",
+  "descr": "You gain a +1 bonus to an Experience of your choice. You can only carry one relic.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

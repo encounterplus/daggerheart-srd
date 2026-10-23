@@ -1,0 +1,10 @@
+{
+  "id": "887f0346-bfd4-5e46-93ff-3bcf8f461f34",
+  "name": "Phoenix Feather",
+  "descr": "If you have at least one Phoenix Feather on you when you fall unconscious, you gain a +1 bonus to the roll you make to determine whether you gain a scar.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

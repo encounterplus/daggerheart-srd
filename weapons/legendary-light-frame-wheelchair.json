@@ -1,0 +1,19 @@
+{
+  "id": "99e72f23-3c67-56ad-a7f6-a0aaaaaf6638",
+  "name": "Legendary Light-frame Wheelchair",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "melee",
+    "damage": "d8+9",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

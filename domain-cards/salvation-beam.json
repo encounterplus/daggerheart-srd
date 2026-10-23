@@ -1,0 +1,16 @@
+{
+  "id": "3615171f-fd92-58d8-902b-a083597c5b0d",
+  "name": "Salvation Beam",
+  "descr": "Make a **Spellcast Roll (16)**. On a success, **mark any number of Stress** to target a line of allies within Far range. You can clear Hit Points on the targets equal to the number of Stress marked, divided among them however you'd like.",
+  "data": {
+    "level": 9,
+    "recall": 2,
+    "type": "spell",
+    "domain": "splendor"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

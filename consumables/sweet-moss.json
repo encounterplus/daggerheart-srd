@@ -1,0 +1,10 @@
+{
+  "id": "c1f612e6-246c-560a-b57d-102b44794061",
+  "name": "Sweet Moss",
+  "descr": "You can consume this moss during a rest to clear 1d10 HP or 1d10 Stress.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "54967632-0e16-507e-b2c8-7959ed11bb25",
+  "name": "Advanced Dualstaff",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "magic",
+    "trait": "instinct",
+    "range": "far",
+    "damage": "d6+9",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

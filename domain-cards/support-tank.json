@@ -1,0 +1,16 @@
+{
+  "id": "b9b82c08-575d-5efd-a4d4-c93fd595b3e1",
+  "name": "Support Tank",
+  "descr": "When an ally within Close range fails a roll, you can **spend 2 Hope** to allow them to reroll either their Hope or Fear Die.",
+  "data": {
+    "level": 4,
+    "recall": 2,
+    "type": "ability",
+    "domain": "valor"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

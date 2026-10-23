@@ -1,0 +1,19 @@
+{
+  "id": "c4120a42-18fe-53a1-bf37-0be213210060",
+  "name": "Spellbound Bangles",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "magic",
+    "trait": "knowledge",
+    "range": "melee",
+    "damage": "d10+6",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

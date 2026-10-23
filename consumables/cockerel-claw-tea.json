@@ -1,0 +1,10 @@
+{
+  "id": "4e2e2824-17ff-59ad-ade2-bd104bfb2743",
+  "name": "Cockerel Claw Tea",
+  "descr": "You can drink this tea to refresh your features as if you had taken a long rest.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

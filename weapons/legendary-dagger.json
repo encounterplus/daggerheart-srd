@@ -1,0 +1,19 @@
+{
+  "id": "71b17650-efcd-5144-8bb2-423485f52b1d",
+  "name": "Legendary Dagger",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "melee",
+    "damage": "d8+10",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

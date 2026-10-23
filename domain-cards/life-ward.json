@@ -1,0 +1,16 @@
+{
+  "id": "5e01de71-d6df-52ac-900b-63d2ca4457be",
+  "name": "Life Ward",
+  "descr": "**Spend 3 Hope** and choose an ally within Close range. They are marked with a glowing sigil of protection. When this ally would make a death move, they clear a Hit Point instead.\n\nThis effect ends when it saves the target from a death move, you cast Life Ward on another target, or you take a long rest.",
+  "data": {
+    "level": 4,
+    "recall": 1,
+    "type": "spell",
+    "domain": "splendor"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

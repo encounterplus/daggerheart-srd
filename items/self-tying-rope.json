@@ -1,0 +1,10 @@
+{
+  "id": "3c8fc9ff-71e7-515b-938d-5d7e0b83de6f",
+  "name": "Self-tying Rope",
+  "descr": "You can command this rope to tie or untie itself.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

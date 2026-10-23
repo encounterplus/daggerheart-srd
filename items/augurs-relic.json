@@ -1,0 +1,10 @@
+{
+  "id": "2094acb6-8c99-527a-bfdb-c1eb957d973f",
+  "name": "Augur’s Relic",
+  "descr": "Once per long rest, you can activate your Hope feature without spending Hope. You can carry only one relic.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

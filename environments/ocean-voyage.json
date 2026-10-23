@@ -1,0 +1,44 @@
+{
+  "id": "ab91a9c6-c44e-527c-b811-6aff373b8e9c",
+  "name": "Ocean Voyage",
+  "descr": "The PCs gain passage to a far-off destination by offering their labor in exchange.",
+  "data": {
+    "tier": 2,
+    "type": "traversal",
+    "impulses": "Reveal what lurks beneath the waves, send them in the wrong direction, sink the ship, use up their resources",
+    "difficulty": "14",
+    "adversaries": "Deep Sea Denizens (Electric Eels, Kraken, Shark, Siren), Pirates (Pirate Captain, Pirate Raiders)",
+    "features": [
+      {
+        "name": "Open Water",
+        "type": "passive",
+        "text": "_Countdown (8)_. Reaching their destination requires the party to complete the Open Water Countdown. It ticks down when a PC succeeds on an action roll to aid the ship's journey.\n\nWhere is the ship headed? What dangers along the route do the crew speak about in hushed tones?"
+      },
+      {
+        "name": "Rations Run Low",
+        "type": "passive",
+        "text": "The first time a PC rolls a failure with Fear on this journey, the crew discovers that the food and fresh water in the ship's hold have been befouled by pests and mold. Until the party reaches its destination, a PC who makes an action roll to advance the Open Water Countdown must succeed on a Strength Reaction Roll or mark a Stress first.\n\nWhat happened to the rations? What drastic measures does the crew take to ensure they don't all die of hunger and thirst?"
+      },
+      {
+        "name": "\"Pirates!\"",
+        "type": "action",
+        "text": "**Spend a Fear** to have a crewmember in the crow's nest spy black sails on the horizon! Start a Consequence Countdown (4). If it triggers before the party reaches their destination, the pirates catch up to the ship and board it. Gain a Fear, then summon one Pirate Captain and three Hordes of Pirate Raiders within Close range of the party.\n\nDoes the captain recognize the ship that's giving chase? What ungentlemanly practices are the pirates in this area famous for?"
+      },
+      {
+        "name": "Foul Weather",
+        "type": "reaction",
+        "text": "When the Open Water Countdown ticks down to an odd number, roll a **d6**. On a result of 4 or higher, the ship runs into a patch of foul weather, such as a fog bank that makes navigation difficult or a squall that threatens to capsize the ship. Each PC must succeed on a reaction roll using a relevant trait chosen by the GM or mark **1d4** Stress.\n\nWhat makes this weather different from anything the PCs have experienced before? How do they coordinate with the crew to find their way through this hazard?"
+      },
+      {
+        "name": "Here There Be Monsters",
+        "type": "reaction",
+        "text": "When the Open Water Countdown ticks down to an even number, roll a **d6**. On a result of 4 or higher, summon **1d4** Deep Sea Denizens.\n\nWhat attracts these creatures to the ship? Is there any way to drive them off without combat?"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

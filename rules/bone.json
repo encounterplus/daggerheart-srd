@@ -1,0 +1,11 @@
+{
+  "id": "42399e59-11b2-57ea-b0f0-d586683bae4f",
+  "name": "Bone",
+  "type": "domain",
+  "descr": "Bone is the domain of **tactics and the body.** Practitioners of this domain have an uncanny control over their own physical abilities and an eye for predicting the behaviors of others in combat. Adherents to Bone gain an unparalleled understanding of bodies and their movements. The Bone domain can be accessed by the **Brawler**, **Ranger**, and **Warrior** classes.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

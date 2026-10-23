@@ -1,0 +1,10 @@
+{
+  "id": "9403fe83-acde-59e6-855b-93e66924f710",
+  "name": "Timekeeper’s Pendant",
+  "descr": "You can choose an additional downtime move each rest.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "f65a8c9d-611a-5bd1-a250-602b4936a03c",
+  "name": "Sorcerer’s Hat",
+  "descr": "This conical blue hat is covered in silver stars. Once per rest, you can cast a spell from your vault with a Recall Cost equal to or less than your tier. This doesn't work for permanently vaulted cards.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "c7fcaaea-9b1a-5989-8a3d-04fa3897e805",
+  "name": "Green Ooze Oil",
+  "descr": "You can coat your weapon in this oil. The next successful attack you make with this weapon deals an extra 1d8 magic damage and temporarily _Corrodes_ the target. While _Corroded,_ the target gains a -2 penalty to their damage thresholds.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

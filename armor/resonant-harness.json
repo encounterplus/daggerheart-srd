@@ -1,0 +1,17 @@
+{
+  "id": "cfc99b46-76da-5f03-9c5a-a51582ae7128",
+  "name": "Resonant Harness",
+  "data": {
+    "tier": 4,
+    "thresholds": {
+      "major": 15,
+      "severe": 40
+    },
+    "score": 7
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

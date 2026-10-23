@@ -1,0 +1,19 @@
+{
+  "id": "b584415f-672f-50af-af65-fa49aad55b24",
+  "name": "Advanced Small Dagger",
+  "data": {
+    "tier": 3,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "melee",
+    "damage": "d8+4",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

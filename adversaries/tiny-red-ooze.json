@@ -1,0 +1,37 @@
+{
+  "id": "2d295d89-459c-5803-bb69-046f479b1aaa",
+  "name": "Tiny Red Ooze",
+  "descr": "A small moving mound of translucent flaming red slime",
+  "data": {
+    "tier": 1,
+    "type": "skulk",
+    "motivesAndTactics": "Blaze, camouflage",
+    "difficulty": 11,
+    "thresholds": {
+      "major": 5,
+      "severe": null
+    },
+    "hp": 2,
+    "stress": 1,
+    "attackModifier": -1,
+    "attack": {
+      "name": "Ooze Appendage",
+      "range": "melee",
+      "damage": "1d4+2",
+      "damageType": "mag"
+    },
+    "experience": [],
+    "features": [
+      {
+        "name": "Burning",
+        "type": "reaction",
+        "text": "When a creature within Melee range deals damage to the Ooze, they take **1d6** direct magic damage."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

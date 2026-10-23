@@ -1,0 +1,17 @@
+{
+  "id": "b6a8fd2f-b0e7-5247-8f5a-e8475baafd60",
+  "name": "Dragonscale Armor",
+  "data": {
+    "tier": 3,
+    "thresholds": {
+      "major": 11,
+      "severe": 27
+    },
+    "score": 5
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

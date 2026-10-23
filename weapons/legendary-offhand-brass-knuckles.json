@@ -1,0 +1,19 @@
+{
+  "id": "dac4cd1f-cfe8-58c7-a71c-2ecb4a0809f9",
+  "name": "Legendary Offhand Brass Knuckles",
+  "data": {
+    "tier": 4,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d8+6",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

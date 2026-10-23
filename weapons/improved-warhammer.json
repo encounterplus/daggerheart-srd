@@ -1,0 +1,19 @@
+{
+  "id": "f6ea106c-61d6-5914-a339-2962b44e731f",
+  "name": "Improved Warhammer",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d12+6",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

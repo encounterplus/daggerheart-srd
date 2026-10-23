@@ -1,0 +1,16 @@
+{
+  "id": "c469b7b2-05dc-50ea-8948-76cbd8090f01",
+  "name": "Voice of Dread",
+  "descr": "You can magically speak to a creature you can see, tormenting them with your words. Make a **Spellcast Roll** against them. On a success, they must mark a Stress and are frozen with terror, making them temporarily _Restrained_.",
+  "data": {
+    "level": 1,
+    "recall": 0,
+    "type": "spell",
+    "domain": "dread"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

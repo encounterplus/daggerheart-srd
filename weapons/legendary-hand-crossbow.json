@@ -1,0 +1,19 @@
+{
+  "id": "4627f94e-4e0c-5239-9c86-460373ffd6f0",
+  "name": "Legendary Hand Crossbow",
+  "data": {
+    "tier": 4,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "far",
+    "damage": "d6+7",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

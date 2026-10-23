@@ -1,0 +1,16 @@
+{
+  "id": "e27485a8-f5fa-5d29-8c67-93c4931e6d81",
+  "name": "Reassurance",
+  "descr": "Once per rest, after an ally attempts an action roll but before the consequences take place, you can offer assistance or words of support. When you do, your ally can reroll their dice.",
+  "data": {
+    "level": 1,
+    "recall": 0,
+    "type": "ability",
+    "domain": "splendor"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

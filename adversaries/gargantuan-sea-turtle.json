@@ -1,0 +1,63 @@
+{
+  "id": "7b154fe3-53d0-5589-b544-3e7efb550405",
+  "name": "Gargantuan Sea Turtle",
+  "descr": "A monstrous sea turtle that has an adamantine shell and beak.",
+  "data": {
+    "tier": 3,
+    "type": "solo",
+    "motivesAndTactics": "Acquire riches, capsize trading vessels, lie in wait, use the waves as cover",
+    "difficulty": 18,
+    "thresholds": {
+      "major": 21,
+      "severe": 41
+    },
+    "hp": 10,
+    "stress": 6,
+    "attackModifier": 7,
+    "attack": {
+      "name": "Crushing Jaws",
+      "range": "veryClose",
+      "damage": "3d12+7",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Open Sea",
+        "modifier": 5
+      }
+    ],
+    "features": [
+      {
+        "name": "Relentless",
+        "nameDetail": "3",
+        "type": "passive",
+        "text": "The Turtle can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight it."
+      },
+      {
+        "name": "Piercing Bite",
+        "type": "passive",
+        "text": "When the Turtle makes a successful standard attack against a PC, the PC must either mark an Armor Slot without receiving its benefit or take double damage."
+      },
+      {
+        "name": "Tail Bash",
+        "type": "action",
+        "text": "**Mark a Stress** to make a standard attack against all PCs behind the Turtle within Very Close range. On a success, a target takes an extra **1d12** physical damage and is pushed away from the Turtle to Close range."
+      },
+      {
+        "name": "Gigaton Splash",
+        "type": "action",
+        "text": "**Spend a Fear** to have the Turtle use its weight to unleash an unstoppable wall of water that targets all creatures within Far range. Each PC must make a Strength Reaction Roll to navigate the tide. Targets who fail are pushed away from the Turtle to Close range, take **4d8** physical damage, and become temporarily _Vulnerable_. Targets who succeed must mark a Stress. For each target who failed, you gain a Fear."
+      },
+      {
+        "name": "Steam Breath",
+        "type": "action",
+        "text": "**Spend 2 Fear** to have the Turtle release a blast of superheated steam targeting all PCs in front of it within Close range. Each target must make an Agility Reaction Roll. Targets who fail take **4d8** magic damage and become temporarily _Vulnerable._ Targets who succeed must choose to either mark a Stress or take half damage."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "00e59858-eee4-5ddb-84aa-ebb3a3df1b80",
+  "name": "Hopehold Flare",
+  "descr": "When you use this flare, allies within Close range roll a d6 when they spend a Hope. On a result of 6, they gain the effect of that Hope without spending it. The flare lasts until the end of the scene.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

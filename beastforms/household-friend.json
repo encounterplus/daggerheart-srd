@@ -1,0 +1,37 @@
+{
+  "id": "38f756c9-f410-558d-a4a1-1bf3804eeff8",
+  "name": "Household Friend",
+  "data": {
+    "tier": 1,
+    "examples": "Cat, Dog, Rabbit, etc.",
+    "trait": "instinct",
+    "traitModifier": 1,
+    "evasionModifier": 2,
+    "attack": {
+      "range": "melee",
+      "trait": "instinct",
+      "damage": "d6",
+      "damageType": "phy"
+    },
+    "advantages": [
+      "climb",
+      "locate",
+      "protect"
+    ],
+    "features": [
+      {
+        "name": "Companion",
+        "text": "When you Help an Ally, you can roll a **d8** as your advantage die."
+      },
+      {
+        "name": "Fragile",
+        "text": "When you take Major or greater damage, you drop out of Beastform."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "4c062b60-29e7-5d3e-92c2-5929c39a54a1",
+  "name": "Whip",
+  "data": {
+    "tier": 1,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "presence",
+    "range": "veryClose",
+    "damage": "d6",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

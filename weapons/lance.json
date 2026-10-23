@@ -1,0 +1,19 @@
+{
+  "id": "5eadd0a5-a685-57e3-bf64-a140b27f51f5",
+  "name": "Lance",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "instinct",
+    "range": "veryClose",
+    "damage": "d10+5",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

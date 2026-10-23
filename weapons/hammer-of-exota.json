@@ -1,0 +1,19 @@
+{
+  "id": "9bc4e111-3380-5907-aac6-1cd1a73d4ea8",
+  "name": "Hammer Of Exota",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "magic",
+    "trait": "instinct",
+    "range": "melee",
+    "damage": "d8+6",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

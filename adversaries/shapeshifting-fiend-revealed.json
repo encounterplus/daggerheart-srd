@@ -1,0 +1,72 @@
+{
+  "id": "45a5bfef-5fef-52de-847a-c7ae1d2926aa",
+  "name": "Shapeshifting Fiend Revealed",
+  "descr": "A towering humanoid who has an insectile head and multiple sets of glowing red eyes.",
+  "data": {
+    "tier": 3,
+    "type": "solo",
+    "motivesAndTactics": "Claim souls, confuse and misdirect, escape to the Circles Below, teleport",
+    "difficulty": 17,
+    "thresholds": {
+      "major": 20,
+      "severe": 32
+    },
+    "hp": 10,
+    "stress": 8,
+    "attackModifier": 3,
+    "attack": {
+      "name": "Mantis Claws",
+      "range": "veryClose",
+      "damage": "3d12+5",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Hellbound",
+        "modifier": 3
+      },
+      {
+        "name": "Immortal",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Relentless",
+        "nameDetail": "3",
+        "type": "passive",
+        "text": "The Fiend can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them."
+      },
+      {
+        "name": "Fiendish Resistance",
+        "type": "passive",
+        "text": "The Fiend has resistance to magic damage and can't be fooled by magic illusions."
+      },
+      {
+        "name": "Demonic Rage",
+        "type": "action",
+        "text": "**Spend a Fear** to make a standard attack with a bonus to the attack roll equal the amount of Stress the Fiend has marked. On a success, the attack deals direct damage."
+      },
+      {
+        "name": "Hall of Mirrors",
+        "type": "action",
+        "text": "**Mark 2 Stress** to have the Fiend summon four illusory duplicates and activate a Duplicate Countdown (4). When the Fiend is targeted by an attack, they gain a bonus to their Difficulty equal to the countdown die's current value. The countdown ticks down when a PC fails an attack against the Fiend. When it triggers, the duplicates vanish."
+      },
+      {
+        "name": "Flash Claw",
+        "type": "action",
+        "text": "**Spend a Fear** to have the Fiend unleash an arc of magical energy. Make an attack roll against all targets within Close range. Targets the attack succeeds against take **3d20** magic damage."
+      },
+      {
+        "name": "Mind Games",
+        "type": "reaction",
+        "text": "When an attack targeting the Fiend from beyond Very Close range succeeds with Fear, you can **mark a Stress** to have the Fiend instantly switch places with a PC within Very Close range. The PC takes the damage instead."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

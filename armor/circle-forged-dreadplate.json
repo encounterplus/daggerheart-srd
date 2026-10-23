@@ -1,0 +1,17 @@
+{
+  "id": "78af03d6-6cde-5d6d-9334-5b948bd38510",
+  "name": "Circle-forged Dreadplate",
+  "data": {
+    "tier": 4,
+    "thresholds": {
+      "major": 14,
+      "severe": 38
+    },
+    "score": 6
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

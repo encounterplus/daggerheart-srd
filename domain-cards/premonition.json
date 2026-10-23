@@ -1,0 +1,16 @@
+{
+  "id": "b412c27e-bd47-5ff0-947c-fd692f81d8d0",
+  "name": "Premonition",
+  "descr": "You can channel arcane energy to have visions of the future. Once per long rest, immediately after the GM conveys the consequences of a roll you made, you can rescind the move and consequences like they never happened and make another move instead.",
+  "data": {
+    "level": 5,
+    "recall": 2,
+    "type": "spell",
+    "domain": "arcana"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

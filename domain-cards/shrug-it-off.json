@@ -1,0 +1,16 @@
+{
+  "id": "97e1f92f-3ef4-57d7-9752-e4d8bb978a65",
+  "name": "Shrug It Off",
+  "descr": "When you would take damage, you can **mark a Stress** to reduce the severity of the damage by one threshold. When you do, roll a **d6**. On a result of 3 or lower, place this card in your vault.",
+  "data": {
+    "level": 7,
+    "recall": 1,
+    "type": "ability",
+    "domain": "valor"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

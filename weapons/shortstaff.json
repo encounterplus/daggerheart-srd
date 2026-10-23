@@ -1,0 +1,19 @@
+{
+  "id": "d256f780-ef04-532c-8c88-8215660ab589",
+  "name": "Shortstaff",
+  "data": {
+    "tier": 1,
+    "category": "primary",
+    "type": "magic",
+    "trait": "instinct",
+    "range": "close",
+    "damage": "d8+1",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

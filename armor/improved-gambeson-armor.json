@@ -1,0 +1,17 @@
+{
+  "id": "fc06445b-0f1c-5f8b-b729-eca1fdf01f1d",
+  "name": "Improved Gambeson Armor",
+  "data": {
+    "tier": 2,
+    "thresholds": {
+      "major": 7,
+      "severe": 16
+    },
+    "score": 4
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

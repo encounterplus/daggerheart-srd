@@ -1,0 +1,16 @@
+{
+  "id": "c731ad3f-18bb-5bcb-89e9-6c95e23b74e9",
+  "name": "I Am Your Shield",
+  "descr": "When an ally within Very Close range would take damage, you can **mark a Stress** to stand in the way and make yourself the target of the attack instead. When you take damage from this attack, you can mark any number of Armor Slots.",
+  "data": {
+    "level": 1,
+    "recall": 1,
+    "type": "ability",
+    "domain": "valor"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

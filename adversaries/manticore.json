@@ -1,0 +1,72 @@
+{
+  "id": "dfdbe8a4-605f-53a3-bd1b-b75054b3d3d6",
+  "name": "Manticore",
+  "descr": "A legendary beast that has a human's face, lion's body, scorpion's tail, and dragon's wings.",
+  "data": {
+    "tier": 3,
+    "type": "solo",
+    "motivesAndTactics": "Bite, claw, pounce, riddle, swipe, swoop, trick",
+    "difficulty": 17,
+    "thresholds": {
+      "major": 20,
+      "severe": 35
+    },
+    "hp": 12,
+    "stress": 6,
+    "attackModifier": 6,
+    "attack": {
+      "name": "Teeth & Claws",
+      "range": "veryClose",
+      "damage": "3d12+6",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Overgrowth",
+        "modifier": 3
+      },
+      {
+        "name": "Riddles",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Relentless",
+        "nameDetail": "3",
+        "type": "passive",
+        "text": "The Manticore can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them."
+      },
+      {
+        "name": "Riddle Me This",
+        "type": "passive",
+        "text": "The Manticore is obsessed with puzzles and can be distracted by brain teasers, word games, or other semi-intellectual diversions."
+      },
+      {
+        "name": "Winged",
+        "type": "passive",
+        "text": "While airborne, the Manticore gains a +2 bonus to their Difficulty and attack rolls."
+      },
+      {
+        "name": "Pouncing Attack",
+        "type": "action",
+        "text": "**Spend a Fear** to have the Manticore pounce into Melee range of a target within Far range and make an attack against them. On a success, deal **3d20+6** physical damage, and the target becomes _Shaky_ until they spend a Hope. While _Shaky_, the target makes attack rolls with disadvantage."
+      },
+      {
+        "name": "Paralyzing Tail Spike",
+        "type": "action",
+        "text": "**Mark a Stress** to make an attack roll against a target within Close range. On a success, the target takes **3d8** physical damage and becomes _Restrained_ until they overcome the toxin with a successful Strength Roll."
+      },
+      {
+        "name": "Locking Jaws",
+        "type": "reaction",
+        "text": "When the Manticore succeeds on a standard attack against a target within Melee range, you can **mark a Stress** to lock their jaws onto the target, making the target _Restrained_ and _Vulnerable_ until they escape with a successful Strength Roll (19)."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

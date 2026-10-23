@@ -1,0 +1,10 @@
+{
+  "id": "ab5d5ae5-09de-5bd6-9d22-7581f721a927",
+  "name": "Cupbearer’s Bezoar",
+  "descr": "You can swallow this bezoar to become immune to poisons until your next long rest.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

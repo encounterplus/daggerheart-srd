@@ -1,0 +1,19 @@
+{
+  "id": "e5fb26ad-f7f1-5703-8c4d-a1b96583a626",
+  "name": "Legendary Brightsword",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "magic",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d10+12",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

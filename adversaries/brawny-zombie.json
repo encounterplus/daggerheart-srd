@@ -1,0 +1,56 @@
+{
+  "id": "0e6ffe78-8e81-5937-a36f-a6ee26007c29",
+  "name": "Brawny Zombie",
+  "descr": "A large corpse, decay-bloated and angry.",
+  "data": {
+    "tier": 1,
+    "type": "bruiser",
+    "motivesAndTactics": "Crush, destroy, hail debris, slam",
+    "difficulty": 10,
+    "thresholds": {
+      "major": 8,
+      "severe": 15
+    },
+    "hp": 7,
+    "stress": 4,
+    "attackModifier": 2,
+    "attack": {
+      "name": "Slam",
+      "range": "veryClose",
+      "damage": "1d12+3",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Collateral Damage",
+        "modifier": 2
+      },
+      {
+        "name": "Throw",
+        "modifier": 4
+      }
+    ],
+    "features": [
+      {
+        "name": "Slow",
+        "type": "passive",
+        "text": "When you spotlight the Zombie and they don't have a token on their stat block, they can't act yet. Place a token on their stat block and describe what they're preparing to do. When you spotlight the Zombie and they have a token on their stat block, clear the token and they can act."
+      },
+      {
+        "name": "Rend Asunder",
+        "type": "action",
+        "text": "Make a standard attack with advantage against a target the Zombie has _Restrained_. On a success, the attack deals direct damage."
+      },
+      {
+        "name": "Rip and Tear",
+        "type": "reaction",
+        "text": "When the Zombies makes a successful standard attack, you can **mark a Stress** to temporarily _Restrain_ the target and force them to mark 2 Stress."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "132e509f-f9b4-56f5-b7d4-78497ea05f91",
+  "name": "Caltrops",
+  "descr": "You can spread these caltrops in a Very Close area around you. A creature hastening through that area must mark a Stress.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

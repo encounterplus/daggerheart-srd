@@ -1,0 +1,10 @@
+{
+  "id": "3752fdfd-209d-566f-a82e-d8950fbf5c4f",
+  "name": "Blood Of The Yorgi",
+  "descr": "You can drink this blood to disappear from where you are and immediately reappear at a point you can see within Very Far range.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

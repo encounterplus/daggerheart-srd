@@ -1,0 +1,11 @@
+{
+  "id": "3031adc7-d7bb-5df8-98fe-e8b158798dc4",
+  "name": "Valor",
+  "type": "domain",
+  "descr": "Valor is the domain of **protection.** Whether through attack or defense, those who choose this discipline channel formidable strength to protect their allies in battle. Valor offers great power to those who raise their shields in defense of others. The Valor domain can be accessed by the **Brawler**, **Guardian**, and **Seraph** classes.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

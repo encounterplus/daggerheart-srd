@@ -1,0 +1,63 @@
+{
+  "id": "777d8b12-f5e3-52f3-ab21-4b2a627b549f",
+  "name": "Gargantuan War Machine",
+  "descr": "A 100-foot-tall adamantine construct that has gemstone eyes, powered by a chest crucible of elemental flame.",
+  "data": {
+    "tier": 4,
+    "type": "solo",
+    "motivesAndTactics": "Crush, destroy",
+    "difficulty": 20,
+    "thresholds": {
+      "major": 48,
+      "severe": 88
+    },
+    "hp": 10,
+    "stress": 6,
+    "attackModifier": 7,
+    "attack": {
+      "name": "Fists of Iron",
+      "range": "close",
+      "damage": "4d12+10",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Unbreakable",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Relentless",
+        "nameDetail": "3",
+        "type": "passive",
+        "text": "The Machine can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight it."
+      },
+      {
+        "name": "Awesome Size",
+        "type": "passive",
+        "text": "When the Machine enters the battlefield, each PC must either lose a Hope or mark **1d4** Stress."
+      },
+      {
+        "name": "Rocket Punch",
+        "type": "action",
+        "text": "**Mark a Stress** to make an attack against a PC within Close range. On a success, the target takes **4d12+10** direct physical damage and marks 2 Armor Slots without gaining their benefits."
+      },
+      {
+        "name": "Ground-Breaking Stomp",
+        "type": "action",
+        "text": "**Spend a Fear** to choose a point within Close range and make an attack roll against all enemies within Close range of that point. Targets the attack succeeds against take **4d12** direct physical damage and are _Vulnerable_ until they are spotlighted. Additionally, the entire area becomes rubble, and a PC must succeed on an Agility Reaction Roll (16) to move through it."
+      },
+      {
+        "name": "Supercharged",
+        "type": "reaction",
+        "text": "_Countdown (Loop 2d6)_. When the Machine is spotlighted for the first time, activate the countdown. It ticks down each time the Machine is spotlighted. When it triggers, place a token on this stat block as the Machine's chest crucible flares with magical flame. For each token on this stat block, the Machine gains a +1 bonus to Difficulty and attack rolls, and its standard attack deals an extra **1d12** damage. Remove a token when the Machine takes Severe damage."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

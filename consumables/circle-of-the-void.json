@@ -1,0 +1,10 @@
+{
+  "id": "247901d0-eac9-575c-93ee-0dafe13c1317",
+  "name": "Circle Of The Void",
+  "descr": "Mark a Stress to create a void that extends up to Far range. No magic can be cast inside the void, and creatures within the void are immune to magic damage.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

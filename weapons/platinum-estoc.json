@@ -1,0 +1,19 @@
+{
+  "id": "45eb7991-5f3a-5187-aa11-2e372fed218d",
+  "name": "Platinum Estoc",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "melee",
+    "damage": "d8+7",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

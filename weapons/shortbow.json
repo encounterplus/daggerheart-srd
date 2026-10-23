@@ -1,0 +1,19 @@
+{
+  "id": "608aaf61-8d67-5187-a170-4fa97891cf25",
+  "name": "Shortbow",
+  "data": {
+    "tier": 1,
+    "category": "primary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "far",
+    "damage": "d6+3",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

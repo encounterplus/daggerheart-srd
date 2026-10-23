@@ -1,0 +1,10 @@
+{
+  "id": "9f3bf75f-e227-569e-a90b-1d9084130399",
+  "name": "Invisibility Potion",
+  "descr": "You are _Hidden_ until you deal damage to another creature or until your next rest.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "2813b418-bdf6-5703-9b58-28195a0acdfe",
+  "name": "Legendary Chainmail Armor",
+  "data": {
+    "tier": 4,
+    "thresholds": {
+      "major": 15,
+      "severe": 40
+    },
+    "score": 7
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

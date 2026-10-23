@@ -1,0 +1,52 @@
+{
+  "id": "26e7e02f-086d-576f-b0af-1a2a69fa9264",
+  "name": "Sylvan Soldier",
+  "descr": "A faerie warrior adorned in armor made of leaves and bark.",
+  "data": {
+    "tier": 1,
+    "type": "standard",
+    "motivesAndTactics": "Ambush, hide, overwhelm, protect, trail",
+    "difficulty": 11,
+    "thresholds": {
+      "major": 6,
+      "severe": 11
+    },
+    "hp": 4,
+    "stress": 2,
+    "attackModifier": 0,
+    "attack": {
+      "name": "Scythe",
+      "range": "melee",
+      "damage": "1d8+1",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Tracker",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Pack Tactics",
+        "type": "passive",
+        "text": "If the Soldier makes a standard attack and another Sylvan Soldier is within Melee range of the target, deal **1d8+5** physical damage instead of their standard damage."
+      },
+      {
+        "name": "Forest Control",
+        "type": "action",
+        "text": "**Spend a Fear** to pull down a tree within Close range. A creature hit by the tree must succeed on an Agility Reaction Roll (15) or take **1d10** physical damage."
+      },
+      {
+        "name": "Blend In",
+        "type": "reaction",
+        "text": "When the Soldier makes a successful attack, you can **mark a Stress** to become _Hidden_ until the Soldier's next attack or a PC succeeds on an Instinct Roll (14) to find them."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "c318d0f6-1d02-5984-bfb7-073e32f151e1",
+  "name": "Necroprancer’s Bell",
+  "descr": "You can break this rusted, clapperless bell against the ground to summon a skeletal steed that climbs out of the earth and serves you until the next sunrise.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

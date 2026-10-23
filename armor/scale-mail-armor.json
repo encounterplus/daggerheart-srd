@@ -1,0 +1,17 @@
+{
+  "id": "d11ab1aa-7474-5903-bd3f-1a48432a8699",
+  "name": "Scale Mail Armor",
+  "data": {
+    "tier": 1,
+    "thresholds": {
+      "major": 7,
+      "severe": 14
+    },
+    "score": 3
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

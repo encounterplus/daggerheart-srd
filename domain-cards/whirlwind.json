@@ -1,0 +1,16 @@
+{
+  "id": "118ba816-1d34-5cf0-b5b8-c01483b90352",
+  "name": "Whirlwind",
+  "descr": "When you make a successful attack against a target within Very Close range, you can **spend a Hope** to use the attack against all other targets within Very Close range. All additional adversaries you succeed against with this ability take half damage.",
+  "data": {
+    "level": 1,
+    "recall": 0,
+    "type": "ability",
+    "domain": "blade"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

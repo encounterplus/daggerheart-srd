@@ -1,0 +1,10 @@
+{
+  "id": "b5ee5c71-04c1-5baf-b39e-a3000e8b916b",
+  "name": "Dripfang Poison",
+  "descr": "A creature who consumes this poison takes 8d10 direct magic damage.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

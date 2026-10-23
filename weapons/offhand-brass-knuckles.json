@@ -1,0 +1,19 @@
+{
+  "id": "5c19eb13-1b9c-50ce-83f9-2b06023c1843",
+  "name": "Offhand Brass Knuckles",
+  "data": {
+    "tier": 1,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d8",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

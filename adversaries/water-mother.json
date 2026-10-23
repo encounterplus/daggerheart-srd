@@ -1,0 +1,57 @@
+{
+  "id": "39d0d27e-78f5-5e05-85de-f19e3be2e732",
+  "name": "Water Mother",
+  "descr": "A colossal fur-covered snake that hunts in large bodies of water.",
+  "data": {
+    "tier": 4,
+    "type": "solo",
+    "motivesAndTactics": "Constrict the world, control the battlefield, draw enemies into the water",
+    "difficulty": 20,
+    "thresholds": {
+      "major": 40,
+      "severe": 70
+    },
+    "hp": 12,
+    "stress": 8,
+    "attackModifier": 8,
+    "attack": {
+      "name": "Bite",
+      "range": "veryClose",
+      "damage": "4d10+5",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Rivers",
+        "modifier": 4
+      }
+    ],
+    "features": [
+      {
+        "name": "Segmented",
+        "type": "passive",
+        "text": "The Water Mother's body is divided into three segments: Head, Center, and Tail. The Water Mother always moves from the Head first, pulling the Center and then Tail behind it. A creature can target the Water Mother with an attack as long as at least one of her segments is within range, but the Water Mother can make a standard attack only against a target within range of her Head. If an attack deals damage to the Water Mother and her Head is within range, the attack deals an extra **1d10** damage."
+      },
+      {
+        "name": "Eat the World",
+        "type": "action",
+        "text": "**Spend a Fear** to have the Water Mother inhale sharply. Each PC within Close range of her Head must succeed on a Strength Reaction Roll or mark a Stress and be pulled within Melee range of the Head. The Water Mother then makes a standard attack against all targets within Melee range of her Head."
+      },
+      {
+        "name": "Constrict",
+        "type": "action",
+        "text": "**Mark a Stress** to make an attack against all targets within Melee range of the Center segment. Targets the attack succeeds against take **4d8+8** physical damage and are temporarily _Restrained_. At the beginning of each GM turn, you can **mark a Stress** to force all targets _Restrained_ by the Water Mother to mark a HP."
+      },
+      {
+        "name": "Venom Surge",
+        "type": "reaction",
+        "text": "When the Water Mother makes a successful standard attack, you can **spend a Fear** to make the target _Vulnerable_ until the end of the scene."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

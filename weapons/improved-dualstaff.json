@@ -1,0 +1,19 @@
+{
+  "id": "7a7fd366-2650-5368-ba51-770dd0df7196",
+  "name": "Improved Dualstaff",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "magic",
+    "trait": "instinct",
+    "range": "far",
+    "damage": "d6+6",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "b2a56ac6-eb8e-5ad1-b32b-ce6f34eb0c9b",
+  "name": "Improved Quarterstaff",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "instinct",
+    "range": "melee",
+    "damage": "d10+6",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

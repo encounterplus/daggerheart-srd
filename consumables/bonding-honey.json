@@ -1,0 +1,10 @@
+{
+  "id": "ba74a6b2-654d-5eed-b84d-d0eaa9d99830",
+  "name": "Bonding Honey",
+  "descr": "This honey can be used to glue two objects together permanently.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

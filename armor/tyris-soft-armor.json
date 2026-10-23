@@ -1,0 +1,17 @@
+{
+  "id": "54818848-94fd-51cc-b503-a27029cf457d",
+  "name": "Tyris Soft Armor",
+  "data": {
+    "tier": 2,
+    "thresholds": {
+      "major": 8,
+      "severe": 18
+    },
+    "score": 5
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

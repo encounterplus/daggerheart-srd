@@ -1,0 +1,19 @@
+{
+  "id": "feb0dc6e-4f7c-51d0-92d4-a4b1f393c158",
+  "name": "Advanced Hand Crossbow",
+  "data": {
+    "tier": 3,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "far",
+    "damage": "d6+5",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

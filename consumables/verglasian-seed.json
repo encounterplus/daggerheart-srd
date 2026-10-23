@@ -1,0 +1,10 @@
+{
+  "id": "53ce3b91-6c2d-571b-9e7b-a384fc00a1c9",
+  "name": "Verglasian Seed",
+  "descr": "You can use this ice shard to instantly freeze an area of water up to Close range.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

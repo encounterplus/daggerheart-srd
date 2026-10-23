@@ -1,0 +1,10 @@
+{
+  "id": "90fa3825-6350-5290-96d3-eb5fe27e0bcc",
+  "name": "Elusive Amulet",
+  "descr": "Once per long rest, you can activate this amulet to become _Hidden_ until you move. While _Hidden_ in this way, you remain unseen even if an adversary moves to where they would normally see you.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

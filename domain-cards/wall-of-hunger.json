@@ -1,0 +1,16 @@
+{
+  "id": "737729f2-bd86-5782-b7d9-fbbb6111e447",
+  "name": "Wall of Hunger",
+  "descr": "Make a **Spellcast Roll (10)**. On a success, you can **spend a Hope** to create a visible wall of writhing necrotic energy between two points within Far range. The wall lasts until you mark a Hit Point or cast this spell again. A creature inside the wall when it appears or that passes through it must mark 2 Stress.",
+  "data": {
+    "level": 7,
+    "recall": 2,
+    "type": "spell",
+    "domain": "dread"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

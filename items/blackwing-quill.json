@@ -1,0 +1,10 @@
+{
+  "id": "46e1620f-199a-57b3-9909-e6dde59778df",
+  "name": "Blackwing Quill",
+  "descr": "This writing quill never runs out of ink or needs to be sharpened.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "1206eb5c-2bf8-572e-9e7f-ec8bf9a595d1",
+  "name": "Gifted Tracker",
+  "descr": "When you're tracking a specific creature or group of creatures based on signs of their passage, you can **spend any number of Hope** and ask the GM that many questions from the following list.\n\n- What direction did they go?\n- How long ago did they pass through?\n- What were they doing in this location?\n- How many of them were here?\n\nWhen you encounter creatures you've tracked in this way, gain a +1 bonus to your Evasion against them.",
+  "data": {
+    "level": 1,
+    "recall": 0,
+    "type": "ability",
+    "domain": "sage"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

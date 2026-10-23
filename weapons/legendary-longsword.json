@@ -1,0 +1,19 @@
+{
+  "id": "7ac50e65-c1df-53b4-9b29-bbad563355ee",
+  "name": "Legendary Longsword",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "melee",
+    "damage": "d10+12",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

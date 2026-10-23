@@ -1,0 +1,19 @@
+{
+  "id": "cd685995-0f0e-5183-980b-1f6140a217e5",
+  "name": "Advanced Casting Dagger",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "magic",
+    "trait": "instinct",
+    "range": "close",
+    "damage": "d6+6",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "2126011d-443f-55df-b3c2-2b4acf5dd660",
+  "name": "Attune Relic",
+  "descr": "You gain a +1 bonus to your Instinct. You can only carry one relic.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

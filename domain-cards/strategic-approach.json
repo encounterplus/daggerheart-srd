@@ -1,0 +1,16 @@
+{
+  "id": "a7e4959f-5e71-5836-aa74-0ced7fff6d95",
+  "name": "Strategic Approach",
+  "descr": "After a long rest, place a number of tokens equal to your Knowledge on this card (minimum 1). The first time you move within Close range of an adversary and make an attack against them, you can spend one token to choose one of the following options:\n\n- You make the attack with advantage.\n- You clear a Stress on an ally within Melee range of the adversary.\n- You add a **d8** to your damage roll.\n\nWhen you take a long rest, clear all unspent tokens.",
+  "data": {
+    "level": 2,
+    "recall": 1,
+    "type": "ability",
+    "domain": "bone"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "c0b3ebf9-d37e-5b46-896d-cff900ff4cea",
+  "name": "Advanced Greatstaff",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "magic",
+    "trait": "knowledge",
+    "range": "veryFar",
+    "damage": "d6+6",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

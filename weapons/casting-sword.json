@@ -1,0 +1,19 @@
+{
+  "id": "88d5be58-3b6f-58fc-abda-f33b0328112f",
+  "name": "Casting Sword",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "magic",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d10+4",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

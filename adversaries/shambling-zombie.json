@@ -1,0 +1,42 @@
+{
+  "id": "e0c473a3-5bd9-5eea-a7d4-c152cec42dbb",
+  "name": "Shambling Zombie",
+  "descr": "An animated corpse that moves shakily, driven only by hunger.",
+  "data": {
+    "tier": 1,
+    "type": "standard",
+    "motivesAndTactics": "Devour, hungry, mob enemy, shred flesh",
+    "difficulty": 10,
+    "thresholds": {
+      "major": 4,
+      "severe": 6
+    },
+    "hp": 4,
+    "stress": 1,
+    "attackModifier": 0,
+    "attack": {
+      "name": "Bite",
+      "range": "melee",
+      "damage": "1d6+1",
+      "damageType": "phy"
+    },
+    "experience": [],
+    "features": [
+      {
+        "name": "Too Many to Handle",
+        "type": "passive",
+        "text": "When the Zombie is within Melee range of a creature and at least one other Zombie is within Close range, all attacks against that creature have advantage."
+      },
+      {
+        "name": "Horrifying",
+        "type": "passive",
+        "text": "Targets who mark HP from the Zombie's attacks must also mark a Stress."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

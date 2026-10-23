@@ -1,0 +1,19 @@
+{
+  "id": "d9ec8baa-e6ce-552f-9390-0757cb64ff87",
+  "name": "Crossbow",
+  "data": {
+    "tier": 1,
+    "category": "primary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "far",
+    "damage": "d6+1",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

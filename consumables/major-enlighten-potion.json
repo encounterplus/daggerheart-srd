@@ -1,0 +1,10 @@
+{
+  "id": "06a63f3f-b439-550f-889e-3cc72e47da55",
+  "name": "Major Enlighten Potion",
+  "descr": "You gain a +1 bonus to your Knowledge until your next rest.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

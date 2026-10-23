@@ -1,0 +1,19 @@
+{
+  "id": "0f0ad06d-ec67-554e-9ea1-747495452184",
+  "name": "Advanced Halberd",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "veryClose",
+    "damage": "d10+8",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "af3e5bec-f6df-5da1-85d7-c86f51468eec",
+  "name": "Book of Korvax",
+  "descr": "_Levitation:_ Make a **Spellcast Roll** to temporarily lift a target you can see up into the air and move them within Close range of their original position.\n\n_Recant:_ **Spend a Hope** to force a target within Melee range to make a Reaction Roll (15). On a failure, they forget the last minute of your conversation.\n\n_Rune Circle:_ **Mark a Stress** to create a temporary magical circle on the ground where you stand. All adversaries within Melee range, or who enter Melee range, take **2d12+4** magic damage and are knocked back to Very Close range.",
+  "data": {
+    "level": 3,
+    "recall": 2,
+    "type": "grimoire",
+    "domain": "codex"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "1ff0419d-9e4d-5ca9-8995-7e24d46bf49a",
+  "name": "Airblade Charm",
+  "descr": "You can attach this charm to a weapon with a Melee range. Three times per rest, you can activate the charm and attack a target within Close range.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

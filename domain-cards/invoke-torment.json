@@ -1,0 +1,16 @@
+{
+  "id": "d3c89766-9cad-5a0e-a6f1-1f7f569858e1",
+  "name": "Invoke Torment",
+  "descr": "You deal double damage to targets that have all their Stress marked.\n\nAdditionally, when an adversary within Close range is defeated with all its Stress marked, you gain a Hope..",
+  "data": {
+    "level": 10,
+    "recall": 2,
+    "type": "ability",
+    "domain": "dread"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

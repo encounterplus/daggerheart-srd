@@ -1,0 +1,19 @@
+{
+  "id": "6d945207-445d-59f8-9e14-c5b020b62402",
+  "name": "Improved Shadowblade",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "magic",
+    "trait": "presence",
+    "range": "melee",
+    "damage": "d8+3 phy/",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "9b23dbba-4ba7-5cf7-bd95-ad0dee5dc020",
+  "name": "Morphing Clay",
+  "descr": "You can spend a Hope to use this clay, altering your face enough to make you unrecognizable until your next rest.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

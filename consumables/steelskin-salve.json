@@ -1,0 +1,10 @@
+{
+  "id": "6e4bd874-47dc-5fd3-a980-a7272f150cc4",
+  "name": "Steelskin Salve",
+  "descr": "You can apply this salve to your skin to gain a bonus to your damage thresholds equal to your tier until the end of the scene.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

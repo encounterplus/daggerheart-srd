@@ -1,0 +1,19 @@
+{
+  "id": "b9f0d573-8742-5aeb-bb16-719bd3e8ec22",
+  "name": "Legendary Spear",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "veryClose",
+    "damage": "d8+12",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

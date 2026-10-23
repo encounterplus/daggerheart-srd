@@ -1,0 +1,16 @@
+{
+  "id": "e7a439b6-d9aa-513a-b847-7ddd73ee7b26",
+  "name": "Chokehold",
+  "descr": "When you position yourself behind a creature who's about your size, you can **mark a Stress** to pull them into a chokehold, making them temporarily _Vulnerable_.\n\nWhen a creature attacks a target who is _Vulnerable_ in this way, they deal an extra **2d6** damage.",
+  "data": {
+    "level": 3,
+    "recall": 1,
+    "type": "ability",
+    "domain": "midnight"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "db9b3374-a8b4-5c68-a15e-78aa88c314a7",
+  "name": "Gem Of Might",
+  "descr": "You can attach this gem to a weapon, allowing you to use your Strength when making an attack with that weapon.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

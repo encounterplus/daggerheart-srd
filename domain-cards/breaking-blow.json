@@ -1,0 +1,16 @@
+{
+  "id": "c41e02a9-a15f-5565-b3eb-3dea6c439280",
+  "name": "Breaking Blow",
+  "descr": "When you make a successful attack, you can **mark a Stress** to make the next successful attack against that same target deal an extra **2d12** damage.",
+  "data": {
+    "level": 8,
+    "recall": 3,
+    "type": "ability",
+    "domain": "bone"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "54135c20-3301-5948-9c27-a6c103b8c5e4",
+  "name": "Bladed Star",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "physical",
+    "trait": "knowledge",
+    "range": "close",
+    "damage": "d8+7",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

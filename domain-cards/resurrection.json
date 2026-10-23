@@ -1,0 +1,16 @@
+{
+  "id": "e34041ba-cb1f-5ad1-881f-79491df6fc05",
+  "name": "Resurrection",
+  "descr": "Make a **Spellcast Roll (20)**. On a success, restore one creature who has been dead no longer than 100 years to full strength. Then roll a **d6**. On a result of 5 or lower, place this card in your vault permanently.\n\nOn a failure, you can't cast Resurrection again for a week.",
+  "data": {
+    "level": 10,
+    "recall": 2,
+    "type": "spell",
+    "domain": "splendor"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

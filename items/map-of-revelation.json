@@ -1,0 +1,10 @@
+{
+  "id": "0766524b-f729-5d86-bc94-12f22b8210c1",
+  "name": "Map Of Revelation",
+  "descr": "You can attune this map to one creature at a time. The map always shows the attuned creature's location.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

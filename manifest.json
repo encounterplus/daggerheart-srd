@@ -1,0 +1,11 @@
+{
+  "id": "daggerheart-srd",
+  "name": "Daggerheart SRD v2.0",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "The System Reference Document (SRD) contains Daggerheart rules content you can use and reference to publish content under Creative Commons.",
+  "download": "https://github.com/encounterplus/daggerheart-srd/releases/download/1.0.0/daggerheart-srd.module",
+  "compatibility": {
+    "minimum": "5.1.0"
+  }
+}

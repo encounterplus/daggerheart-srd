@@ -1,0 +1,19 @@
+{
+  "id": "4435ad18-e3b8-57e3-9290-582fcf2799a7",
+  "name": "Improved Longsword",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "melee",
+    "damage": "d10+6",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "c64fb7fc-f111-5e3c-9f30-43dd773f75ac",
+  "name": "Apprentice Assassin",
+  "descr": "A young trainee eager to prove themselves.",
+  "data": {
+    "tier": 2,
+    "type": "minion",
+    "motivesAndTactics": "Act reckless, kill, prove their worth, show off",
+    "difficulty": 13,
+    "thresholds": {
+      "major": null,
+      "severe": null
+    },
+    "hp": 1,
+    "stress": 1,
+    "attackModifier": -1,
+    "attack": {
+      "name": "Thrown Dagger",
+      "range": "veryClose",
+      "damage": "4",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Intrusion",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Minion",
+        "nameDetail": "6",
+        "type": "passive",
+        "text": "The Assassin is defeated when they take any damage. For every 6 damage a PC deals to the Assassin, defeat an additional Minion within range the attack would succeed against."
+      },
+      {
+        "name": "Group Attack",
+        "type": "action",
+        "text": "**Spend a Fear** to choose a target and spotlight all Apprentice Assassins within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 4 physical damage each. Combine this damage."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

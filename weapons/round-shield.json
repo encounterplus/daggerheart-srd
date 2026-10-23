@@ -1,0 +1,19 @@
+{
+  "id": "8b5395c6-f6b1-5634-8b1a-9cc1f9301328",
+  "name": "Round Shield",
+  "data": {
+    "tier": 1,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d4",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

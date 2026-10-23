@@ -1,0 +1,16 @@
+{
+  "id": "4d730d0b-dac4-5d5f-be70-cbcf2a3e84ed",
+  "name": "Bone-touched",
+  "descr": "When 4 or more of the domain cards in your loadout are from the Bone domain, gain the following benefits:\n\n- +1 bonus to Agility\n- Once per rest, you can **spend 3 Hope** to cause an attack that succeeded against you to fail instead.",
+  "data": {
+    "level": 7,
+    "recall": 2,
+    "type": "ability",
+    "domain": "bone"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

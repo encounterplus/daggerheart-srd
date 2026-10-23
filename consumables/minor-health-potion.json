@@ -1,0 +1,10 @@
+{
+  "id": "af7e7eca-b44c-5e38-826c-fdc253937c53",
+  "name": "Minor Health Potion",
+  "descr": "Clear 1d4 HP.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

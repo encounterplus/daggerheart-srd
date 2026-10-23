@@ -1,0 +1,16 @@
+{
+  "id": "dac8be93-df81-555e-aaec-620f2e15553c",
+  "name": "Gore and Glory",
+  "descr": "When you critically succeed on a weapon attack, gain an additional Hope or clear an additional Stress.\n\nAdditionally, when you deal enough damage to defeat an enemy, gain a Hope or clear a Stress.",
+  "data": {
+    "level": 9,
+    "recall": 2,
+    "type": "ability",
+    "domain": "blade"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fa5eede8-505e-563d-aaee-74cce16b515f",
+  "name": "Gilded Sunplate",
+  "data": {
+    "tier": 2,
+    "thresholds": {
+      "major": 12,
+      "severe": 26
+    },
+    "score": 5
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

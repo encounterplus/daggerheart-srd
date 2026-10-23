@@ -1,0 +1,16 @@
+{
+  "id": "373d22e9-f301-509a-bf89-d1a84a364850",
+  "name": "Preservation Blast",
+  "descr": "Make a **Spellcast Roll** against all targets within Melee range. Targets you succeed against are forced back to Far range and take **d8+3** magic damage using your Spellcast trait.",
+  "data": {
+    "level": 4,
+    "recall": 2,
+    "type": "spell",
+    "domain": "arcana"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

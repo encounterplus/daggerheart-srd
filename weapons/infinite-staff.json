@@ -1,0 +1,19 @@
+{
+  "id": "42e48fe3-e6b6-5f3f-8647-090155f783ab",
+  "name": "Infinite Staff",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "physical",
+    "trait": "presence",
+    "range": "melee",
+    "damage": "d10+9",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

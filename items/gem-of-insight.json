@@ -1,0 +1,10 @@
+{
+  "id": "e30c4cdc-5d41-5fa7-a95d-ab8237dbd100",
+  "name": "Gem Of Insight",
+  "descr": "You can attach this gem to a weapon, allowing you to use your Instinct when making an attack with that weapon.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

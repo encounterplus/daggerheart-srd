@@ -1,0 +1,72 @@
+{
+  "id": "b3fc9f93-b5cf-52c9-8d45-44fed0c89fbb",
+  "name": "Harbinger Of Famine",
+  "descr": "A dried-out husk of a body riding atop a withered white horse. They are covered in mouths and surrounded by swarming flies.",
+  "data": {
+    "tier": 4,
+    "type": "support",
+    "motivesAndTactics": "Drain, impoverish, weaken, wither",
+    "difficulty": 18,
+    "thresholds": {
+      "major": 26,
+      "severe": 42
+    },
+    "hp": 6,
+    "stress": 5,
+    "attackModifier": 4,
+    "attack": {
+      "name": "Barbed Lash",
+      "range": "close",
+      "damage": "4d8+10",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Hunger",
+        "modifier": 2
+      },
+      {
+        "name": "Thirst",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Relentless",
+        "nameDetail": "2",
+        "type": "passive",
+        "text": "The Harbinger can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them."
+      },
+      {
+        "name": "Mount",
+        "type": "passive",
+        "text": "While the Harbinger is on their mount, they gain a +2 bonus to their Difficulty. When the Harbinger takes Severe damage, they're knocked from their mount. If the Harbinger is unhorsed, their mount disappears until you **mark a Stress** to summon it again."
+      },
+      {
+        "name": "Hunger Pangs",
+        "type": "passive",
+        "text": "_Countdown (Decreasing 6)._ When the Harbinger appears, activate the countdown. It ticks down when the Harbinger is spotlighted. When it triggers, all PCs within Far range mark a Stress and become _Ravenous_. While _Ravenous_, a PC can't spend Hope until they clear the condition with a successful Instinct Roll."
+      },
+      {
+        "name": "Drain Essence",
+        "type": "action",
+        "text": "**Spend a Fear** to choose up to three PCs. Each target takes **4d6** magic damage."
+      },
+      {
+        "name": "Too Many Mouths",
+        "type": "action",
+        "text": "**Mark a Stress** to attack a PC within Melee range. On a success, the Harbinger grabs the target and bites them, dealing **4d6** physical damage and _Restraining_ the target until they break free with a successful Strength Roll."
+      },
+      {
+        "name": "Withering Touch",
+        "type": "action",
+        "text": "**Spend a Fear** to have the Harbinger caress the face of a _Restrained_ PC within Melee range. The target marks 2 Stress and either loses a Hope or marks **1d4** HP."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

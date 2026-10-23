@@ -1,0 +1,17 @@
+{
+  "id": "609f6bd3-db7e-55f1-af74-be69cd3924fd",
+  "name": "Full Plate Armor",
+  "data": {
+    "tier": 1,
+    "thresholds": {
+      "major": 8,
+      "severe": 17
+    },
+    "score": 4
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

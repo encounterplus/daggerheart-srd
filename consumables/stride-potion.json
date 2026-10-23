@@ -1,0 +1,10 @@
+{
+  "id": "d97ec4ef-2342-5faa-8ca1-c0df384ebfe5",
+  "name": "Stride Potion",
+  "descr": "You gain a +1 bonus to your next Agility Roll.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

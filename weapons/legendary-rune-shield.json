@@ -1,0 +1,19 @@
+{
+  "id": "6e6a74e0-2439-5f87-adfe-0d65bd070706",
+  "name": "Legendary Rune Shield",
+  "data": {
+    "tier": 4,
+    "category": "secondary",
+    "type": "magic",
+    "trait": "knowledge",
+    "range": "melee",
+    "damage": "d4+6",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

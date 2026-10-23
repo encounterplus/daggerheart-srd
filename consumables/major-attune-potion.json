@@ -1,0 +1,10 @@
+{
+  "id": "a029d46b-7bd3-5667-a229-366f53d0b801",
+  "name": "Major Attune Potion",
+  "descr": "You gain a +1 bonus to your Instinct until your next rest.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

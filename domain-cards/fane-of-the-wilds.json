@@ -1,0 +1,16 @@
+{
+  "id": "eed18beb-f6af-5d48-9f03-7052468457a6",
+  "name": "Fane of the Wilds",
+  "descr": "After a long rest, place a number of tokens equal to the number of Sage domain cards in your loadout and vault on this card.\n\nWhen you would make a Spellcast Roll, you can spend any number of tokens after the roll to gain a +1 bonus for each token spent.\n\nWhen you critically succeed on a Spellcast Roll for a Sage domain spell, gain a token.\n\nWhen you take a long rest, clear all unspent tokens.",
+  "data": {
+    "level": 9,
+    "recall": 2,
+    "type": "ability",
+    "domain": "sage"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

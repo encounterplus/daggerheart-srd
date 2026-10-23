@@ -1,0 +1,54 @@
+{
+  "id": "a0d0ebb9-36e9-5254-ba33-f1f5ef6fccef",
+  "name": "Hallowed Choir",
+  "descr": "A heavenly host of winged humanoids whose song calls forth tears of religious awe.",
+  "data": {
+    "tier": 4,
+    "type": "horde",
+    "typeDetail": "6/HP",
+    "motivesAndTactics": "Drown out disbelief, raise voices",
+    "difficulty": 17,
+    "thresholds": {
+      "major": 24,
+      "severe": 48
+    },
+    "hp": 7,
+    "stress": 6,
+    "attackModifier": 2,
+    "attack": {
+      "name": "Choral Blast",
+      "range": "far",
+      "damage": "4d10",
+      "damageType": "mag"
+    },
+    "experience": [
+      {
+        "name": "Music",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Horde",
+        "nameDetail": "2d10",
+        "type": "passive",
+        "text": "When the Choir has marked half or more of its HP, its standard attack deals **2d10** magic damage instead."
+      },
+      {
+        "name": "Celestial Coda",
+        "type": "passive",
+        "text": "_Countdown (Loop 3)._ The Choir's divine song builds on itself with each refrain. When the Choir first appears, activate the countdown. It ticks down when a PC gains a Hope. When it triggers, place a token on this stat block. The Choir gains a bonus to its damage rolls equal to the number of tokens on this stat block."
+      },
+      {
+        "name": "Aural Assault",
+        "type": "action",
+        "text": "The Choir unleashes its built-up divine energy in a single burst, clearing all tokens from this stat block. Deal **1d12** direct magic damage to each enemy within Close range for each token cleared."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

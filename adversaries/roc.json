@@ -1,0 +1,73 @@
+{
+  "id": "37d43393-b329-54fb-85f8-705200181023",
+  "name": "Roc",
+  "descr": "A giant falcon that nests in the mountains and unleashes storms.",
+  "data": {
+    "tier": 3,
+    "type": "solo",
+    "motivesAndTactics": "Breathe lightning and speak thunder, protect eggs, rake with talons, spy from afar",
+    "difficulty": 18,
+    "thresholds": {
+      "major": 20,
+      "severe": 35
+    },
+    "hp": 12,
+    "stress": 6,
+    "attackModifier": 3,
+    "attack": {
+      "name": "Beak & Talons",
+      "range": "veryClose",
+      "damage": "3d12+8",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Craggy Peaks",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Relentless",
+        "nameDetail": "3",
+        "type": "passive",
+        "text": "The Roc can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight it."
+      },
+      {
+        "name": "Bird of Prey",
+        "type": "passive",
+        "text": "Once per GM turn, the Roc can move up to Very Far range before or after it takes an action."
+      },
+      {
+        "name": "Here Comes the Boom",
+        "type": "action",
+        "text": "**Spend a Fear** to have the Roc unleash a storm of lightning and thunder. Make an attack roll against **1d4+1** targets within Far range. Targets the Roc succeeds against take **3d12** magic damage. Then each target within Far range of the Roc must make an Agility Reaction Roll (20). Targets who fail take **3d8** physical damage and are pushed back to Close range. Targets who succeed must mark a Stress."
+      },
+      {
+        "name": "Crushing Grasp",
+        "type": "reaction",
+        "text": "When the Roc makes a successful standard attack, you can **mark a Stress** to have the Roc crush the target with its talons, forcing them to mark **1d4** Stress and _Restraining_ them until they succeed on a Strength Roll (20)."
+      },
+      {
+        "name": "Nest Warden",
+        "type": "evolution",
+        "text": "When the Roc's eggs are threatened, it gains the following features:"
+      },
+      {
+        "name": "Wrathful",
+        "type": "passive",
+        "text": "The Roc gains a +2 bonus to its Difficulty and a bonus to damage rolls equal to the number of Stress it has marked."
+      },
+      {
+        "name": "Electrifying Aura",
+        "type": "passive",
+        "text": "The Roc has resistance to magic damage. PCs who fail a roll within Very Close range must spend a Hope or mark **1d4** Stress."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

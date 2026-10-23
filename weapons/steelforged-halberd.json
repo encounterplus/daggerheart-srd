@@ -1,0 +1,19 @@
+{
+  "id": "cb5575b4-f92d-5240-a389-14d2d8bdb5ca",
+  "name": "Steelforged Halberd",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "veryClose",
+    "damage": "d8+4",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "dc62ac2c-0e32-575b-a607-38dcf246cb84",
+  "name": "Spellblade",
+  "descr": "A mercenary combining swordplay and magic to deadly effect.",
+  "data": {
+    "tier": 1,
+    "type": "leader",
+    "motivesAndTactics": "Blast, command, endure",
+    "difficulty": 14,
+    "thresholds": {
+      "major": 8,
+      "severe": 14
+    },
+    "hp": 6,
+    "stress": 3,
+    "attackModifier": 3,
+    "attack": {
+      "name": "Empowered Longsword",
+      "range": "melee",
+      "damage": "1d8+4",
+      "damageType": "phy/mag"
+    },
+    "experience": [
+      {
+        "name": "Magical Knowledge",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Arcane Steel",
+        "type": "passive",
+        "text": "Damage dealt by the Spellblade's standard attack is considered both physical and magic."
+      },
+      {
+        "name": "Suppressing Blast",
+        "type": "action",
+        "text": "**Mark a Stress** and target a group within Far range. All targets must succeed on an Agility Reaction Roll or take **1d8+2** magic damage. You gain a Fear for each target who marked HP from this attack."
+      },
+      {
+        "name": "Move as a Unit",
+        "type": "action",
+        "text": "**Spend 2 Fear** to spotlight up to five allies within Far range."
+      },
+      {
+        "name": "Momentum",
+        "type": "reaction",
+        "text": "When the Spellblade makes a successful attack against a PC, you gain a Fear."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

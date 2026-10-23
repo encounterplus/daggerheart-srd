@@ -1,0 +1,16 @@
+{
+  "id": "df122381-0192-5ed3-8e2f-56d4cb6fb0c2",
+  "name": "Know Thy Enemy",
+  "descr": "When observing a creature, you can make an **Instinct Roll** against them. On a success, **spend a Hope** and ask the GM for one set of information about the target from the following options:\n\n- Their unmarked Hit Points and Stress.\n- Their Difficulty and damage thresholds.\n- Their tactics and standard attack damage dice.\n- Their features and Experiences.\n\nAdditionally on a success, you can **mark a Stress** to remove a Fear from the GM's Fear Pool.",
+  "data": {
+    "level": 5,
+    "recall": 1,
+    "type": "ability",
+    "domain": "bone"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

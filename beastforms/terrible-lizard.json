@@ -1,0 +1,38 @@
+{
+  "id": "9f2de9ad-08d1-5590-930c-a69db72eb774",
+  "name": "Terrible Lizard",
+  "data": {
+    "tier": 4,
+    "examples": "Brachiosaurus, Tyrannosaurus, etc.",
+    "trait": "strength",
+    "traitModifier": 3,
+    "evasionModifier": 2,
+    "attack": {
+      "range": "melee",
+      "trait": "strength",
+      "damage": "d12+10",
+      "damageType": "phy"
+    },
+    "advantages": [
+      "attack",
+      "deceive",
+      "scare",
+      "track"
+    ],
+    "features": [
+      {
+        "name": "Devastating Strikes",
+        "text": "When you deal Severe damage to a target within Melee range, you can **mark a Stress** to force them to mark an additional Hit Point."
+      },
+      {
+        "name": "Massive Stride",
+        "text": "You can move up to Far range without rolling. You ignore rough terrain (at the GM's discretion) due to your size."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

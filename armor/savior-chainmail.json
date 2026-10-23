@@ -1,0 +1,17 @@
+{
+  "id": "b53ed522-0516-596e-a542-aeb4be2cdd4a",
+  "name": "Savior Chainmail",
+  "data": {
+    "tier": 4,
+    "thresholds": {
+      "major": 18,
+      "severe": 48
+    },
+    "score": 8
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

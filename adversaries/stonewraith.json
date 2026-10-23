@@ -1,0 +1,57 @@
+{
+  "id": "ce508d49-9f61-539c-ad1a-703fefa398bd",
+  "name": "Stonewraith",
+  "descr": "A prowling hunter, like a slinking mountain lion, with a slate-gray stone body.",
+  "data": {
+    "tier": 2,
+    "type": "skulk",
+    "motivesAndTactics": "Defend territory, isolate prey, stalk",
+    "difficulty": 13,
+    "thresholds": {
+      "major": 11,
+      "severe": 22
+    },
+    "hp": 6,
+    "stress": 3,
+    "attackModifier": 3,
+    "attack": {
+      "name": "Bite and Claws",
+      "range": "melee",
+      "damage": "2d8+6",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Stonesense",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Stonestrider",
+        "type": "passive",
+        "text": "The Stonewraith can move through stone and earth as easily as air. While within stone or earth, they are _Hidden_ and immune to all damage."
+      },
+      {
+        "name": "Rocky Ambush",
+        "type": "action",
+        "text": "While _Hidden_, **mark a Stress** to leap into Melee range with a target within Very Close range. The target must succeed on an Agility or Instinct Reaction Roll (15) or take **2d8** physical damage and become temporarily _Restrained_."
+      },
+      {
+        "name": "Avalanche Roar",
+        "type": "action",
+        "text": "**Spend a Fear** to roar while within a cave and cause a cave-in. All targets within Close range must succeed on an Agility Reaction Roll (14) or take **2d10** physical damage. The rubble can be cleared with a Progress Countdown (8)."
+      },
+      {
+        "name": "Momentum",
+        "type": "reaction",
+        "text": "When the Stonewraith makes a successful attack against a PC, you gain a Fear."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

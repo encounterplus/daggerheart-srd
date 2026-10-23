@@ -1,0 +1,54 @@
+{
+  "id": "3668a12c-2032-5c7b-a2fb-0bd99bed19c8",
+  "name": "Vampire Bat Swarm",
+  "descr": "A cloud of blood-sucking bats.",
+  "data": {
+    "tier": 3,
+    "type": "horde",
+    "typeDetail": "5/HP",
+    "motivesAndTactics": "Blot out the moon, murmur, spread disease",
+    "difficulty": 15,
+    "thresholds": {
+      "major": 16,
+      "severe": 30
+    },
+    "hp": 8,
+    "stress": 3,
+    "attackModifier": 1,
+    "attack": {
+      "name": "Fangs",
+      "range": "melee",
+      "damage": "3d6+6",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Blood",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Horde",
+        "nameDetail": "2d6",
+        "type": "passive",
+        "text": "When the Swarm has marked half or more of its HP, its standard attack deals **2d6** physical damage instead."
+      },
+      {
+        "name": "Blinding Multitude",
+        "type": "passive",
+        "text": "The Swarm is so thick it blocks the vision of anyone it interacts with. Creatures within Melee range have disadvantage on attacks made against adversaries other than the Swarm."
+      },
+      {
+        "name": "Bloodsuckers",
+        "type": "reaction",
+        "text": "When the Swarm deals damage to a target, you can **mark a Stress** to have the Swarm feed. The target marks an additional HP, and the Swarm clears a HP."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

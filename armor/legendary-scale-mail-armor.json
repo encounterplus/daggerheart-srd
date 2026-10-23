@@ -1,0 +1,17 @@
+{
+  "id": "3fe55d28-dcf7-503d-8112-866b9543ee34",
+  "name": "Legendary Scale Mail Armor",
+  "data": {
+    "tier": 4,
+    "thresholds": {
+      "major": 15,
+      "severe": 39
+    },
+    "score": 6
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

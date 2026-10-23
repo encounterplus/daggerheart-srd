@@ -1,0 +1,19 @@
+{
+  "id": "9e3dcd1c-f626-5893-9306-2872623772b8",
+  "name": "Clockwork Crossbow",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "far",
+    "damage": "d6+11",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "a5905d6a-9ab4-5598-a91f-59d30930a88d",
+  "name": "Light-frame Wheelchair",
+  "data": {
+    "tier": 1,
+    "category": "primary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "melee",
+    "damage": "d8",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

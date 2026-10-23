@@ -1,0 +1,16 @@
+{
+  "id": "6e462a40-8937-523f-a5db-5c5bb7cc8d8d",
+  "name": "Ferocity",
+  "descr": "When you cause an adversary to mark 1 or more Hit Points, you can **spend 2 Hope** to increase your Evasion by the number of Hit Points they marked. This bonus lasts until after the next attack made against you.",
+  "data": {
+    "level": 2,
+    "recall": 2,
+    "type": "ability",
+    "domain": "bone"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

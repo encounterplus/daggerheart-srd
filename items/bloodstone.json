@@ -1,0 +1,10 @@
+{
+  "id": "8e9bb3ce-089d-5d2c-b3ee-b3faa58a93e2",
+  "name": "Bloodstone",
+  "descr": "You can attach this stone to a weapon that doesn't already have a feature. The weapon gains the following feature. _Brutal:_ When you roll the maximum value on a damage die, roll an additional damage die.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

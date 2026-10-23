@@ -1,0 +1,16 @@
+{
+  "id": "81dd89d1-56c8-57cd-9c85-66b08f48c350",
+  "name": "Bare Bones",
+  "descr": "When you choose not to equip armor, you have a base Armor Score of 3 + your Strength and use the following as your base damage thresholds:\n\n- _Tier 1_: 9/19\n- _Tier 2_: 11/24\n- _Tier 3_: 13/31\n- _Tier 4_: 15/38",
+  "data": {
+    "level": 1,
+    "recall": 0,
+    "type": "ability",
+    "domain": "valor"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

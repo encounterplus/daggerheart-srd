@@ -1,0 +1,19 @@
+{
+  "id": "3a69c8eb-c1d4-5032-b20a-0cf5140c0bf3",
+  "name": "Tinker’s Hammer",
+  "data": {
+    "tier": 3,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d8+4",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

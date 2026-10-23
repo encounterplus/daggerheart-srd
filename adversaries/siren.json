@@ -1,0 +1,47 @@
+{
+  "id": "c00c6719-03c1-52a9-87a9-261f27c7a873",
+  "name": "Siren",
+  "descr": "A half-fish person with shimmering scales and an irresistible voice.",
+  "data": {
+    "tier": 2,
+    "type": "skulk",
+    "motivesAndTactics": "Consume, lure prey, subdue with song",
+    "difficulty": 14,
+    "thresholds": {
+      "major": 9,
+      "severe": 18
+    },
+    "hp": 5,
+    "stress": 3,
+    "attackModifier": 2,
+    "attack": {
+      "name": "Distended Jaw Bite",
+      "range": "melee",
+      "damage": "2d6+3",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Song Repertoire",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Captive Audience",
+        "type": "passive",
+        "text": "If the Siren makes a standard attack against a target _Entranced_ by their song, the attack deals **2d10+1** damage instead of their standard damage."
+      },
+      {
+        "name": "Enchanting Song",
+        "type": "action",
+        "text": "**Spend a Fear** to sing a song that affects all targets within Close range. Targets must succeed on an Instinct Reaction Roll or become _Entranced_ until they mark 2 Stress. Other Sirens within Close range of the target can **mark a Stress** to each add a +1 bonus to the Difficulty of the reaction roll. While _Entranced_, a target can't act and is _Vulnerable_."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

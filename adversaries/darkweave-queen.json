@@ -1,0 +1,67 @@
+{
+  "id": "62c1d663-6bbd-5c9f-b4bf-5a28f7091380",
+  "name": "Darkweave Queen",
+  "descr": "A wagon-sized spider woven from shadow-silk by a long-forgotten god. Each of her many eyes bears the face of a different victim.",
+  "data": {
+    "tier": 1,
+    "type": "solo",
+    "motivesAndTactics": "Ambush prey, climb the walls and ceiling, misdirect, paralyze, stash bodies away for later, steal faces",
+    "difficulty": 14,
+    "thresholds": {
+      "major": 8,
+      "severe": 15
+    },
+    "hp": 9,
+    "stress": 4,
+    "attackModifier": 3,
+    "attack": {
+      "name": "Spider Bite",
+      "range": "veryClose",
+      "damage": "1d12+4",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Giant-Sized",
+        "modifier": 3
+      },
+      {
+        "name": "Hunter",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Relentless",
+        "nameDetail": "3",
+        "type": "passive",
+        "text": "The Queen can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight her."
+      },
+      {
+        "name": "Terrifying",
+        "type": "passive",
+        "text": "When a PC fails an attack roll against the Queen, you gain a Fear."
+      },
+      {
+        "name": "Den Mother",
+        "type": "action",
+        "text": "Once per scene, **spend 2 Fear** to summon up to two Darkweave adversaries (other than Darkweave Queens), who appear within Close range and immediately take the spotlight."
+      },
+      {
+        "name": "Quicker Than She Looks",
+        "type": "action",
+        "text": "**Spend a Fear** to move up to Far range and make a standard attack with advantage."
+      },
+      {
+        "name": "Darkfang Envenomation",
+        "type": "reaction",
+        "text": "When the Queen succeeds on a standard attack, you can **spend a Fear** to make the target _Vulnerable_ and _Restrained_ until they succeed on a Strength Roll (12) or take a rest."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

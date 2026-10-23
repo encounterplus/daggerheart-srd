@@ -1,0 +1,16 @@
+{
+  "id": "4d42bcff-0b1b-5a47-a42b-76ff880d3499",
+  "name": "Deft Maneuvers",
+  "descr": "Once per rest, **mark a Stress** to sprint anywhere within Far range without making an Agility Roll to get there.\n\nIf you end this movement within Melee range of an adversary and immediately make an attack against them, gain a +1 bonus to the attack roll.",
+  "data": {
+    "level": 1,
+    "recall": 0,
+    "type": "ability",
+    "domain": "bone"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

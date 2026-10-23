@@ -1,0 +1,19 @@
+{
+  "id": "1207845e-e44b-56c8-8e1a-a15d6430e2c9",
+  "name": "Legendary Arcane Rifle",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "magic",
+    "trait": "agility",
+    "range": "veryFar",
+    "damage": "d10+12",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

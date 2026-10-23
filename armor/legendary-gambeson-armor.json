@@ -1,0 +1,17 @@
+{
+  "id": "0f312866-450e-5995-a2ed-74b5d37cd114",
+  "name": "Legendary Gambeson Armor",
+  "data": {
+    "tier": 4,
+    "thresholds": {
+      "major": 11,
+      "severe": 32
+    },
+    "score": 6
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

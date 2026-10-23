@@ -1,0 +1,16 @@
+{
+  "id": "9dad419e-a9b4-54bb-87c3-d9a3fe632060",
+  "name": "Pick and Pull",
+  "descr": "You have advantage on action rolls to pick nonmagical locks, disarm nonmagical traps, or steal items from a target (either through stealth or by force).",
+  "data": {
+    "level": 1,
+    "recall": 0,
+    "type": "ability",
+    "domain": "midnight"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

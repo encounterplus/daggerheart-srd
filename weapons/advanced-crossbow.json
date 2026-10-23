@@ -1,0 +1,19 @@
+{
+  "id": "42f4d48c-08cc-5929-9f27-4bf71b46cee5",
+  "name": "Advanced Crossbow",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "far",
+    "damage": "d6+7",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

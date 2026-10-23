@@ -1,0 +1,10 @@
+{
+  "id": "87bcecb3-89a4-5ea6-b135-6a81d960793e",
+  "name": "Mask Of The Echoed Self",
+  "descr": "You can wear this mask during your next level up to swap the values of any of your traits. When you do, the mask becomes your permanent face.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

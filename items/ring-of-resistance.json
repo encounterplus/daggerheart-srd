@@ -1,0 +1,10 @@
+{
+  "id": "40f85ab5-e199-52da-826a-d2e1565825a0",
+  "name": "Ring Of Resistance",
+  "descr": "Once per long rest, you can activate this ring after a successful attack against you to halve the damage.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

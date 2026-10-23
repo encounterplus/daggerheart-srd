@@ -1,0 +1,19 @@
+{
+  "id": "37a8524c-9de3-567b-9f4a-20e97cb9dd1c",
+  "name": "Ethereal Zweihänder",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "magic",
+    "trait": "instinct",
+    "range": "veryClose",
+    "damage": "d10+9",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

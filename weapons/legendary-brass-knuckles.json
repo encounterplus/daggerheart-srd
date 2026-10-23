@@ -1,0 +1,19 @@
+{
+  "id": "74c920cf-1cef-5ce6-ba71-8c2a86772b5e",
+  "name": "Legendary Brass Knuckles",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d8+10",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "f6f69946-6120-5194-bbad-ab9caf5d050c",
+  "name": "Mace",
+  "data": {
+    "tier": 1,
+    "category": "primary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d8+1",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "25845be5-6d67-5f36-8b8b-6ce36e8ceb24",
+  "name": "Communion Relic",
+  "descr": "Once per rest, you can spend a Hope to use an ally's Experience as if it were your own. You can carry only one relic.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

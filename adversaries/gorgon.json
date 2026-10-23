@@ -1,0 +1,63 @@
+{
+  "id": "974f8c0b-c58e-5838-81e9-316a24c9f9aa",
+  "name": "Gorgon",
+  "descr": "A snake-headed, scaled humanoid with a gilded bow, enraged that their peace has been disturbed.",
+  "data": {
+    "tier": 2,
+    "type": "solo",
+    "motivesAndTactics": "Corner, hit-and-run, petrify, seek vengeance",
+    "difficulty": 15,
+    "thresholds": {
+      "major": 13,
+      "severe": 25
+    },
+    "hp": 9,
+    "stress": 3,
+    "attackModifier": 4,
+    "attack": {
+      "name": "Sunsear Shortbow",
+      "range": "far",
+      "damage": "2d20+3",
+      "damageType": "mag"
+    },
+    "experience": [
+      {
+        "name": "Stealth",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Relentless",
+        "nameDetail": "2",
+        "type": "passive",
+        "text": "The Gorgon can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them."
+      },
+      {
+        "name": "Sunsear Arrows",
+        "type": "passive",
+        "text": "When the Gorgon makes a successful standard attack, the target _Glows_ until the end of the scene and can't become _Hidden_. Attack rolls made against a _Glowing_ target have advantage."
+      },
+      {
+        "name": "Crown of Serpents",
+        "type": "action",
+        "text": "Make an attack roll against a target within Melee range using the Gorgon's protective snakes. On a success, **mark a Stress** to deal **2d10+4** physical damage and the target must mark a Stress."
+      },
+      {
+        "name": "Petrifying Gaze",
+        "type": "reaction",
+        "text": "When the Gorgon takes damage from an attack within Close range, you can **spend a Fear** to force the attacker to make an Instinct Reaction Roll. On a failure, they begin to turn to stone, marking a HP and starting a Petrification Countdown (4). This countdown ticks down when the Gorgon is attacked. When it triggers, the target must make a death move. If the Gorgon is defeated, all petrification countdowns end."
+      },
+      {
+        "name": "Momentum",
+        "type": "reaction",
+        "text": "When the Gorgon makes a successful attack against a PC, you gain a Fear."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

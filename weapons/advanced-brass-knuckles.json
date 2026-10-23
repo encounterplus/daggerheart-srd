@@ -1,0 +1,19 @@
+{
+  "id": "5d83a58e-36a7-503e-8bc9-fd3449ad886c",
+  "name": "Advanced Brass Knuckles",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d8+7",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

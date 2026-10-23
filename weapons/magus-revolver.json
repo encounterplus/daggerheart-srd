@@ -1,0 +1,19 @@
+{
+  "id": "bb5a4e90-33aa-5d6a-8b09-b5e84ead26db",
+  "name": "Magus Revolver",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "magic",
+    "trait": "finesse",
+    "range": "veryFar",
+    "damage": "d6+13",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

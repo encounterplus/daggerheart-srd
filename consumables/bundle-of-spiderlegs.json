@@ -1,0 +1,10 @@
+{
+  "id": "72151abd-ac2c-56d4-92fe-76a9cf05239e",
+  "name": "Bundle Of Spiderlegs",
+  "descr": "You can eat these spiderlegs to walk on walls until your next rest.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

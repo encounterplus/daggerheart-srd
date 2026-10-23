@@ -1,0 +1,16 @@
+{
+  "id": "8cb0701f-9ea6-52b2-a840-f54a0c0fa810",
+  "name": "Rapid Riposte",
+  "descr": "When an attack made against you from within Melee range fails, you can **mark a Stress** and seize the opportunity to deal the weapon damage of one of your active weapons to the attacker.",
+  "data": {
+    "level": 6,
+    "recall": 0,
+    "type": "ability",
+    "domain": "bone"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

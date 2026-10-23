@@ -1,0 +1,10 @@
+{
+  "id": "3a98a22b-69ae-55a4-92dd-da954be40f5f",
+  "name": "Iridian Dust",
+  "descr": "This multicolored powder sticks to everything and prevents creatures covered in it from becoming _Hidden_.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

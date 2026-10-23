@@ -1,0 +1,10 @@
+{
+  "id": "1873c282-6096-5131-afa7-3807cba18bf1",
+  "name": "Homing Compasses",
+  "descr": "These two compasses point toward each other no matter how far apart they are.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

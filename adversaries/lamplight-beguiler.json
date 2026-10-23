@@ -1,0 +1,56 @@
+{
+  "id": "0ac07bcd-a67a-5626-8c73-770d016417e6",
+  "name": "Lamplight Beguiler",
+  "descr": "A huge aquatic creature that lures unwary prey into eating range with its dangling, shapeshifting head stalk.",
+  "data": {
+    "tier": 3,
+    "type": "skulk",
+    "motivesAndTactics": "Entice with secret knowledge, snap the trap shut, speak through a shapeshifted head stalk",
+    "difficulty": 16,
+    "thresholds": {
+      "major": 16,
+      "severe": 32
+    },
+    "hp": 6,
+    "stress": 5,
+    "attackModifier": 3,
+    "attack": {
+      "name": "Jaws",
+      "range": "melee",
+      "damage": "3d8+2",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Charm",
+        "modifier": 3
+      },
+      {
+        "name": "Secrets",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Doppel-Dangler",
+        "type": "action",
+        "text": "The membranous cluster at the end of the Beguiler's head stalk can shapeshift into any humanoid form. **Mark a Stress** to choose a PC within Close range. Their player must tell you who their PC would find most trustworthy. The Beguiler's head stalk transforms into that person and gains the ability to speak in their voice."
+      },
+      {
+        "name": "Entice",
+        "type": "action",
+        "text": "**Spend a Fear** to have the Beguiler make an alluring overture to a PC within Close range. The PC must succeed on a Presence Reaction Roll (18) or move into Melee range with the Beguiler. If the Beguiler's head stalk is transformed into a person the PC would find trustworthy, they have disadvantage on the reaction roll."
+      },
+      {
+        "name": "Gulp",
+        "type": "reaction",
+        "text": "When a PC moves within Melee range, you can **spend a Fear** to make an attack roll against them. On a successful attack, the target takes **3d6** physical damage and is _Swallowed_. While _Swallowed_, the target is _Restrained_ and takes **3d6** physical damage when the Beguiler takes the spotlight. The Beguiler disgorges all _Swallowed_ creatures when it takes Major or Severe damage."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

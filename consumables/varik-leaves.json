@@ -1,0 +1,10 @@
+{
+  "id": "c80bd81a-54a0-58af-9028-f4317f24c0f0",
+  "name": "Varik Leaves",
+  "descr": "You can eat these paired leaves to immediately gain 2 Hope.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

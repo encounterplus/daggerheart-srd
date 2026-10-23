@@ -1,0 +1,52 @@
+{
+  "id": "9b24e5fe-030a-5d0e-9a61-08578727c374",
+  "name": "Tyrannosaurus",
+  "descr": "A huge carnivorous dinosaur that walks on two legs.",
+  "data": {
+    "tier": 2,
+    "type": "bruiser",
+    "motivesAndTactics": "Break through the treeline, eat, stomp around",
+    "difficulty": 15,
+    "thresholds": {
+      "major": 14,
+      "severe": 28
+    },
+    "hp": 7,
+    "stress": 5,
+    "attackModifier": 2,
+    "attack": {
+      "name": "Mighty Jaws",
+      "range": "veryClose",
+      "damage": "2d10+4",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Predator",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Earth-Shaking Roar",
+        "type": "action",
+        "text": "**Spend a Fear** to force each PC within Close range to make a Presence Reaction Roll. On a failure, they must choose to lose a Hope or mark **1d4** Stress."
+      },
+      {
+        "name": "Stomp",
+        "type": "action",
+        "text": "**Mark a Stress** to attack a target within Melee range. On a success, the target takes **3d12** direct physical damage."
+      },
+      {
+        "name": "Crushing Bite",
+        "type": "reaction",
+        "text": "When the Tyrannosaurus makes a successful standard attack, you can **spend a Fear** to force the target to mark an additional HP."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

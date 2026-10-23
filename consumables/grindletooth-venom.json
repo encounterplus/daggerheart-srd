@@ -1,0 +1,10 @@
+{
+  "id": "7e92b6ef-4328-5f01-9e84-4c64ea2e264b",
+  "name": "Grindletooth Venom",
+  "descr": "You can apply this venom to a weapon that deals physical damage to add a d6 to your next damage roll with that weapon.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

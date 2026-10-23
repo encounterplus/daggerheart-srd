@@ -1,0 +1,17 @@
+{
+  "id": "d96f5597-e88c-597c-b615-17126e7377cd",
+  "name": "Full Fortified Armor",
+  "data": {
+    "tier": 4,
+    "thresholds": {
+      "major": 15,
+      "severe": 40
+    },
+    "score": 4
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

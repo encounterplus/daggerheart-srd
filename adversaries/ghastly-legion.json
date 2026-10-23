@@ -1,0 +1,53 @@
+{
+  "id": "f194ec98-1263-5e06-823e-db2b9696d5f9",
+  "name": "Ghastly Legion",
+  "descr": "A teeming army of ghosts roused from dreamless slumber to fulfill their ancient oath.",
+  "data": {
+    "tier": 4,
+    "type": "horde",
+    "typeDetail": "10/HP",
+    "motivesAndTactics": "Overwhelm, serve, swarm",
+    "difficulty": 17,
+    "thresholds": {
+      "major": 25,
+      "severe": 45
+    },
+    "hp": 8,
+    "stress": 5,
+    "attackModifier": 2,
+    "attack": {
+      "name": "Spectral Armaments",
+      "range": "close",
+      "damage": "4d6+10",
+      "damageType": "mag"
+    },
+    "experience": [
+      {
+        "name": "Tactics",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Horde (2d6+5)",
+        "type": "passive",
+        "text": "When the Legion has marked half or more of its HP, its standard attack deals **2d6+5** magic damage instead."
+      },
+      {
+        "name": "Necroplasmic",
+        "type": "passive",
+        "text": "The Legion is immune to physical damage and takes double magic damage."
+      },
+      {
+        "name": "Final Act",
+        "type": "reaction",
+        "text": "When the Legion is defeated, it makes a standard attack against all targets within Close range before being dispelled."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

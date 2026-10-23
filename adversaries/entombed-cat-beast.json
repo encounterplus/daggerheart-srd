@@ -1,0 +1,63 @@
+{
+  "id": "88291aab-e098-5147-abd2-b804206c81ca",
+  "name": "Entombed Cat Beast",
+  "descr": "A large undead humanoid skeleton with a panther's skull for a head.",
+  "data": {
+    "tier": 2,
+    "type": "solo",
+    "motivesAndTactics": "Rush attack, shred, terrify",
+    "difficulty": 15,
+    "thresholds": {
+      "major": 12,
+      "severe": 23
+    },
+    "hp": 7,
+    "stress": 3,
+    "attackModifier": 2,
+    "attack": {
+      "name": "Razor Claws",
+      "range": "veryClose",
+      "damage": "2d12+2",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Feral",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Relentless",
+        "nameDetail": "3",
+        "type": "passive",
+        "text": "The Cat Beast can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them."
+      },
+      {
+        "name": "Bloody Strike",
+        "type": "passive",
+        "text": "A PC who marks 3 or more HP from an attack made by the Cat Beast must mark an additional HP."
+      },
+      {
+        "name": "Screeching Caterwaul",
+        "type": "action",
+        "text": "**Mark a Stress** to force each PC within Far range of the Cat Beast to make a Presence Reaction Roll. Targets who fail become _Rattled_ until they roll with Hope. When the Cat Beast makes a successful attack against a _Rattled_ PC, roll damage twice and take the better result, then clear the _Rattled_ condition from the target."
+      },
+      {
+        "name": "I Alone",
+        "type": "reaction",
+        "text": "When the Cat Beast first appears, you can choose to have them absorb the essence of their allies. Immediately defeat any number of allies on the battlefield, and gain a Fear for each ally defeated this way."
+      },
+      {
+        "name": "Vicious Reprisal",
+        "type": "reaction",
+        "text": "When the Cat Beast takes damage from an attack made by a PC within Very Close range, you can **mark a Stress** to make a standard attack against that PC."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

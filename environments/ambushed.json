@@ -1,0 +1,29 @@
+{
+  "id": "3268cdaf-d462-5f71-9d1e-dcb98d833602",
+  "name": "Ambushed",
+  "descr": "An ambush is set to catch an unsuspecting party off-guard.",
+  "data": {
+    "tier": 1,
+    "type": "event",
+    "impulses": "Overwhelm, scatter, surround",
+    "difficulty": "Special (see \"Relative Strength\")",
+    "adversaries": "Any",
+    "features": [
+      {
+        "name": "Relative Strength",
+        "type": "passive",
+        "text": "The Difficulty of this environment equals that of the adversary with the highest Difficulty.\n\nWho cues the ambush? What makes it clear they're in charge?"
+      },
+      {
+        "name": "Surprise!",
+        "type": "action",
+        "text": "The ambushers reveal themselves to the party, you gain 2 Fear, and the spotlight immediately shifts to one of the ambushing adversaries.\n\nWhat do the ambushers want from the party? How do their tactics in the ambush reflect that?"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

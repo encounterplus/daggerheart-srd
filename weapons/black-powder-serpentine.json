@@ -1,0 +1,19 @@
+{
+  "id": "b0217786-3493-5729-833e-ce80fb841af5",
+  "name": "Black Powder Serpentine",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "far",
+    "damage": "d8+12",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

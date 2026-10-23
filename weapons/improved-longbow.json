@@ -1,0 +1,19 @@
+{
+  "id": "beebfcfb-1b1d-59a1-83ee-ad8f19697538",
+  "name": "Improved Longbow",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "veryFar",
+    "damage": "d8+6",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

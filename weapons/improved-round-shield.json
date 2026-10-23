@@ -1,0 +1,19 @@
+{
+  "id": "f57c1b31-e84b-5a65-b597-94cfedd42d1d",
+  "name": "Improved Round Shield",
+  "data": {
+    "tier": 2,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d4+2",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

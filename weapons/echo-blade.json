@@ -1,0 +1,19 @@
+{
+  "id": "80ace384-f6f7-5f17-af63-214befd81724",
+  "name": "Echo Blade",
+  "data": {
+    "tier": 4,
+    "category": "secondary",
+    "type": "magic",
+    "trait": "presence",
+    "range": "melee",
+    "damage": "d4+6",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

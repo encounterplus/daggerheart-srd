@@ -1,0 +1,16 @@
+{
+  "id": "1e84e649-edf3-5493-b3ab-ab0b2d5441cf",
+  "name": "Reckless",
+  "descr": "**Mark a Stress** to gain advantage on an attack.",
+  "data": {
+    "level": 2,
+    "recall": 1,
+    "type": "ability",
+    "domain": "blade"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

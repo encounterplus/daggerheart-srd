@@ -1,0 +1,19 @@
+{
+  "id": "d35132d6-ce95-5d41-8e20-0e3cd472b156",
+  "name": "Legendary Hallowed Axe",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "magic",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d8+10",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

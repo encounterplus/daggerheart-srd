@@ -1,0 +1,19 @@
+{
+  "id": "60c38690-ab04-579b-b0a0-f5939917d06a",
+  "name": "Advanced Light-frame Wheelchair",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "melee",
+    "damage": "d8+6",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

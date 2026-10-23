@@ -1,0 +1,19 @@
+{
+  "id": "b68862b1-0c9d-5fa3-a7e1-1d7604a46192",
+  "name": "Keeper's Staff",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "magic",
+    "trait": "knowledge",
+    "range": "far",
+    "damage": "d6+4",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "de5674ca-7850-5e57-b3d8-3678e6aec39d",
+  "name": "Mandragorian Torch",
+  "descr": "This torch gives off light only the bearer can see.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "64782b50-5b49-5277-8c3a-e34ba86920c2",
+  "name": "Magic-user’s Malison",
+  "descr": "When you release this spellcaster's trapped soul, you can cast one spell from a card in your vault as if it were in your loadout. This doesn't work for permanently vaulted cards.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

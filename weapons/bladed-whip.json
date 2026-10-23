@@ -1,0 +1,19 @@
+{
+  "id": "2c7a07dd-5f08-5a3b-adf5-7bfb6f207031",
+  "name": "Bladed Whip",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "veryClose",
+    "damage": "d8+3",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

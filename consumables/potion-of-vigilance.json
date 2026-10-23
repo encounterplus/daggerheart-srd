@@ -1,0 +1,10 @@
+{
+  "id": "f0586018-b339-539b-8c27-aa412c0fed94",
+  "name": "Potion Of Vigilance",
+  "descr": "You can drink this potion to gain a +1 bonus to your Evasion until you mark a Hit Point.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

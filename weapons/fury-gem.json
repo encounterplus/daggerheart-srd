@@ -1,0 +1,19 @@
+{
+  "id": "6db692dd-cf49-5b35-884c-61a02f026d12",
+  "name": "Fury Gem",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "magic",
+    "trait": "instinct",
+    "range": "close",
+    "damage": "d8+3",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

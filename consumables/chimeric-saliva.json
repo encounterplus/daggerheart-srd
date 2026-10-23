@@ -1,0 +1,10 @@
+{
+  "id": "a089463c-cea0-5520-894c-288e162a9481",
+  "name": "Chimeric Saliva",
+  "descr": "You can apply this saliva to a weapon that deals physical damage to change its damage type to magic until your next rest.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

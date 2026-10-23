@@ -1,0 +1,10 @@
+{
+  "id": "6fa5299f-8bee-5c41-9e2f-62d2e68a8fad",
+  "name": "Hero’s Helm",
+  "descr": "When you critically succeed on an attack, all allies within Close range gain a Hope.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "72c6b247-a803-5cf3-853d-89fb3e9cb68c",
+  "name": "Advanced Katana",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "melee",
+    "damage": "d10+9",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

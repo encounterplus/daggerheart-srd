@@ -1,0 +1,61 @@
+{
+  "id": "e1b39c1f-17e2-50ec-835e-d4ef9fd66b28",
+  "name": "Guahalan Spirit Singer",
+  "descr": "A shapeshifting summoner who has animalistic features.",
+  "data": {
+    "tier": 2,
+    "type": "support",
+    "motivesAndTactics": "Abjure, bolster, summon",
+    "difficulty": 14,
+    "thresholds": {
+      "major": 9,
+      "severe": 18
+    },
+    "hp": 4,
+    "stress": 6,
+    "attackModifier": 2,
+    "attack": {
+      "name": "Spirit Flame",
+      "range": "close",
+      "damage": "2d6+4",
+      "damageType": "mag"
+    },
+    "experience": [
+      {
+        "name": "Ritual",
+        "modifier": 3
+      },
+      {
+        "name": "Ancient History",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Unleash the Beast",
+        "type": "action",
+        "text": "**Spend a Fear** to have the Spirit Singer adopt a more bestial form. While in this form, they gain a bonus to attack and damage rolls equal to the number of Stress they have marked. Additionally, they can move up to Far range instead of Close range before taking an action."
+      },
+      {
+        "name": "Beast-Caller",
+        "type": "action",
+        "text": "**Spend a Fear** to have the Spirit Singer summon **2d4** Guahalan Spirit Beasts within Very Close range and immediately spotlight one."
+      },
+      {
+        "name": "Rage of Spirits",
+        "type": "action",
+        "text": "**Mark a Stress** to spotlight any number of Guahalan Spirit Beasts within Very Close range and have each one move into Melee range with the nearest PC and make a standard attack. If any attacks succeed against the same target, combine their damage."
+      },
+      {
+        "name": "Spiritual Sacrifice",
+        "type": "reaction",
+        "text": "When the Spirit Singer would take damage while within Very Close range of a Guahalan Spirit Beast, you can **spend a Fear** to sacrifice the Spirit Beast and negate the damage."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

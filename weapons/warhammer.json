@@ -1,0 +1,19 @@
+{
+  "id": "59d9a6e3-3f0e-59b4-aebc-356f053437a6",
+  "name": "Warhammer",
+  "data": {
+    "tier": 1,
+    "category": "primary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d12+3",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2eaf0ba9-bb61-5227-8fbb-9c99b72c79a5",
+  "name": "Broadsword",
+  "data": {
+    "tier": 1,
+    "category": "primary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "melee",
+    "damage": "d8",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

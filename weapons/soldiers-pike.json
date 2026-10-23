@@ -1,0 +1,19 @@
+{
+  "id": "fc21746f-7fe1-577f-8c6a-f51fee9d61dc",
+  "name": "Soldier’s Pike",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "veryClose",
+    "damage": "d10+5",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

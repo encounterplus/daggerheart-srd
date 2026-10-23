@@ -1,0 +1,61 @@
+{
+  "id": "486c217b-5a0d-5f05-9f0f-870a472af0f4",
+  "name": "Banshee",
+  "descr": "A corrupted fey spirit that haunts the night in the form of a willowy specter wearing a luminous gossamer gown.",
+  "data": {
+    "tier": 2,
+    "type": "skulk",
+    "motivesAndTactics": "Ambush from inside solid objects, frighten to death, mourn life and beauty lost, scream balefully",
+    "difficulty": 14,
+    "thresholds": {
+      "major": 9,
+      "severe": 18
+    },
+    "hp": 5,
+    "stress": 3,
+    "attackModifier": 2,
+    "attack": {
+      "name": "Fingernails",
+      "range": "melee",
+      "damage": "2d6+1",
+      "damageType": "mag"
+    },
+    "experience": [
+      {
+        "name": "Vain",
+        "modifier": 3
+      },
+      {
+        "name": "Wrathful",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Specter",
+        "type": "passive",
+        "text": "The Banshee has resistance to physical damage. **Mark a Stress** to move up to Close range through solid objects."
+      },
+      {
+        "name": "Terrifying",
+        "type": "passive",
+        "text": "When the Banshee makes a successful attack, all PCs within Close range lose a Hope, and you gain a Fear."
+      },
+      {
+        "name": "Scare Tactic",
+        "type": "action",
+        "text": "Up to three times per scene, **spend a Fear** to have the Banshee teleport up to Very Far range and scare a PC within Melee range. The PC marks **1d4** Stress. If this causes them to mark HP, they also lose a Hope."
+      },
+      {
+        "name": "Wail of Despair",
+        "type": "action",
+        "text": "**Mark a Stress** to have the Banshee unleash a mournful scream of pain and anguish. Each PC within Close range must make a Presence Reaction Roll. Targets who succeed take **1d12+1** magic damage. Targets who fail take double damage and are knocked back to Close range."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

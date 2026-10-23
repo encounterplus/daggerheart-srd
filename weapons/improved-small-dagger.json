@@ -1,0 +1,19 @@
+{
+  "id": "2094b838-bafd-53fb-8664-de6f33936001",
+  "name": "Improved Small Dagger",
+  "data": {
+    "tier": 2,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "melee",
+    "damage": "d8+2",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

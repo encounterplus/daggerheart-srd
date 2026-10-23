@@ -1,0 +1,19 @@
+{
+  "id": "1b9a7720-3d23-5514-bdd5-2fb4b87bdc9e",
+  "name": "Longsword",
+  "data": {
+    "tier": 1,
+    "category": "primary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "melee",
+    "damage": "d10+3",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

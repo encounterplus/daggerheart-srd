@@ -1,0 +1,61 @@
+{
+  "id": "8f7604c9-37fa-5207-bc2b-db4ad3b357bc",
+  "name": "Deep Dweller",
+  "descr": "A huge psychic lamprey that has pitch-black eyes and toxic tentacles.",
+  "data": {
+    "tier": 3,
+    "type": "leader",
+    "motivesAndTactics": "Abuse power, seek worship, stalk sunken ruins",
+    "difficulty": 17,
+    "thresholds": {
+      "major": 22,
+      "severe": 42
+    },
+    "hp": 6,
+    "stress": 6,
+    "attackModifier": 5,
+    "attack": {
+      "name": "Teeth & Tentacles",
+      "range": "close",
+      "damage": "3d10+4",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Ancient Mysteries",
+        "modifier": 2
+      },
+      {
+        "name": "Dark Water",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Psychic Blast",
+        "type": "action",
+        "text": "**Spend a Fear** to choose up to three targets within Close range and force them to make an Instinct or Knowledge Reaction Roll. Targets who succeed mark a Stress. Targets who fail take **3d10+4** direct magic damage and are _Vulnerable_ until spotlighted."
+      },
+      {
+        "name": "Brain Drain",
+        "type": "action",
+        "text": "**Mark a Stress** to choose a _Vulnerable_ PC within Very Close range. The target marks **1d4** Stress, and the Deep Dweller clears an equal number of HP."
+      },
+      {
+        "name": "Call of the Deep",
+        "type": "action",
+        "text": "**Spend 2 Fear** to summon **1d4** Cursed Merfolk, who appear at Far range and immediately take the spotlight."
+      },
+      {
+        "name": "Mucosal Contamination",
+        "type": "action",
+        "text": "Make an attack roll against a PC within Very Close range. On a success, the Deep Dweller uses its tentacles to immobilize the target, sliming them with toxic sludge. The target is _Restrained_ until they break free or slip out with a successful Strength or Finesse Roll. Each time the Deep Dweller is spotlighted, all PCs _Restrained_ in this way take **3d8** direct physical damage. The Deep Dweller releases all creatures _Restrained_ by it when it's defeated or takes Severe damage."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

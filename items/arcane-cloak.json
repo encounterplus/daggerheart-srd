@@ -1,0 +1,10 @@
+{
+  "id": "fcb6c018-8c9a-577f-9c98-5a52def028f3",
+  "name": "Arcane Cloak",
+  "descr": "A creature with a Spellcast trait wearing this cloak can adjust its color, texture, and size at will.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

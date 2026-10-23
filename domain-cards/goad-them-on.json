@@ -1,0 +1,16 @@
+{
+  "id": "07dd20c3-ce87-5e7c-a2ad-32c7f7b58230",
+  "name": "Goad Them on",
+  "descr": "Describe how you taunt a target within Close range, then make a **Presence Roll** against them. On a success, the target must mark a Stress, and the next time the GM spotlights them, they must target you with an attack, which they make with disadvantage.",
+  "data": {
+    "level": 4,
+    "recall": 1,
+    "type": "ability",
+    "domain": "valor"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

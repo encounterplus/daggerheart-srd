@@ -1,0 +1,17 @@
+{
+  "id": "8c4bf69a-33fb-597e-9ba0-29fbb3174b92",
+  "name": "Spidersilk Tunic",
+  "data": {
+    "tier": 2,
+    "thresholds": {
+      "major": 9,
+      "severe": 20
+    },
+    "score": 4
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

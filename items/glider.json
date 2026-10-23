@@ -1,0 +1,10 @@
+{
+  "id": "3e401b64-4403-52cb-b10a-62e879096e4d",
+  "name": "Glider",
+  "descr": "While falling, you can mark a Stress to deploy this small parachute and glide safely to the ground.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

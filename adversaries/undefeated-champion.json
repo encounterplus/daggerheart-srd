@@ -1,0 +1,81 @@
+{
+  "id": "2512a0af-4d7e-5cfa-995f-3998b7a5712a",
+  "name": "Undefeated Champion",
+  "descr": "That which only the most feared have a chance to fear.",
+  "data": {
+    "tier": 4,
+    "type": "solo",
+    "motivesAndTactics": "Dispatch merciless death, punish the defiant, secure victory at any cost",
+    "difficulty": 18,
+    "thresholds": {
+      "major": 35,
+      "severe": 58
+    },
+    "hp": 11,
+    "stress": 5,
+    "attackModifier": 8,
+    "attack": {
+      "name": "Heart-Shattering Sword",
+      "range": "veryClose",
+      "damage": "4d12+13",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Conquest",
+        "modifier": 3
+      },
+      {
+        "name": "History",
+        "modifier": 2
+      },
+      {
+        "name": "Intimidation",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Relentless",
+        "nameDetail": "3",
+        "type": "passive",
+        "text": "The Undefeated Champion can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them."
+      },
+      {
+        "name": "Faltering Armor",
+        "type": "passive",
+        "text": "When the Undefeated Champion takes damage, reduce it by **1d10**."
+      },
+      {
+        "name": "Shattering Strike",
+        "type": "action",
+        "text": "**Mark a Stress** to make a standard attack against all targets within Very Close range. PCs the Champion succeeds against lose a number of Hope equal to the HP they marked from this attack."
+      },
+      {
+        "name": "Endless Legions",
+        "type": "action",
+        "text": "**Spend a Fear** to summon a number of Fallen Shock Troops equal to twice the number of PCs. The Shock Troops appear at Far range."
+      },
+      {
+        "name": "Circle of Defilement",
+        "type": "reaction",
+        "text": "_Countdown (1d8)_. When the Undefeated Champion is in the spotlight for the first time, activate the countdown. When it triggers, activate a magical circle covering an area within Far range of the Champion. A target within that area is _Vulnerable_ until they leave the circle. The circle can be removed by dealing Severe damage to the Undefeated Champion."
+      },
+      {
+        "name": "Momentum",
+        "type": "reaction",
+        "text": "When the Undefeated Champion makes a successful attack against a PC, you gain a Fear."
+      },
+      {
+        "name": "Doombringer",
+        "type": "reaction",
+        "text": "When a target marks HP from an attack by the Undefeated Champion, all PCs within Far range of the target lose a Hope."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

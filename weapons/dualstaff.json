@@ -1,0 +1,19 @@
+{
+  "id": "9da2fa6a-1b95-5ed5-bb7a-96ad9d8d99e0",
+  "name": "Dualstaff",
+  "data": {
+    "tier": 1,
+    "category": "primary",
+    "type": "magic",
+    "trait": "instinct",
+    "range": "far",
+    "damage": "d6+3",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

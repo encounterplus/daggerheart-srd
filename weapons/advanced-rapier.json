@@ -1,0 +1,19 @@
+{
+  "id": "929c8738-4fc0-55f7-9e31-00b5e7e027bb",
+  "name": "Advanced Rapier",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "physical",
+    "trait": "presence",
+    "range": "melee",
+    "damage": "d8+6",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

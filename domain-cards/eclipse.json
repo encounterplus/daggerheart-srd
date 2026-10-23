@@ -1,0 +1,16 @@
+{
+  "id": "868bf7e5-e4bc-5a3d-8e51-e281cecad36e",
+  "name": "Eclipse",
+  "descr": "Make a **Spellcast Roll (16)**. Once per long rest on a success, plunge the entire area within Far range into complete darkness only you and your allies can see through. Attack rolls have disadvantage when targeting you or an ally within this shadow.\n\nAdditionally, when you or an ally succeeds with Hope against an adversary within this shadow, the target must mark a Stress.\n\nThis spell lasts until the GM spends a Fear on their turn to clear this effect or you take Severe damage.",
+  "data": {
+    "level": 10,
+    "recall": 2,
+    "type": "spell",
+    "domain": "midnight"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cee2adc1-d49b-544e-8e5e-942a90d6727b",
+  "name": "Longbow",
+  "data": {
+    "tier": 1,
+    "category": "primary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "veryFar",
+    "damage": "d8+3",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

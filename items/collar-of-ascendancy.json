@@ -1,0 +1,10 @@
+{
+  "id": "5fd847aa-151b-513e-b7e0-f50f8410699f",
+  "name": "Collar Of Ascendancy",
+  "descr": "An animal who wears this collar gains the ability to speak and understand common speech.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "8d43345d-5624-57db-87f6-1ea375aeafd8",
+  "name": "Lean on Me",
+  "descr": "Once per long rest, when you console or inspire an ally who failed an action roll, you can both clear 2 Stress.",
+  "data": {
+    "level": 3,
+    "recall": 1,
+    "type": "ability",
+    "domain": "valor"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

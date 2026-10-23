@@ -1,0 +1,10 @@
+{
+  "id": "ba78d634-4931-5eda-a81f-95e6f38b351c",
+  "name": "Nighthawker’s Ring",
+  "descr": "Spend a Hope to activate the gemstone in this ring until the end of the scene. While active, the gemstone changes color to indicate the wearer's proximity to hidden treasure: warm colors for near, cool colors for far.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

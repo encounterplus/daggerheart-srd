@@ -1,0 +1,10 @@
+{
+  "id": "376f7f2d-cc06-59dc-ac20-789067c1874b",
+  "name": "Formoid Serum",
+  "descr": "You can drink this potion to become a swarm of 16 million ants until the end of the scene. You keep and have access to all equipment, loot, and features.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

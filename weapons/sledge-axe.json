@@ -1,0 +1,19 @@
+{
+  "id": "bba48b52-8fbd-5cd8-82c2-b42765149439",
+  "name": "Sledge Axe",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d12+13",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

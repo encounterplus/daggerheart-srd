@@ -1,0 +1,16 @@
+{
+  "id": "ed3760af-c1cc-59f9-8205-fffcd74dc239",
+  "name": "Horror",
+  "descr": "Once per scene, **mark a Stress** to summon an otherworldly creature that deals **d8+1** magic damage using your Spellcast trait to a target within Far range. If the target marks any Hit Points from this attack, they must succeed on a **Reaction Roll (12)** to steel themselves against the horror or mark an equal number of Stress.\n\nAfter making the attack, the creature dissipates.",
+  "data": {
+    "level": 4,
+    "recall": 2,
+    "type": "spell",
+    "domain": "dread"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

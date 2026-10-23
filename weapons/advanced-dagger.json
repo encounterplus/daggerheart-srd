@@ -1,0 +1,19 @@
+{
+  "id": "21413328-3949-5ad9-afdd-4c241f7949f0",
+  "name": "Advanced Dagger",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "melee",
+    "damage": "d8+7",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

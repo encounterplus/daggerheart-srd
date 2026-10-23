@@ -1,0 +1,66 @@
+{
+  "id": "2d4e7a94-07fe-51fc-9ce9-5d5a63353ed3",
+  "name": "Guahalan Alebrujo",
+  "descr": "A huge, colorful, chimeric beast formed from many animals.",
+  "data": {
+    "tier": 2,
+    "type": "solo",
+    "motivesAndTactics": "Destroy, give no quarter, ravage",
+    "difficulty": 14,
+    "thresholds": {
+      "major": 13,
+      "severe": 26
+    },
+    "hp": 6,
+    "stress": 5,
+    "attackModifier": 3,
+    "attack": {
+      "name": "Tooth & Claw",
+      "range": "veryClose",
+      "damage": "2d10+4",
+      "damageType": "mag"
+    },
+    "experience": [
+      {
+        "name": "Brutal",
+        "modifier": 2
+      },
+      {
+        "name": "Quick",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "The Beast Unleashed",
+        "type": "passive",
+        "text": "The Alebrujo gains a bonus to damage rolls equal to the number of Fear you have."
+      },
+      {
+        "name": "Guahalan Sacrifice",
+        "type": "action",
+        "text": "**Spend a Fear** to have the Alebrujo devour a Minion within Very Close range, then clear a HP or a Stress."
+      },
+      {
+        "name": "Howl of the Guahala",
+        "type": "action",
+        "text": "**Mark a Stress** to have the Alebrujo emit a howl. Each PC within Far range must succeed on a Presence Reaction Roll or become temporarily _Panicked_. While _Panicked_, a PC must mark a Stress when they take the spotlight."
+      },
+      {
+        "name": "Rip & Tear",
+        "type": "action",
+        "text": "**Spend a Fear** to make a standard attack with advantage. On a success, you can **mark a Stress** to make another standard attack against an additional target within range. You can continue marking Stress to make additional attacks until the Alebrujo fails an attack roll."
+      },
+      {
+        "name": "Brutal Spectacle",
+        "type": "reaction",
+        "text": "When the Alebrujo deals Severe damage, you can **spend a Fear** to force all targets within Close range to mark a Stress."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cd4f0963-f1f4-5a9b-b897-9461cf136ae7",
+  "name": "Blighting Strike",
+  "descr": "Make a **Spellcast Roll** against a target within Far range. On a success:\n\n- On a roll with Hope, deal **d6+1** magic damage using your Proficiency. On a roll with Fear, deal **d10+1** magic damage using your Proficiency.\n- The target's next successful attack deals half damage.\n\nOn a failure, you must spend a Hope or mark a Stress.",
+  "data": {
+    "level": 1,
+    "recall": 1,
+    "type": "spell",
+    "domain": "dread"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

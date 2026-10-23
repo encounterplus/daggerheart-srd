@@ -1,0 +1,17 @@
+{
+  "id": "c36aef92-9910-5cfd-98b5-a43c72f1e2bf",
+  "name": "Elundrian Chain Armor",
+  "data": {
+    "tier": 2,
+    "thresholds": {
+      "major": 9,
+      "severe": 21
+    },
+    "score": 4
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

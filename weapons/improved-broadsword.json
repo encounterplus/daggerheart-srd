@@ -1,0 +1,19 @@
+{
+  "id": "c71599e0-2266-5037-be4b-4f1f1fb44a09",
+  "name": "Improved Broadsword",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "melee",
+    "damage": "d8+3",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

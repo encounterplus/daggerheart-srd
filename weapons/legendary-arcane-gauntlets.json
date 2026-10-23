@@ -1,0 +1,19 @@
+{
+  "id": "62092a44-66c9-5ab5-b4cc-e2976527a4c7",
+  "name": "Legendary Arcane Gauntlets",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "magic",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d10+12",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

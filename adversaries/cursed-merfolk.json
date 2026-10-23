@@ -1,0 +1,52 @@
+{
+  "id": "f8241194-de5b-554f-9560-f3c305fcd9db",
+  "name": "Cursed Merfolk",
+  "descr": "A half-fish, half-human creature psychically bound to serve the Deep Dwellers.",
+  "data": {
+    "tier": 3,
+    "type": "standard",
+    "motivesAndTactics": "Separate enemies, strike from the shadows, use aquatic environment to advantage",
+    "difficulty": 16,
+    "thresholds": {
+      "major": 18,
+      "severe": 35
+    },
+    "hp": 5,
+    "stress": 4,
+    "attackModifier": 3,
+    "attack": {
+      "name": "Chained Trident",
+      "range": "far",
+      "damage": "3d6",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Aquatic",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Fish-Tailed",
+        "type": "passive",
+        "text": "The Merfolk is _Vulnerable_ out of the water."
+      },
+      {
+        "name": "Gang Up",
+        "type": "passive",
+        "text": "The Merfolk gains a +2 bonus to attack rolls against targets within Melee range of one or more allies."
+      },
+      {
+        "name": "\"Get Over Here!\"",
+        "type": "reaction",
+        "text": "When the Merfolk makes a successful standard attack against a target beyond Melee range, you can **mark a Stress** to pull them into Melee range. If you do, you can **spend a Fear** to make a standard attack with advantage against the target."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

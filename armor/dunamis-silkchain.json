@@ -1,0 +1,17 @@
+{
+  "id": "3a7fae38-40b2-5ff8-93ca-9ee31bb06772",
+  "name": "Dunamis Silkchain",
+  "data": {
+    "tier": 4,
+    "thresholds": {
+      "major": 13,
+      "severe": 36
+    },
+    "score": 7
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

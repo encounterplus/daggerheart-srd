@@ -1,0 +1,61 @@
+{
+  "id": "458ccc64-46b2-5274-819b-de3c3b3364d9",
+  "name": "Patchwork Zombie Hulk",
+  "descr": "A towering gestalt of corpses moving as one, with torso-sized limbs and fists as large as a grown halfling.",
+  "data": {
+    "tier": 1,
+    "type": "solo",
+    "motivesAndTactics": "Absorb corpses, flail, hunger, terrify",
+    "difficulty": 13,
+    "thresholds": {
+      "major": 8,
+      "severe": 15
+    },
+    "hp": 10,
+    "stress": 3,
+    "attackModifier": 4,
+    "attack": {
+      "name": "Too Many Arms",
+      "range": "veryClose",
+      "damage": "1d20",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Intimidation",
+        "modifier": 2
+      },
+      {
+        "name": "Tear Things Apart",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Destructible",
+        "type": "passive",
+        "text": "When the Zombie takes Major or greater damage, they mark an additional HP."
+      },
+      {
+        "name": "Flailing Limbs",
+        "type": "passive",
+        "text": "When the Zombie makes a standard attack, they can attack all targets within Very Close range."
+      },
+      {
+        "name": "Another for the Pile",
+        "type": "action",
+        "text": "When the Zombie is within Very Close range of a corpse, they can incorporate it into themselves, clearing a HP and a Stress."
+      },
+      {
+        "name": "Tormented Screams",
+        "type": "action",
+        "text": "**Mark a Stress** to cause all PCs within Far range to make a Presence Reaction Roll (13). Targets who fail lose a Hope and you gain a Fear for each. Targets who succeed must mark a Stress."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

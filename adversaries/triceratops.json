@@ -1,0 +1,52 @@
+{
+  "id": "b9732724-1256-5080-9fb5-4fd96e356eb9",
+  "name": "Triceratops",
+  "descr": "A large dinosaur that has an armored frill and three horns.",
+  "data": {
+    "tier": 2,
+    "type": "bruiser",
+    "motivesAndTactics": "Eat ferns, move in herds for protection, patrol the watering hole",
+    "difficulty": 15,
+    "thresholds": {
+      "major": 14,
+      "severe": 28
+    },
+    "hp": 7,
+    "stress": 5,
+    "attackModifier": 2,
+    "attack": {
+      "name": "Horns",
+      "range": "veryClose",
+      "damage": "2d10+4",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Defender",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Leathery Hide",
+        "type": "passive",
+        "text": "When the Triceratops would be forced to mark HP, you can **mark any number of Stress** instead of an equal number of HP."
+      },
+      {
+        "name": "Tail Swipe",
+        "type": "action",
+        "text": "**Mark a Stress** to choose up to three targets within Very Close range. Each target must make an Agility Reaction Roll. Targets who fail take **5d6** physical damage. Targets who succeed take half damage."
+      },
+      {
+        "name": "Bull Rush",
+        "type": "action",
+        "text": "**Mark a Stress** to choose a target within Close range. The Triceratops moves into Melee range with the target and makes an attack. On a success, deal **3d10** direct physical damage."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

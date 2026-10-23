@@ -1,0 +1,67 @@
+{
+  "id": "f5cce328-d3ba-5535-b8be-d41fa8e59be7",
+  "name": "Frost Titan",
+  "descr": "A blue-skinned goliath who has rimed hair and wears trophies of past battles.",
+  "data": {
+    "tier": 3,
+    "type": "bruiser",
+    "motivesAndTactics": "Claim trophies, raid and pillage, test mettle",
+    "difficulty": 17,
+    "thresholds": {
+      "major": 22,
+      "severe": 40
+    },
+    "hp": 10,
+    "stress": 4,
+    "attackModifier": 7,
+    "attack": {
+      "name": "Dual Axes",
+      "range": "veryClose",
+      "damage": "3d10+2",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Cold",
+        "modifier": 3
+      },
+      {
+        "name": "War",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Relentless",
+        "nameDetail": "2",
+        "type": "passive",
+        "text": "The Titan can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them."
+      },
+      {
+        "name": "War Horn",
+        "type": "action",
+        "text": "**Mark a Stress** to force each PC within Far range to succeed on a Presence Reaction Roll or mark a Stress and become _Vulnerable_ until after the next attack against them."
+      },
+      {
+        "name": "Bull Rush",
+        "type": "action",
+        "text": "**Mark a Stress** to move up to Close range and make an attack roll against a target within Melee range. On a success, deal **4d10+2** physical damage and knock the target back to Close range."
+      },
+      {
+        "name": "Cleaving Strike",
+        "type": "reaction",
+        "text": "When a PC marks HP from the Titan's standard attack, you can **mark a Stress** to force another PC within Very Close range who the attack would have succeeded against to mark the same number of HP."
+      },
+      {
+        "name": "Trophy Hunter",
+        "type": "reaction",
+        "text": "When the Titan defeats a PC, the Titan takes the PC's most valuable possession as a trophy."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

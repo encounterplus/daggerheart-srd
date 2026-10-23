@@ -1,0 +1,52 @@
+{
+  "id": "63afcd98-5824-56e9-9584-c4e113cdc95c",
+  "name": "Petty Noble",
+  "descr": "A richly dressed and adorned aristocrat brimming with hubris.",
+  "data": {
+    "tier": 1,
+    "type": "social",
+    "motivesAndTactics": "Abuse power, gather resources, mobilize minions",
+    "difficulty": 14,
+    "thresholds": {
+      "major": 6,
+      "severe": 10
+    },
+    "hp": 3,
+    "stress": 5,
+    "attackModifier": -3,
+    "attack": {
+      "name": "Rapier",
+      "range": "melee",
+      "damage": "1d6+1",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Aristocrat",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "My Land, My Rules",
+        "type": "passive",
+        "text": "All social actions made against the Noble on their land have disadvantage."
+      },
+      {
+        "name": "Guards, Seize Them!",
+        "type": "action",
+        "text": "Once per scene, **mark a Stress** to summon **1d4** Bladed Guards, who appear at Far range to enforce the Noble's will."
+      },
+      {
+        "name": "Exile",
+        "type": "action",
+        "text": "**Spend a Fear** and target a PC. The Noble proclaims that the target and their allies are exiled from the noble's territory. While exiled, the target and their allies have disadvantage during social situations within the Noble's domain."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

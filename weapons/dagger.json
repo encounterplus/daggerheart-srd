@@ -1,0 +1,19 @@
+{
+  "id": "89fd0064-4e4f-5b70-abb6-e01363644af5",
+  "name": "Dagger",
+  "data": {
+    "tier": 1,
+    "category": "primary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "melee",
+    "damage": "d8+1",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "542ad513-7a69-5282-88e3-f5596f90ea96",
+  "name": "Unyielding Armor",
+  "descr": "When you would mark an Armor Slot, roll a number of **d6s** equal to your Proficiency. If any roll a 6, reduce the severity by one threshold without marking an Armor Slot.",
+  "data": {
+    "level": 10,
+    "recall": 1,
+    "type": "ability",
+    "domain": "valor"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "d029290d-2238-5ba4-bbf0-40f1b8396d60",
+  "name": "Channelstone",
+  "descr": "You can use this stone to take a spell or grimoire from your vault, use it once, and return it to your vault.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

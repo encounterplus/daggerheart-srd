@@ -1,0 +1,19 @@
+{
+  "id": "5918f0dc-14b9-56d6-9264-91a085fc5d1d",
+  "name": "Rime Scepter",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "magic",
+    "trait": "knowledge",
+    "range": "close",
+    "damage": "d8+6",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

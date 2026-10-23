@@ -1,0 +1,17 @@
+{
+  "id": "2f72cc6e-2a03-5873-b52c-0bd1a2618750",
+  "name": "Legendary Mage Robes",
+  "data": {
+    "tier": 4,
+    "thresholds": {
+      "major": 10,
+      "severe": 31
+    },
+    "score": 5
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

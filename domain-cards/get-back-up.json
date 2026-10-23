@@ -1,0 +1,16 @@
+{
+  "id": "56a500c2-3e6a-5668-9cfb-54ec45943354",
+  "name": "Get Back Up",
+  "descr": "When you take Severe damage, you can **mark a Stress** to reduce the severity by one threshold.",
+  "data": {
+    "level": 1,
+    "recall": 1,
+    "type": "ability",
+    "domain": "blade"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

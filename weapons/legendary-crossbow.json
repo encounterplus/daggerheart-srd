@@ -1,0 +1,19 @@
+{
+  "id": "b6c433ce-d9e8-52be-8d5e-277bf3f41d1f",
+  "name": "Legendary Crossbow",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "far",
+    "damage": "d6+10",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

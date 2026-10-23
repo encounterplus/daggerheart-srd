@@ -1,0 +1,10 @@
+{
+  "id": "766b3146-c41d-51ed-94eb-69776663cd0e",
+  "name": "Replication Parchment",
+  "descr": "By touching this piece of parchment to another, you can perfectly copy the second parchment's contents. Once used, this parchment becomes mundane paper.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

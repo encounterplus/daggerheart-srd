@@ -1,0 +1,19 @@
+{
+  "id": "0d65042d-73fb-52fd-a3c3-9547f9e5527a",
+  "name": "Whipsword",
+  "data": {
+    "tier": 1,
+    "category": "primary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "veryClose",
+    "damage": "d8",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

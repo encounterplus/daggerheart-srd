@@ -1,0 +1,19 @@
+{
+  "id": "66e94da6-42fd-54fe-bee3-7768935c8c4f",
+  "name": "Staff Of Augma",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "magic",
+    "trait": "instinct",
+    "range": "far",
+    "damage": "d6+7",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

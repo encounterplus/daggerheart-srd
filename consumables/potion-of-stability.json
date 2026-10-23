@@ -1,0 +1,10 @@
+{
+  "id": "84a0f4fd-f1bb-5870-be03-62c293a0da87",
+  "name": "Potion Of Stability",
+  "descr": "You can drink this potion to choose one additional downtime move.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "bc74ab0e-f616-59cd-8c87-bd5c7fa4fad0",
+  "name": "Psychopomp’s Shroud",
+  "descr": "You can place this shroud over the corpse of a recently deceased creature. The creature's spirit enters the shroud and becomes your spectral assistant until the next sunrise, when they pass through the veil of death and take the shroud with them.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

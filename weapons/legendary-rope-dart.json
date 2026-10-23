@@ -1,0 +1,19 @@
+{
+  "id": "94a27b9a-a68c-52af-b719-924a7542c8d0",
+  "name": "Legendary Rope Dart",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "physical",
+    "trait": "instinct",
+    "range": "close",
+    "damage": "d6+10",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

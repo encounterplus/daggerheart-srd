@@ -1,0 +1,16 @@
+{
+  "id": "2f6e092e-1431-53ba-883e-bd0bdaaf8b84",
+  "name": "Troublemaker",
+  "descr": "When you taunt or provoke a target within Far range, make a **Presence Roll** against them. Once per rest on a success, roll a number of **d4s** equal to your Proficiency. The target must mark Stress equal to the highest result rolled.",
+  "data": {
+    "level": 2,
+    "recall": 2,
+    "type": "ability",
+    "domain": "grace"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

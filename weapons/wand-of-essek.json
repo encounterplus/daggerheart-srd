@@ -1,0 +1,19 @@
+{
+  "id": "ef3954c1-d035-54d9-9746-e442d84bc315",
+  "name": "Wand Of Essek",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "magic",
+    "trait": "knowledge",
+    "range": "far",
+    "damage": "d8+13",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

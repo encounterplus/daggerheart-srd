@@ -1,0 +1,17 @@
+{
+  "id": "294e31be-44b5-5235-90d0-6b673172f651",
+  "name": "Deep-forged Coral Armor",
+  "data": {
+    "tier": 3,
+    "thresholds": {
+      "major": 13,
+      "severe": 35
+    },
+    "score": 6
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "4ed535ce-9253-5016-a3fc-8eaad6c1ca91",
+  "name": "Gem Of Audacity",
+  "descr": "You can attach this gem to a weapon, allowing you to use your Presence when making an attack with that weapon.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

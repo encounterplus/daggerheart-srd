@@ -1,0 +1,10 @@
+{
+  "id": "b2a3ac3c-74da-5d9e-837b-20a22de39a7b",
+  "name": "Bolster Relic",
+  "descr": "You gain a +1 bonus to your Strength. You can only carry one relic.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

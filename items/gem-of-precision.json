@@ -1,0 +1,10 @@
+{
+  "id": "6672b49c-48d7-5c58-bbd3-c99a2a2712a5",
+  "name": "Gem Of Precision",
+  "descr": "You can attach this gem to a weapon, allowing you to use your Finesse when making an attack with that weapon.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

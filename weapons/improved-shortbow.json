@@ -1,0 +1,19 @@
+{
+  "id": "b24a0efa-e337-5302-8645-698afe4d48b2",
+  "name": "Improved Shortbow",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "far",
+    "damage": "d6+6",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

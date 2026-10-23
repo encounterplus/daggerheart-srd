@@ -1,0 +1,56 @@
+{
+  "id": "eafc6aee-9651-5229-90ea-178b48608e85",
+  "name": "Ravenous Mockery",
+  "descr": "A shapeshifting predator that assumes the appearance of inanimate objects to lure unwary prey into its threat range.",
+  "data": {
+    "tier": 2,
+    "type": "standard",
+    "motivesAndTactics": "Ambush, lie in wait, swallow without chewing, take on an unassuming shape",
+    "difficulty": 14,
+    "thresholds": {
+      "major": 8,
+      "severe": 19
+    },
+    "hp": 4,
+    "stress": 4,
+    "attackModifier": 1,
+    "attack": {
+      "name": "Gnashing Teeth",
+      "range": "melee",
+      "damage": "2d6+4",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Mimicry",
+        "modifier": 5
+      },
+      {
+        "name": "Hungry",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Tongue Attack",
+        "type": "action",
+        "text": "**Mark a Stress** to attack a creature within Close range. On a success, the target is pulled into Melee range with the Mockery and _Restrained_ until they escape with a successful Strength Roll, and you can **spend a Fear** to activate the Mockery's Devour feature against the target."
+      },
+      {
+        "name": "Devour",
+        "type": "action",
+        "text": "Attack a target within Melee range. On a success, the Mockery _Swallows_ the target. While _Swallowed_, the target is _Restrained_ and marks a HP when the Mockery is spotlighted. The Mockery disgorges all _Swallowed_ creatures when it takes Major or Severe damage."
+      },
+      {
+        "name": "Never Just One",
+        "type": "action",
+        "text": "**Spend a Fear** to reveal that another object on the battlefield has been a Ravenous Mockery the whole time, then immediately spotlight it."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

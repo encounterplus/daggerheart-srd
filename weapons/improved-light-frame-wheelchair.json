@@ -1,0 +1,19 @@
+{
+  "id": "091e6114-f45d-5833-adc9-c654c20cb412",
+  "name": "Improved Light-frame Wheelchair",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "melee",
+    "damage": "d8+3",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

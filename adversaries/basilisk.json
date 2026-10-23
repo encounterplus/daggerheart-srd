@@ -1,0 +1,42 @@
+{
+  "id": "fb30c180-7542-5007-bac8-85ba43c1be73",
+  "name": "Basilisk",
+  "descr": "A six-legged monitor lizard that has the head of a vulture, a spiked backbone, and a petrifying gaze.",
+  "data": {
+    "tier": 2,
+    "type": "standard",
+    "motivesAndTactics": "Move slow and steady, savor petrified prey, turn everyone to stone, watch and wait",
+    "difficulty": 14,
+    "thresholds": {
+      "major": 8,
+      "severe": 19
+    },
+    "hp": 4,
+    "stress": 4,
+    "attackModifier": 1,
+    "attack": {
+      "name": "Jaws & Claws",
+      "range": "melee",
+      "damage": "2d6+4",
+      "damageType": "phy"
+    },
+    "experience": [],
+    "features": [
+      {
+        "name": "Petrify",
+        "type": "action",
+        "text": "**Spend a Fear** to force a PC within Far range to make an Instinct Reaction Roll. On a success, the target marks a Stress. On a failure, the target becomes _Stiff_. If the target is already _Stiff_, they become _Petrified._ While _Stiff_, the PC must mark a Stress each time they act until they take a rest or the Basilisk is defeated. While _Petrified_, the PC can't act. The _Petrified_ condition can be cleared only by applying Basilisk saliva to the target."
+      },
+      {
+        "name": "CRONCH!",
+        "type": "action",
+        "text": "**Mark a Stress** to have the Basilisk chomp down on a _Petrified_ PC within Melee range. The target must make a death move."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ac4be858-3e30-568f-a87c-5274882c6233",
+  "name": "Soothing Speech",
+  "descr": "During a short rest, when you take the time to comfort another character while using the Tend to Wounds downtime move on them, clear an additional Hit Point on that character. When you do, you also clear 2 Hit Points.",
+  "data": {
+    "level": 4,
+    "recall": 1,
+    "type": "ability",
+    "domain": "grace"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

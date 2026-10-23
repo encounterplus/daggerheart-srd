@@ -1,0 +1,19 @@
+{
+  "id": "3157bd7a-220f-5abf-99d6-5f8e6ec6c36a",
+  "name": "Improved Dagger",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "melee",
+    "damage": "d8+4",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

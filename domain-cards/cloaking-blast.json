@@ -1,0 +1,16 @@
+{
+  "id": "433b29ce-c744-51a7-a1af-cc607e7d7e2a",
+  "name": "Cloaking Blast",
+  "descr": "When you make a successful **Spellcast Roll** to cast a different spell, you can **spend a Hope** to become _Cloaked_. While _Cloaked_, you remain unseen if you are stationary when an adversary moves to where they would normally see you. When you move into or within an adversary's line of sight or make an attack, you are no longer _Cloaked_.",
+  "data": {
+    "level": 7,
+    "recall": 2,
+    "type": "spell",
+    "domain": "arcana"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

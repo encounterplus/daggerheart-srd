@@ -1,0 +1,16 @@
+{
+  "id": "57f1741e-e002-5c4e-a868-ce9e67f94c89",
+  "name": "Uncanny Disguise",
+  "descr": "When you have a few minutes to prepare, you can **mark a Stress** to don the facade of any humanoid you can picture clearly in your mind. While disguised, you have advantage on Presence Rolls to avoid scrutiny.\n\nPlace a number of tokens equal to your Spellcast trait on this card. When you take an action while disguised, spend a token from this card. After the action that spends the last token is resolved, the disguise drops.",
+  "data": {
+    "level": 1,
+    "recall": 0,
+    "type": "spell",
+    "domain": "midnight"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

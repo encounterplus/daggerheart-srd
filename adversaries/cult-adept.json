@@ -1,0 +1,61 @@
+{
+  "id": "fdc8398e-d8ab-5dfd-a9b9-f382758c6cdd",
+  "name": "Cult Adept",
+  "descr": "An experienced mage wielding shadow and fear.",
+  "data": {
+    "tier": 2,
+    "type": "support",
+    "motivesAndTactics": "Curry favor, hinder foes, uncover knowledge",
+    "difficulty": 14,
+    "thresholds": {
+      "major": 9,
+      "severe": 18
+    },
+    "hp": 4,
+    "stress": 6,
+    "attackModifier": 2,
+    "attack": {
+      "name": "Rune-Covered Rod",
+      "range": "far",
+      "damage": "2d4+3",
+      "damageType": "mag"
+    },
+    "experience": [
+      {
+        "name": "Fallen Lore",
+        "modifier": 2
+      },
+      {
+        "name": "Rituals",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Enervating Blast",
+        "type": "action",
+        "text": "**Spend a Fear** to make a standard attack against a target within range. On a success, the target must mark a Stress."
+      },
+      {
+        "name": "Shroud of the Fallen",
+        "type": "action",
+        "text": "**Mark a Stress** to wrap an ally within Close range in a shroud of _Protection_ until the Adept marks their last HP. While _Protected_, the target has resistance to all damage."
+      },
+      {
+        "name": "Shadow Shackles",
+        "type": "action",
+        "text": "**Spend a Fear** and choose a point within Far range. All targets within Close range of that point are _Restrained_ in smoky chains until they break free with a successful Strength or Instinct Roll. A target _Restrained_ by this feature must spend a Hope to make an action roll."
+      },
+      {
+        "name": "Fear Is Fuel",
+        "type": "reaction",
+        "text": "Twice per scene, when a PC rolls a failure with Fear, clear a Stress."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

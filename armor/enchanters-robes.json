@@ -1,0 +1,17 @@
+{
+  "id": "76d84492-1311-533e-84f2-bd68d0c453e5",
+  "name": "Enchanter’s Robes",
+  "data": {
+    "tier": 2,
+    "thresholds": {
+      "major": 9,
+      "severe": 20
+    },
+    "score": 4
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

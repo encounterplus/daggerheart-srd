@@ -1,0 +1,19 @@
+{
+  "id": "281aa50f-fd05-5100-a8f4-0025428bf817",
+  "name": "Improved Whipsword",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "veryClose",
+    "damage": "d8+3",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

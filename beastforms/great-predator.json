@@ -1,0 +1,37 @@
+{
+  "id": "f6ede72b-1f97-570b-9f78-4a39ed514404",
+  "name": "Great Predator",
+  "data": {
+    "tier": 3,
+    "examples": "Dire Wolf, Velociraptor, Sabertooth Tiger, etc.",
+    "trait": "strength",
+    "traitModifier": 2,
+    "evasionModifier": 2,
+    "attack": {
+      "range": "melee",
+      "trait": "strength",
+      "damage": "d12+8",
+      "damageType": "phy"
+    },
+    "advantages": [
+      "attack",
+      "sneak",
+      "sprint"
+    ],
+    "features": [
+      {
+        "name": "Carrier",
+        "text": "You can carry up to two willing allies with you when you move."
+      },
+      {
+        "name": "Vicious Maul",
+        "text": "When you succeed on an attack against a target, you can **spend a Hope** to make them temporarily _Vulnerable_ and gain a +1 bonus to your Proficiency for this attack."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

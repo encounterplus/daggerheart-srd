@@ -1,0 +1,19 @@
+{
+  "id": "7f81503e-0acc-5546-9321-0fe224f0fb50",
+  "name": "Hand Sling",
+  "data": {
+    "tier": 3,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "veryFar",
+    "damage": "d6+4",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

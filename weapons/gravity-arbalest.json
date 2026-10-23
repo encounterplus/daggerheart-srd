@@ -1,0 +1,19 @@
+{
+  "id": "7221d56f-9908-5914-8f41-6bce2af03cbc",
+  "name": "Gravity Arbalest",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "magic",
+    "trait": "knowledge",
+    "range": "far",
+    "damage": "d8+6",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

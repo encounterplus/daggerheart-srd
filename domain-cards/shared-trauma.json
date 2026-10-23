@@ -1,0 +1,16 @@
+{
+  "id": "0399ffca-ee4f-50a9-8718-a4e6e20a3398",
+  "name": "Shared Trauma",
+  "descr": "You can transfer suffering from one creature to another. Once per rest, mark any number of Hit Points on a willing creature within Melee range to clear an equal number of Hit Points on another willing creature within Melee range.",
+  "data": {
+    "level": 3,
+    "recall": 1,
+    "type": "spell",
+    "domain": "dread"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

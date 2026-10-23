@@ -1,0 +1,19 @@
+{
+  "id": "5baeb9ee-99ec-5fdc-aa64-f0a37a5b0ee0",
+  "name": "Knuckle Blades",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d10+6",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

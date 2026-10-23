@@ -1,0 +1,16 @@
+{
+  "id": "09301e98-3854-5b91-a63a-b09b3e1d3db1",
+  "name": "Rune Ward",
+  "descr": "You have a deeply personal trinket that can be infused with protective magic and held as a ward by you or an ally. Describe what it is and why it's important to you. The ward's holder can spend a Hope to reduce incoming damage by **1d8**.\n\nIf the Ward Die result is 8, the ward's power ends after it reduces damage this turn. It can be recharged for free on your next rest.",
+  "data": {
+    "level": 1,
+    "recall": 0,
+    "type": "spell",
+    "domain": "arcana"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "25c7c7de-f777-5e93-b2b6-3660cd38291c",
+  "name": "Night Children",
+  "descr": "A teeming assortment of nocturnal fiends under the thrall of an ancient evil.",
+  "data": {
+    "tier": 3,
+    "type": "horde",
+    "typeDetail": "2/HP",
+    "motivesAndTactics": "Carry victims back to master, overrun settlements, slither through shadow",
+    "difficulty": 16,
+    "thresholds": {
+      "major": 17,
+      "severe": 32
+    },
+    "hp": 7,
+    "stress": 4,
+    "attackModifier": 1,
+    "attack": {
+      "name": "Fangs & Claws",
+      "range": "melee",
+      "damage": "3d6+8",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Terrorize",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Horde (2d6+2)",
+        "type": "passive",
+        "text": "When the Night Children have marked half or more of their HP, their standard attack deals **2d6+2** physical damage instead."
+      },
+      {
+        "name": "Swell Ranks",
+        "type": "action",
+        "text": "Once per scene, **mark any number of Stress** to have the Night Children open a portal that spews forth reinforcements, refilling the Horde's ranks. Clear a number of HP equal to the number of Stress marked."
+      },
+      {
+        "name": "Overwhelm",
+        "type": "reaction",
+        "text": "When the Night Children mark HP from an attack within Melee range, you can **mark a Stress** to make a standard attack against the attacker."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "a42424f6-9a17-55d5-9a55-6df83e7a3bed",
+  "name": "Inevitable",
+  "descr": "When you fail an action roll, your next action roll has advantage.",
+  "data": {
+    "level": 6,
+    "recall": 1,
+    "type": "ability",
+    "domain": "valor"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

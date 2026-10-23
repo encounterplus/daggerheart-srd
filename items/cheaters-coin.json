@@ -1,0 +1,10 @@
+{
+  "id": "3952011c-1379-5191-8bfa-6577044a1aa1",
+  "name": "Cheater’s Coin",
+  "descr": "When you flip this coin, you can spend a Hope to determine which side it lands on.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

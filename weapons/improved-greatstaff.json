@@ -1,0 +1,19 @@
+{
+  "id": "1f5316b4-1d52-57ed-b14f-d67a6067d42a",
+  "name": "Improved Greatstaff",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "magic",
+    "trait": "knowledge",
+    "range": "veryFar",
+    "damage": "d6+3",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

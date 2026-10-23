@@ -1,0 +1,19 @@
+{
+  "id": "1b0524f9-a97e-5e4a-ba45-90bf1b42274b",
+  "name": "Vorpal Shard",
+  "data": {
+    "tier": 3,
+    "category": "secondary",
+    "type": "magic",
+    "trait": "knowledge",
+    "range": "melee",
+    "damage": "d4",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "7492347b-8961-5ae2-a69a-7261154839a9",
+  "name": "Enlighten Potion",
+  "descr": "You gain a +1 bonus to your next Knowledge Roll.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

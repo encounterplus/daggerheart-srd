@@ -1,0 +1,10 @@
+{
+  "id": "077d345a-5f98-5cd9-89e7-a57e131181ca",
+  "name": "Major Bolster Potion",
+  "descr": "You gain a +1 bonus to your Strength until your next rest.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

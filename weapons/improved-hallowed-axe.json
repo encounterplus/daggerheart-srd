@@ -1,0 +1,19 @@
+{
+  "id": "ce513f59-5f09-5047-8b6a-d3daa0692402",
+  "name": "Improved Hallowed Axe",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "magic",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d8+4",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

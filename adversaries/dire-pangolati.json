@@ -1,0 +1,61 @@
+{
+  "id": "4008ed6c-69c8-51b6-ab2b-42b2493f1ad5",
+  "name": "Dire Pangolati",
+  "descr": "A carriage-sized pangolin-coati hybrid covered in armor plating. It has a bladed tail it uses to fling razor-sharp scales.",
+  "data": {
+    "tier": 2,
+    "type": "bruiser",
+    "motivesAndTactics": "Escape with a meal, slice and dice, wade into danger",
+    "difficulty": 14,
+    "thresholds": {
+      "major": 14,
+      "severe": 28
+    },
+    "hp": 7,
+    "stress": 4,
+    "attackModifier": 2,
+    "attack": {
+      "name": "Tail Slash",
+      "range": "veryClose",
+      "damage": "2d12+3",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Climbing",
+        "modifier": 3
+      },
+      {
+        "name": "Scent Tracking",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Armor Eater",
+        "type": "passive",
+        "text": "When the Pangolati makes a successful attack against a PC, that PC must mark an additional Armor Slot to reduce the severity of the damage."
+      },
+      {
+        "name": "Blade Spin",
+        "type": "action",
+        "text": "**Spend a Fear** to have the Pangolati quickly spin in a circle. Each target within Very Close range must succeed on an Agility Reaction Roll or take **2d8** physical damage."
+      },
+      {
+        "name": "Blade Fling",
+        "type": "action",
+        "text": "**Mark a Stress** to have the Pangolati flick its tail and fling a razor-edged armor plate. Make an attack against a target within Far range. On a success, the attack deals **2d6+10** physical damage."
+      },
+      {
+        "name": "Keratin Scales",
+        "type": "reaction",
+        "text": "When the Pangolati would mark HP from an attack, you can **mark a Stress** to reduce the number of HP it marks by 1."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "bc3bd81d-c596-5594-89e2-f5c593b02d55",
+  "name": "Improved Shortsword",
+  "data": {
+    "tier": 2,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "melee",
+    "damage": "d8+2",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

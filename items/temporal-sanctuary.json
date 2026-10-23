@@ -1,0 +1,10 @@
+{
+  "id": "0cbb7945-e954-5cd4-a9fa-6810bea41cb8",
+  "name": "Temporal Sanctuary",
+  "descr": "A PC who takes a rest in the temporal sanctuary can choose an additional downtime move.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

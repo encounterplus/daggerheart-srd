@@ -1,0 +1,10 @@
+{
+  "id": "63bbe408-c846-5905-8d8a-9ec60cf85141",
+  "name": "Dual Flask",
+  "descr": "This flask can hold two different liquids. You can swap between them by flipping a small switch on the flask's side.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "6a7ea953-9567-53b8-8335-39665def93fe",
+  "name": "Glowing Rings",
+  "data": {
+    "tier": 1,
+    "category": "primary",
+    "type": "magic",
+    "trait": "agility",
+    "range": "veryClose",
+    "damage": "d10+2",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

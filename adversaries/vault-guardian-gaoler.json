@@ -1,0 +1,42 @@
+{
+  "id": "423c7b66-3144-5fed-9f5e-9884eed73b60",
+  "name": "Vault Guardian Gaoler",
+  "descr": "A boxy, dust-covered construct with thick metallic swinging doors on their torso.",
+  "data": {
+    "tier": 3,
+    "type": "support",
+    "motivesAndTactics": "Carry away, entrap, protect, pummel",
+    "difficulty": 16,
+    "thresholds": {
+      "major": 19,
+      "severe": 33
+    },
+    "hp": 5,
+    "stress": 3,
+    "attackModifier": 2,
+    "attack": {
+      "name": "Body Bash",
+      "range": "veryClose",
+      "damage": "3d6+2",
+      "damageType": "phy"
+    },
+    "experience": [],
+    "features": [
+      {
+        "name": "Blocking Shield",
+        "type": "passive",
+        "text": "Creatures within Melee range of the Gaoler have disadvantage on attack rolls against them. Creatures trapped inside the Gaoler are immune to this feature."
+      },
+      {
+        "name": "Lock Up",
+        "type": "action",
+        "text": "**Mark a Stress** to make an attack against a target within Very Close range. On a success, the target is _Restrained_ within the Gaoler until freed with a successful Strength Roll (18). While _Restrained_, the target can only attack the Gaoler."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

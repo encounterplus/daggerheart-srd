@@ -1,0 +1,37 @@
+{
+  "id": "e325f507-76cf-5c3f-8708-3218db72a155",
+  "name": "Striking Serpent",
+  "data": {
+    "tier": 2,
+    "examples": "Cobra, Rattlesnake, Viper, etc.",
+    "trait": "finesse",
+    "traitModifier": 1,
+    "evasionModifier": 2,
+    "attack": {
+      "range": "veryClose",
+      "trait": "finesse",
+      "damage": "d8+4",
+      "damageType": "phy"
+    },
+    "advantages": [
+      "climb",
+      "deceive",
+      "sprint"
+    ],
+    "features": [
+      {
+        "name": "Venomous Strike",
+        "text": "Make an attack against any number of targets within Very Close range. On a success, a target is temporarily _Poisoned_. A _Poisoned_ creature takes **1d10** direct physical damage each time they act."
+      },
+      {
+        "name": "Warning Hiss",
+        "text": "**Mark a Stress** to force any number of targets within Melee range to move back to Very Close range."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

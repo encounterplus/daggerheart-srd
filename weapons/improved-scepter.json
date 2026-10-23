@@ -1,0 +1,19 @@
+{
+  "id": "abb679ce-468a-5e73-991a-a75dcf2f3dd7",
+  "name": "Improved Scepter",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "magic",
+    "trait": "presence",
+    "range": "far",
+    "damage": "d6+3",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

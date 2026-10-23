@@ -1,0 +1,19 @@
+{
+  "id": "1ef249c5-e435-5b0b-8c52-fcb575af3ffc",
+  "name": "Knuckle Claws",
+  "data": {
+    "tier": 4,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d6+8",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "fa20b8b8-706a-55a3-974d-3aaf98dbe803",
+  "name": "Shadowhunter",
+  "descr": "Your prowess is enhanced under the cover of shadow. While you're shrouded in low light or darkness, you gain a +1 bonus to your Evasion and make attack rolls with advantage.",
+  "data": {
+    "level": 8,
+    "recall": 2,
+    "type": "ability",
+    "domain": "midnight"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

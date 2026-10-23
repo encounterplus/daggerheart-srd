@@ -1,0 +1,10 @@
+{
+  "id": "827711b2-7c6c-5779-831b-9e3768245a44",
+  "name": "Godling’s Pomelo",
+  "descr": "You can eat this citrus fruit to clear all Hit Points and Stress.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

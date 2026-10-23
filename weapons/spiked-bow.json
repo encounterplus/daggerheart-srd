@@ -1,0 +1,19 @@
+{
+  "id": "68da8914-a763-5cf0-ae95-b9adcfb5f776",
+  "name": "Spiked Bow",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "veryFar",
+    "damage": "d6+7",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

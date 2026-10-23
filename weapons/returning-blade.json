@@ -1,0 +1,19 @@
+{
+  "id": "3491f545-95da-5ccf-b1c5-04b370b254da",
+  "name": "Returning Blade",
+  "data": {
+    "tier": 1,
+    "category": "primary",
+    "type": "magic",
+    "trait": "finesse",
+    "range": "close",
+    "damage": "d8",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "b230d6ce-19fa-5db8-ac33-dc22850cfdc4",
+  "name": "Improved Halberd",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "veryClose",
+    "damage": "d10+5",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

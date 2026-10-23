@@ -1,0 +1,17 @@
+{
+  "id": "c0b9148a-6ace-5bb8-bff5-d16b405b1978",
+  "name": "Leather Armor",
+  "data": {
+    "tier": 1,
+    "thresholds": {
+      "major": 6,
+      "severe": 13
+    },
+    "score": 3
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

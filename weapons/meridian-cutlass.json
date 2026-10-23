@@ -1,0 +1,19 @@
+{
+  "id": "21534410-2b78-50bb-8d01-4a652078f924",
+  "name": "Meridian Cutlass",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "physical",
+    "trait": "presence",
+    "range": "melee",
+    "damage": "d10+5",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

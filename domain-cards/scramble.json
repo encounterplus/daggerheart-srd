@@ -1,0 +1,16 @@
+{
+  "id": "0336149c-8d5c-508f-9753-505fe8a6c885",
+  "name": "Scramble",
+  "descr": "Once per rest, when a creature within Melee range would deal damage to you, you can avoid the attack and safely move out of Melee range of the enemy.",
+  "data": {
+    "level": 3,
+    "recall": 1,
+    "type": "ability",
+    "domain": "blade"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

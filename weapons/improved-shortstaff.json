@@ -1,0 +1,19 @@
+{
+  "id": "52a3cdd5-c8b8-5b8a-850e-c64547255db0",
+  "name": "Improved Shortstaff",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "magic",
+    "trait": "instinct",
+    "range": "close",
+    "damage": "d8+4",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

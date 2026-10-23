@@ -1,0 +1,19 @@
+{
+  "id": "993615c1-6cc6-5cc1-a516-f1a617d07625",
+  "name": "Improved Focus Runes",
+  "data": {
+    "tier": 2,
+    "category": "secondary",
+    "type": "magic",
+    "trait": "instinct",
+    "range": "veryClose",
+    "damage": "d6+2",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

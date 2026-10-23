@@ -1,0 +1,66 @@
+{
+  "id": "d9e836f9-0436-5356-9d75-a96d1dbe075a",
+  "name": "Arch-necromancer",
+  "descr": "A decaying mage adorned in dark, tattered robes.",
+  "data": {
+    "tier": 4,
+    "type": "leader",
+    "motivesAndTactics": "Corrupt, decay, flee to fight another day, resurrect",
+    "difficulty": 21,
+    "thresholds": {
+      "major": 33,
+      "severe": 66
+    },
+    "hp": 9,
+    "stress": 8,
+    "attackModifier": 6,
+    "attack": {
+      "name": "Necrotic Blast",
+      "range": "far",
+      "damage": "4d12+8",
+      "damageType": "mag"
+    },
+    "experience": [
+      {
+        "name": "Forbidden Knowledge",
+        "modifier": 3
+      },
+      {
+        "name": "Wisdom of Centuries",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Dance of Death",
+        "type": "action",
+        "text": "**Mark a Stress** to spotlight **1d4** allies. Attacks they make while spotlighted in this way deal half damage, or full damage if you **spend a Fear**."
+      },
+      {
+        "name": "Beam of Decay",
+        "type": "action",
+        "text": "**Mark 2 Stress** to cause all targets within Far range to make a Strength Reaction Roll. Targets who fail take **2d20+12** magic damage and you gain a Fear. Targets who succeed take half damage. A target who marks 2 or more HP must also mark **2 Stress** and becomes _Vulnerable_ until they roll with Hope."
+      },
+      {
+        "name": "Open the Gates of Death",
+        "type": "action",
+        "text": "**Spend a Fear** to summon a Zombie Legion, which appears at Close range and immediately takes the spotlight."
+      },
+      {
+        "name": "Not Today, My Dears",
+        "type": "reaction",
+        "text": "When the Necromancer has marked 7 or more of their HP, you can **spend a Fear** to have them teleport away to a safe location to recover. A PC who succeeds on an Instinct Roll can trace the teleportation magic to their destination."
+      },
+      {
+        "name": "Your Life Is Mine",
+        "type": "reaction",
+        "text": "_Countdown (Loop 2d6)_. When the Necromancer has marked 6 or more of their HP, activate the countdown. When it triggers, deal **2d10+6** direct magic damage to a target within Close range. The Necromancer then **clears a number of Stress or HP** equal to the number of HP marked by the target from this attack."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

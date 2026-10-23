@@ -1,0 +1,10 @@
+{
+  "id": "ccf0a9c1-31fd-5d55-bed7-3f390ab94a60",
+  "name": "Staff Of Reversal",
+  "descr": "You can break this staff against the ground to reverse one magical transformation or effect within Far range.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

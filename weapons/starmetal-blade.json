@@ -1,0 +1,19 @@
+{
+  "id": "d453babb-457e-5c69-87ad-99ad55da4dd5",
+  "name": "Starmetal Blade",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "magic",
+    "trait": "agility",
+    "range": "melee",
+    "damage": "d8+10",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

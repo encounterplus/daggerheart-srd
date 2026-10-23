@@ -1,0 +1,16 @@
+{
+  "id": "8119a918-c3f5-59f4-b103-40186732f20c",
+  "name": "Lead by Example",
+  "descr": "When you deal damage to an adversary, you can **mark a Stress** and describe how you encourage your allies. The next PC to make an attack against that adversary can clear a Stress or gain a Hope.",
+  "data": {
+    "level": 9,
+    "recall": 3,
+    "type": "ability",
+    "domain": "valor"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "d5818999-4126-5db4-9cde-c83897fa06d5",
+  "name": "Sword Of Light & Flame",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "magic",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d10+11",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2714cd2f-a45e-5be6-bdb2-0aeab025a5e7",
+  "name": "Legendary Throwing Knives",
+  "data": {
+    "tier": 4,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "melee",
+    "damage": "d8+6",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

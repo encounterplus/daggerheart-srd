@@ -1,0 +1,17 @@
+{
+  "id": "ba8137fc-65c2-5c31-aae9-d863f12d472a",
+  "name": "Brigandine Armor",
+  "data": {
+    "tier": 1,
+    "thresholds": {
+      "major": 6,
+      "severe": 12
+    },
+    "score": 3
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

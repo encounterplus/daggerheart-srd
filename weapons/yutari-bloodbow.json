@@ -1,0 +1,19 @@
+{
+  "id": "9815f807-4604-5c81-b120-af6282a9e1f8",
+  "name": "Yutari Bloodbow",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "magic",
+    "trait": "finesse",
+    "range": "far",
+    "damage": "d6+4",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

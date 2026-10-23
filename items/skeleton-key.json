@@ -1,0 +1,10 @@
+{
+  "id": "0d8a2409-fabe-5f13-bae6-bf280d28541f",
+  "name": "Skeleton Key",
+  "descr": "When you use this key to open a locked door, you gain advantage on the Finesse Roll.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

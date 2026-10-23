@@ -1,0 +1,19 @@
+{
+  "id": "54515052-7ae1-5454-9074-8d07d05c7c78",
+  "name": "Urok Broadsword",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "melee",
+    "damage": "d8+3",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

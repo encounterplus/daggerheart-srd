@@ -1,0 +1,19 @@
+{
+  "id": "f27b1ef3-412b-5834-9776-d20d977828db",
+  "name": "Legendary Scepter",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "magic",
+    "trait": "presence",
+    "range": "far",
+    "damage": "d6+9",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

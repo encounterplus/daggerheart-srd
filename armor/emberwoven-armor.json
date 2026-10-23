@@ -1,0 +1,17 @@
+{
+  "id": "b8efe030-6df7-56c4-ae00-22cf7717162f",
+  "name": "Emberwoven Armor",
+  "data": {
+    "tier": 4,
+    "thresholds": {
+      "major": 13,
+      "severe": 36
+    },
+    "score": 6
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

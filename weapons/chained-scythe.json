@@ -1,0 +1,19 @@
+{
+  "id": "151b3cf1-0307-5420-a656-6ede6771718c",
+  "name": "Chained Scythe",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "physical",
+    "trait": "instinct",
+    "range": "veryClose",
+    "damage": "d10+5",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "95b5d5b0-0e9f-5d94-b16d-b83a8e5f78dc",
+  "name": "Knight Of The Realm",
+  "descr": "A decorated soldier with heavy armor and a powerful steed.",
+  "data": {
+    "tier": 2,
+    "type": "leader",
+    "motivesAndTactics": "Run down, seek glory, show dominance",
+    "difficulty": 15,
+    "thresholds": {
+      "major": 13,
+      "severe": 26
+    },
+    "hp": 6,
+    "stress": 4,
+    "attackModifier": 4,
+    "attack": {
+      "name": "Longsword",
+      "range": "melee",
+      "damage": "2d10+4",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Ancient Knowledge",
+        "modifier": 3
+      },
+      {
+        "name": "High Society",
+        "modifier": 2
+      },
+      {
+        "name": "Tactics",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Chevalier",
+        "type": "passive",
+        "text": "While the Knight is on a mount, they gain a +2 bonus to their Difficulty. When they take Severe damage, they're knocked from their mount and lose this benefit until they're next spotlighted."
+      },
+      {
+        "name": "Heavily Armored",
+        "type": "passive",
+        "text": "When the Knight takes physical damage, reduce it by 3."
+      },
+      {
+        "name": "Cavalry Charge",
+        "type": "action",
+        "text": "If the Knight is mounted, move up to Far range and make a standard attack against a target. On a success, deal **2d8+4** physical damage and the target must mark a Stress."
+      },
+      {
+        "name": "For the Realm!",
+        "type": "action",
+        "text": "**Mark a Stress** to spotlight **1d4+1** allies. Attacks they make while spotlighted in this way deal half damage."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

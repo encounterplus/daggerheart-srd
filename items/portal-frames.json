@@ -1,0 +1,10 @@
+{
+  "id": "d40ee811-74d0-59f8-b77e-ee5e3c1e84d3",
+  "name": "Portal Frames",
+  "descr": "This pair of small ornate frames, one red and one blue, are connected. Anything that passes into one exits from the other.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

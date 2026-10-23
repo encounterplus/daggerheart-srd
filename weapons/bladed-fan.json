@@ -1,0 +1,19 @@
+{
+  "id": "5b0a4b15-72df-5616-b9b8-8a3486ca89a2",
+  "name": "Bladed Fan",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "presence",
+    "range": "melee",
+    "damage": "d8+3",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

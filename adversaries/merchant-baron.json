@@ -1,0 +1,51 @@
+{
+  "id": "ec7992f2-499c-5d3a-bc86-659c1c2c7aa0",
+  "name": "Merchant Baron",
+  "descr": "An accomplished merchant with a large operation under their command.",
+  "data": {
+    "tier": 2,
+    "type": "social",
+    "motivesAndTactics": "Abuse power, gather resources, mobilize minions",
+    "difficulty": 15,
+    "thresholds": {
+      "major": 9,
+      "severe": 19
+    },
+    "hp": 5,
+    "stress": 3,
+    "attackModifier": -2,
+    "attack": {
+      "name": "Rapier",
+      "range": "melee",
+      "damage": "1d6+2",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Nobility",
+        "modifier": 2
+      },
+      {
+        "name": "Trade",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Everyone Has a Price",
+        "type": "action",
+        "text": "**Spend a Fear** to offer a target a dangerous bargain for something they want or need. If used on a PC, they must make a Presence Reaction Roll (17). On a failure, they must mark 2 Stress or take the deal."
+      },
+      {
+        "name": "The Best Muscle Money Can Buy",
+        "type": "action",
+        "text": "Once per scene, **mark a Stress** to summon **1d4+1** Tier 1 adversaries, who appear at Far range, to enforce the Baron's will."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

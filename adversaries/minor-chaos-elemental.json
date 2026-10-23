@@ -1,0 +1,57 @@
+{
+  "id": "25ec1c3e-bcc3-50a6-bb2d-876228762a89",
+  "name": "Minor Chaos Elemental",
+  "descr": "A coruscating mass of uncontrollable magic.",
+  "data": {
+    "tier": 1,
+    "type": "solo",
+    "motivesAndTactics": "Confound, destabilize, transmogrify",
+    "difficulty": 14,
+    "thresholds": {
+      "major": 7,
+      "severe": 14
+    },
+    "hp": 7,
+    "stress": 3,
+    "attackModifier": 3,
+    "attack": {
+      "name": "Warp Blast",
+      "range": "close",
+      "damage": "1d12+6",
+      "damageType": "mag"
+    },
+    "experience": [],
+    "features": [
+      {
+        "name": "Arcane Form",
+        "type": "passive",
+        "text": "The Elemental is resistant to magic damage."
+      },
+      {
+        "name": "Sickening Flux",
+        "type": "action",
+        "text": "**Mark a HP** to force all targets within Close range to mark a Stress and become _Vulnerable_ until their next rest or they clear a HP."
+      },
+      {
+        "name": "Remake Reality",
+        "type": "action",
+        "text": "**Spend a Fear** to transform the area within Very Close range into a different biome. All targets within this area take **2d6+3** direct magic damage."
+      },
+      {
+        "name": "Magical Reflection",
+        "type": "reaction",
+        "text": "When the Elemental takes damage from an attack within Close range, deal an amount of damage to the attacker equal to half the damage they dealt."
+      },
+      {
+        "name": "Momentum",
+        "type": "reaction",
+        "text": "When the Elemental makes a successful attack against a PC, you gain a Fear."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

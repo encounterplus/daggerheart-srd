@@ -1,0 +1,19 @@
+{
+  "id": "5afc8bcb-480a-5c85-8005-7c02a9a444a3",
+  "name": "Improved Greatsword",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d10+6",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

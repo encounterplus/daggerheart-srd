@@ -1,0 +1,10 @@
+{
+  "id": "ca09bb24-adca-5f58-b96a-5e76a5b12028",
+  "name": "Vial Of Moondrip",
+  "descr": "When you drink the contents of this vial, you can see in total darkness until your next rest.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

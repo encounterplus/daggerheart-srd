@@ -1,0 +1,16 @@
+{
+  "id": "6980f053-1567-59f2-b8b4-d40514e5ec4b",
+  "name": "Mass Enrapture",
+  "descr": "Make a **Spellcast Roll** against all targets within Far range. Targets you succeed against become temporarily _Enraptured_. While _Enraptured_, a target's attention is fixed on you, narrowing their field of view and drowning out any sound but your voice. **Mark a Stress** to force all _Enraptured_ targets to mark a Stress, ending this spell.",
+  "data": {
+    "level": 8,
+    "recall": 3,
+    "type": "spell",
+    "domain": "grace"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

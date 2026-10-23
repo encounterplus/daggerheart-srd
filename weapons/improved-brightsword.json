@@ -1,0 +1,19 @@
+{
+  "id": "af3a8e79-fa30-57b9-95b1-3e6438b32e16",
+  "name": "Improved Brightsword",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "magic",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d10+6",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

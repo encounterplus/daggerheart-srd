@@ -1,0 +1,10 @@
+{
+  "id": "9d750aa9-4308-5b5b-a891-731382a0bbdb",
+  "name": "Sprite Bottle",
+  "descr": "When you mark your last Hit Point, this bottle shatters to release the Sprite inside. The Sprite clears all your Hit Points before fading from the Mortal Realm.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

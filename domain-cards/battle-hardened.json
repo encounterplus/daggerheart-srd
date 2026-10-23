@@ -1,0 +1,16 @@
+{
+  "id": "59311f3d-5420-5894-a278-7a0230d62f49",
+  "name": "Battle-hardened",
+  "descr": "Once per long rest when you would make a Death Move, you can **spend a Hope** to clear a Hit Point instead.",
+  "data": {
+    "level": 6,
+    "recall": 2,
+    "type": "ability",
+    "domain": "blade"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

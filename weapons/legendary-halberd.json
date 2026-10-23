@@ -1,0 +1,19 @@
+{
+  "id": "79457bed-ac89-5a20-b14e-528fd41f263b",
+  "name": "Legendary Halberd",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "veryClose",
+    "damage": "d10+11",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "1670da8e-a5c7-53f0-bb4c-374d39c60be8",
+  "name": "Plesiosaurus",
+  "descr": "A canoe-length marine lizard that has a long neck and four flippers.",
+  "data": {
+    "tier": 3,
+    "type": "standard",
+    "motivesAndTactics": "Dive deeper, eat fish, swim peacefully",
+    "difficulty": 16,
+    "thresholds": {
+      "major": 18,
+      "severe": 35
+    },
+    "hp": 7,
+    "stress": 5,
+    "attackModifier": 2,
+    "attack": {
+      "name": "Bite",
+      "range": "veryClose",
+      "damage": "3d8+5",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Lochs",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Only a Rumor",
+        "type": "passive",
+        "text": "While deep underwater, the Plesiosaurus can't be located or targeted."
+      },
+      {
+        "name": "Wall of Water",
+        "type": "action",
+        "text": "**Mark a Stress** to have the Plesiosaurus breach and crash, sending a wall of water from one side of its body. Each PC within Far range on that side of the Plesiosaurus must succeed on an Agility Reaction Roll (18) or take **3d10** physical damage and be pushed back to Far range."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

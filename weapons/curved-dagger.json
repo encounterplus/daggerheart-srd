@@ -1,0 +1,19 @@
+{
+  "id": "407081fb-300e-5b84-904a-d9dbf0862e90",
+  "name": "Curved Dagger",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "melee",
+    "damage": "d8+9",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

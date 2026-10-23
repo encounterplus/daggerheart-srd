@@ -1,0 +1,16 @@
+{
+  "id": "d8654b94-798b-5600-8ea3-abc3d87946f2",
+  "name": "Deft Deceiver",
+  "descr": "**Spend a Hope** to gain advantage on a roll to deceive or trick someone into believing a lie you tell them.",
+  "data": {
+    "level": 1,
+    "recall": 0,
+    "type": "ability",
+    "domain": "grace"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

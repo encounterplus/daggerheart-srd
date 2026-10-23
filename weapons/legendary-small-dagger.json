@@ -1,0 +1,19 @@
+{
+  "id": "63453e0c-0daf-520d-a586-231580d86e1d",
+  "name": "Legendary Small Dagger",
+  "data": {
+    "tier": 4,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "melee",
+    "damage": "d8+6",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

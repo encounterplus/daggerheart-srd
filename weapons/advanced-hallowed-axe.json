@@ -1,0 +1,19 @@
+{
+  "id": "8c832e2a-18fb-59b7-a292-662919eebbd7",
+  "name": "Advanced Hallowed Axe",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "magic",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d8+7",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "80707df9-d852-5d4c-806b-18b1f0b7ed61",
+  "name": "Legendary Katana",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "melee",
+    "damage": "d10+12",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

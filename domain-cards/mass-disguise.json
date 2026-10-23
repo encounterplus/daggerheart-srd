@@ -1,0 +1,16 @@
+{
+  "id": "ac47c4b7-ce8b-5f95-ba5c-f2a4cda4a632",
+  "name": "Mass Disguise",
+  "descr": "When you have a few minutes of silence to focus, you can **mark a Stress** to change the appearance of all willing creatures within Close range. Their new forms must share a general body structure and size, and can be somebody or something you've seen before or entirely fabricated. A disguised creature has advantage on Presence Rolls to avoid scrutiny.\n\nActivate a Countdown (8). It ticks down as a consequence the GM chooses. When it triggers, the disguise drops.",
+  "data": {
+    "level": 6,
+    "recall": 0,
+    "type": "spell",
+    "domain": "midnight"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

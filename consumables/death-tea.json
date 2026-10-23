@@ -1,0 +1,10 @@
+{
+  "id": "a1fe6269-454e-5074-afb5-776795b9c36a",
+  "name": "Death Tea",
+  "descr": "After you drink this tea, you instantly kill your target when you critically succeed on an attack. If you don't critically succeed on an attack before your next long rest, you die.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

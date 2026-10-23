@@ -1,0 +1,19 @@
+{
+  "id": "d9871ebf-f405-576f-baf0-f288976e5ca5",
+  "name": "Retractable Saber",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "physical",
+    "trait": "presence",
+    "range": "melee",
+    "damage": "d10+7",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

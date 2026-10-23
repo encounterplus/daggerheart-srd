@@ -1,0 +1,19 @@
+{
+  "id": "31bed185-14a9-5a6d-b6a0-7a36b2e0f8ea",
+  "name": "Advanced Glowing Rings",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "magic",
+    "trait": "agility",
+    "range": "veryClose",
+    "damage": "d10+8",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

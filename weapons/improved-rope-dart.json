@@ -1,0 +1,19 @@
+{
+  "id": "01a08556-9406-5e88-886a-b2b72e9f6c19",
+  "name": "Improved Rope Dart",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "instinct",
+    "range": "close",
+    "damage": "d6+4",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "aa3a46e4-c519-5567-a1e2-6289ac438f5c",
+  "name": "Skeleton Warrior",
+  "descr": "A dirt-covered skeleton armed with a rusted blade.",
+  "data": {
+    "tier": 1,
+    "type": "standard",
+    "motivesAndTactics": "Feign death, gang up, steal skin",
+    "difficulty": 10,
+    "thresholds": {
+      "major": 4,
+      "severe": 8
+    },
+    "hp": 3,
+    "stress": 2,
+    "attackModifier": 0,
+    "attack": {
+      "name": "Sword",
+      "range": "melee",
+      "damage": "1d6+2",
+      "damageType": "phy"
+    },
+    "experience": [],
+    "features": [
+      {
+        "name": "Only Bones",
+        "type": "passive",
+        "text": "The Warrior is resistant to physical damage."
+      },
+      {
+        "name": "Won't Stay Dead",
+        "type": "reaction",
+        "text": "When the Warrior is defeated, you can spotlight them and roll a **d6**. On a result of 6, if there are other adversaries on the battlefield, the Warrior re-forms with no marked HP."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

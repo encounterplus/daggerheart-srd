@@ -1,0 +1,19 @@
+{
+  "id": "ffb72a8d-d133-54ad-92c7-7859839ac24c",
+  "name": "Rapier",
+  "data": {
+    "tier": 1,
+    "category": "primary",
+    "type": "physical",
+    "trait": "presence",
+    "range": "melee",
+    "damage": "d8",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "05af4426-eefa-504a-9a4f-e2f007c37c88",
+  "name": "Devouring Dagger",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "magic",
+    "trait": "finesse",
+    "range": "melee",
+    "damage": "d8+4",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "a8439128-468b-58e1-a051-62996c61868f",
+  "name": "Legendary Tower Shield",
+  "data": {
+    "tier": 4,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d6+6",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

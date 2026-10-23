@@ -1,0 +1,10 @@
+{
+  "id": "aa4ffc76-f022-5d65-9264-00fd4d623061",
+  "name": "Traveler’s Bell",
+  "descr": "Once per long rest, you can ring this bell to magically open the shortest safe path through rough terrain for 1 hour.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

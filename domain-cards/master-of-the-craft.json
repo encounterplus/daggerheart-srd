@@ -1,0 +1,16 @@
+{
+  "id": "249b885a-c785-503b-91b6-c1a353eb6a0a",
+  "name": "Master of the Craft",
+  "descr": "Gain a permanent +2 bonus to two of your Experiences or a permanent +3 bonus to one of your Experiences. Then place this card in your vault permanently.",
+  "data": {
+    "level": 9,
+    "recall": 0,
+    "type": "ability",
+    "domain": "grace"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

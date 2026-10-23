@@ -1,0 +1,16 @@
+{
+  "id": "516b3473-ac31-5d2b-9188-2a870f64e074",
+  "name": "Arcane Reflection",
+  "descr": "When you would take magic damage, you can **spend any number of Hope** to roll that many **d6s**. If any roll a 6, the attack is reflected back to the caster, dealing the damage to them instead.",
+  "data": {
+    "level": 8,
+    "recall": 1,
+    "type": "spell",
+    "domain": "arcana"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

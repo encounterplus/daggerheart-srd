@@ -1,0 +1,19 @@
+{
+  "id": "778acd1a-39d2-5a91-9ce8-0b0d50f4f471",
+  "name": "Brightsword",
+  "data": {
+    "tier": 1,
+    "category": "primary",
+    "type": "magic",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d10+3",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

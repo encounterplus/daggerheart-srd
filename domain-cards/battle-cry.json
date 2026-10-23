@@ -1,0 +1,16 @@
+{
+  "id": "a31d7558-8b13-5ecc-ae1a-a3add01a72c2",
+  "name": "Battle Cry",
+  "descr": "Once per long rest, while you're charging into danger, you can muster a rousing call that inspires your allies. All allies who can hear you each clear a Stress and gain a Hope. Additionally, your allies gain advantage on attack rolls until you or an ally rolls a failure with Fear.",
+  "data": {
+    "level": 8,
+    "recall": 2,
+    "type": "ability",
+    "domain": "blade"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "e63dd05e-5d5b-538b-b085-087c5c5050a7",
+  "name": "Dread-Touched",
+  "descr": "When 4 or more of the domain cards in your loadout are from the Dread domain, gain the following benefits:\n\n- When you succeed with Fear, you can **mark 2 Stress** to prevent the GM from gaining a Fear.\n- Once per rest when making an action roll, you can gain a bonus to the roll equal to the number of Fear in the GM's pool.",
+  "data": {
+    "level": 7,
+    "recall": 2,
+    "type": "ability",
+    "domain": "dread"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

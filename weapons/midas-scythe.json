@@ -1,0 +1,19 @@
+{
+  "id": "2362b659-2f55-592f-8155-bc81141874bb",
+  "name": "Midas Scythe",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "magic",
+    "trait": "knowledge",
+    "range": "melee",
+    "damage": "d10+9",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

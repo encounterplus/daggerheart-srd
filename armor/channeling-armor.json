@@ -1,0 +1,17 @@
+{
+  "id": "c9de36ac-ede4-5fda-90fa-73efd638da8c",
+  "name": "Channeling Armor",
+  "data": {
+    "tier": 4,
+    "thresholds": {
+      "major": 13,
+      "severe": 36
+    },
+    "score": 5
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

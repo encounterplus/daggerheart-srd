@@ -1,0 +1,19 @@
+{
+  "id": "445519ec-62b4-5ee6-9fd3-40db02e308b2",
+  "name": "Advanced Longbow",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "veryFar",
+    "damage": "d8+9",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

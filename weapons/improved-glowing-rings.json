@@ -1,0 +1,19 @@
+{
+  "id": "79ff83da-cece-5f68-ae1e-d788d238a7ba",
+  "name": "Improved Glowing Rings",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "magic",
+    "trait": "agility",
+    "range": "veryClose",
+    "damage": "d10+5",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

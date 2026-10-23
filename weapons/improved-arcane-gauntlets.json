@@ -1,0 +1,19 @@
+{
+  "id": "8272dbe4-bbe6-51c1-a6b7-b7bf46f74732",
+  "name": "Improved Arcane Gauntlets",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "magic",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d10+6",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

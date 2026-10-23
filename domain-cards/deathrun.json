@@ -1,0 +1,16 @@
+{
+  "id": "6e2e985f-7c49-52ee-9914-95fc7312a19a",
+  "name": "Deathrun",
+  "descr": "**Spend 3 Hope** to run a straight path through the battlefield to a point within Far range, making an attack against all adversaries within your weapon's range along that path. Choose the order in which you deal damage to the targets you succeeded against. For the first, roll your weapon damage with a +1 bonus to your Proficiency. Then remove a die from your damage roll and deal the remaining damage to the next target. Continue to remove a die for each subsequent target until you have no more damage dice or adversaries.\n\nYou can't target the same adversary more than once per attack.",
+  "data": {
+    "level": 10,
+    "recall": 1,
+    "type": "ability",
+    "domain": "bone"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

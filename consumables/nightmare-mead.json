@@ -1,0 +1,10 @@
+{
+  "id": "41b594ab-9a1c-5a47-9cdd-3015f5532cbe",
+  "name": "Nightmare Mead",
+  "descr": "You can drink this potion to discover the deepest fear of the next person you make eye contact with. When you do, the GM gains a Fear.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

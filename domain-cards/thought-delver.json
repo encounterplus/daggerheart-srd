@@ -1,0 +1,16 @@
+{
+  "id": "c105a537-230e-5ede-bdf7-5ad6d913b12b",
+  "name": "Thought Delver",
+  "descr": "You can peek into the minds of others. **Spend a Hope** to read the vague surface thoughts of a target within Far range. Make a **Spellcast Roll** against the target to delve for deeper, more hidden thoughts.\n\nOn a roll with Fear, the target might, at the GM's discretion, become aware that you're reading their thoughts.",
+  "data": {
+    "level": 5,
+    "recall": 2,
+    "type": "spell",
+    "domain": "grace"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "be86d512-715b-5ccc-855a-3ef213398438",
+  "name": "Hand Runes",
+  "data": {
+    "tier": 1,
+    "category": "primary",
+    "type": "magic",
+    "trait": "instinct",
+    "range": "veryClose",
+    "damage": "d10",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "9937e937-9f64-5596-be8e-221888f16443",
+  "name": "Rain of Blades",
+  "descr": "**Spend a Hope** to make a **Spellcast Roll** and conjure throwing blades that strike out at all targets within Very Close range. Targets you succeed against take **d8+2** magic damage using your Proficiency.\n\nIf a target you hit is _Vulnerable_, they take an extra **1d8** damage.",
+  "data": {
+    "level": 1,
+    "recall": 1,
+    "type": "spell",
+    "domain": "midnight"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

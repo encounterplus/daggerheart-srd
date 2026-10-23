@@ -1,0 +1,19 @@
+{
+  "id": "0b4bef16-161d-573e-b47c-0e60f285f42a",
+  "name": "Legendary Enchanted Chakram",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "magic",
+    "trait": "finesse",
+    "range": "close",
+    "damage": "d6+10",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

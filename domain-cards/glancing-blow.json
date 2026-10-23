@@ -1,0 +1,16 @@
+{
+  "id": "b731403b-0005-5870-ac6a-49fe6550fd51",
+  "name": "Glancing Blow",
+  "descr": "When you fail an attack, you can **mark a Stress** to deal weapon damage using half your Proficiency.",
+  "data": {
+    "level": 7,
+    "recall": 1,
+    "type": "ability",
+    "domain": "blade"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

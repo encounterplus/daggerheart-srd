@@ -1,0 +1,57 @@
+{
+  "id": "e22bf7a4-6f98-5741-b387-6a15fd77d5b7",
+  "name": "Jagged Knife Lieutenant",
+  "descr": "A seasoned bandit in quality leathers with a strong voice and cunning eyes.",
+  "data": {
+    "tier": 1,
+    "type": "leader",
+    "motivesAndTactics": "Bully, command, profit, reinforce",
+    "difficulty": 13,
+    "thresholds": {
+      "major": 7,
+      "severe": 14
+    },
+    "hp": 6,
+    "stress": 3,
+    "attackModifier": 2,
+    "attack": {
+      "name": "Javelin",
+      "range": "close",
+      "damage": "1d8+3",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Local Knowledge",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Tactician",
+        "type": "action",
+        "text": "When you spotlight the Lieutenant, **mark a Stress** to also spotlight two allies within Close range."
+      },
+      {
+        "name": "More Where That Came From",
+        "type": "action",
+        "text": "Summon three Jagged Knife Lackeys, who appear at Far range."
+      },
+      {
+        "name": "Coup de Grace",
+        "type": "action",
+        "text": "**Spend a Fear** to make an attack against a _Vulnerable_ target within Close range. On a success, deal **2d6+12** physical damage and the target must mark a Stress."
+      },
+      {
+        "name": "Momentum",
+        "type": "reaction",
+        "text": "When the Lieutenant makes a successful attack against a PC, you gain a Fear."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

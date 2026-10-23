@@ -1,0 +1,26 @@
+# Build output (scripts/build.sh)
+*.module
+*.system
+*.zip
+dist/
+build/
+
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Logs and local env
+*.log
+.env
+.env.*
+
+# Node
+node_modules/

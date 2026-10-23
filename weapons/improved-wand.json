@@ -1,0 +1,19 @@
+{
+  "id": "bf7acedb-90ab-542a-bf0f-a01bc8f37b39",
+  "name": "Improved Wand",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "magic",
+    "trait": "knowledge",
+    "range": "far",
+    "damage": "d6+4",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

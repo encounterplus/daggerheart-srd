@@ -1,0 +1,19 @@
+{
+  "id": "a09fe02b-308a-556e-8d6f-b7ef4051e8cf",
+  "name": "Advanced Arcane Gauntlets",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "magic",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d10+9",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

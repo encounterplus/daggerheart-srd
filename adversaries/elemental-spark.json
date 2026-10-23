@@ -1,0 +1,43 @@
+{
+  "id": "e645cf42-d4fd-5989-811f-667922c90b6f",
+  "name": "Elemental Spark",
+  "descr": "A blazing mote of elemental fire.",
+  "data": {
+    "tier": 3,
+    "type": "minion",
+    "motivesAndTactics": "Blast, consume, gain mass",
+    "difficulty": 15,
+    "thresholds": {
+      "major": null,
+      "severe": null
+    },
+    "hp": 1,
+    "stress": 1,
+    "attackModifier": 0,
+    "attack": {
+      "name": "Bursts of Fire",
+      "range": "close",
+      "damage": "5",
+      "damageType": "mag"
+    },
+    "experience": [],
+    "features": [
+      {
+        "name": "Minion",
+        "nameDetail": "9",
+        "type": "passive",
+        "text": "The Elemental is defeated when they take any damage. For every 9 damage a PC deals to the Elemental, defeat an additional Minion within range the attack would succeed against."
+      },
+      {
+        "name": "Group Attack",
+        "type": "action",
+        "text": "**Spend a Fear** to choose a target and spotlight all Elemental Sparks within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 5 physical damage each. Combine this damage."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "f98afeb9-b918-5702-b3c6-2600726a7782",
+  "name": "Mythic Dust Recipe",
+  "descr": "As a downtime move, you can use a handful of fine gold dust to craft Mythic Dust.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

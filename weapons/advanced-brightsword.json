@@ -1,0 +1,19 @@
+{
+  "id": "e1c21725-a410-571c-8d48-559899cc9a90",
+  "name": "Advanced Brightsword",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "magic",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d10+9",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

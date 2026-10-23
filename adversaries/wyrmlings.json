@@ -1,0 +1,53 @@
+{
+  "id": "24f484d6-fddf-5bf3-89ac-69edc92acec9",
+  "name": "Wyrmlings",
+  "descr": "A clutch of newly hatched dragons. As newborns, they're furious, hungry, and stupid.",
+  "data": {
+    "tier": 4,
+    "type": "horde",
+    "typeDetail": "3/HP",
+    "motivesAndTactics": "Consume, shred, swarm",
+    "difficulty": 17,
+    "thresholds": {
+      "major": 25,
+      "severe": 45
+    },
+    "hp": 8,
+    "stress": 5,
+    "attackModifier": 2,
+    "attack": {
+      "name": "Tiny Jaws & Claws",
+      "range": "melee",
+      "damage": "4d6+10",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Dragon Bond",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Horde (2d6+5)",
+        "type": "passive",
+        "text": "When the Wyrmlings have marked half or more of their HP, their standard attack deals **2d6+5** physical damage instead."
+      },
+      {
+        "name": "Ravenous",
+        "type": "reaction",
+        "text": "Once per GM turn when a PC marks a HP from an attack made by the Wyrmlings, you can **spend a Fear** to spotlight the Wyrmlings again."
+      },
+      {
+        "name": "Overwhelm",
+        "type": "reaction",
+        "text": "When the Wyrmlings take Minor damage from an attack within Melee range, you can **mark a Stress** to make a standard attack with advantage against the attacker."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

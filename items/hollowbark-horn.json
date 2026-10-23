@@ -1,0 +1,10 @@
+{
+  "id": "32d5ecde-a2b2-5e48-88a9-b5fb07031a37",
+  "name": "Hollowbark Horn",
+  "descr": "You can blow this horn to summon a small woodland creature to perform a simple task.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

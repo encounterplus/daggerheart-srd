@@ -1,0 +1,10 @@
+{
+  "id": "036f6d82-091c-52f4-b416-72393daa9154",
+  "name": "Furball Bag",
+  "descr": "Once per rest, you can produce 2d20 harmless, cat-sized fur creatures of indeterminate origin and species from this bag.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

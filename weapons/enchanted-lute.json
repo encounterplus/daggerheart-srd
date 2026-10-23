@@ -1,0 +1,19 @@
+{
+  "id": "43ff703a-b7bd-5a09-a9a8-6c05063212fa",
+  "name": "Enchanted Lute",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "magic",
+    "trait": "presence",
+    "range": "close",
+    "damage": "d8+3",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

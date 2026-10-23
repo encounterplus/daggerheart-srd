@@ -1,0 +1,19 @@
+{
+  "id": "dede5eed-941a-575c-b66a-90a697b9431d",
+  "name": "Displacement Razor",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "magic",
+    "trait": "finesse",
+    "range": "melee",
+    "damage": "d8+3",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

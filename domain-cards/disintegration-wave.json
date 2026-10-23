@@ -1,0 +1,16 @@
+{
+  "id": "075b3d00-6b2b-5d8b-8684-191c3aca6821",
+  "name": "Disintegration Wave",
+  "descr": "Make a **Spellcast Roll (18)**. Once per long rest on a success, the GM tells you which adversaries within Far range have a Difficulty of 18 or lower. **Mark a Stress** for each one you wish to hit with this spell. They are killed and can't come back to life by any means.",
+  "data": {
+    "level": 9,
+    "recall": 4,
+    "type": "spell",
+    "domain": "codex"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

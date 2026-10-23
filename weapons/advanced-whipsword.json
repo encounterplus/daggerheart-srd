@@ -1,0 +1,19 @@
+{
+  "id": "b7121953-a25a-573d-a764-55c7556ebbec",
+  "name": "Advanced Whipsword",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "veryClose",
+    "damage": "d8+6",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

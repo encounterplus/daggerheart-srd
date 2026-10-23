@@ -1,0 +1,19 @@
+{
+  "id": "c152fa59-ce78-5390-85c1-1624e7e13187",
+  "name": "Arquebus",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "physical",
+    "trait": "knowledge",
+    "range": "far",
+    "damage": "d8+10",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

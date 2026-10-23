@@ -1,0 +1,19 @@
+{
+  "id": "6b114615-29d9-5323-84c5-671b4586a87f",
+  "name": "Legendary Broadsword",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "melee",
+    "damage": "d8+9",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

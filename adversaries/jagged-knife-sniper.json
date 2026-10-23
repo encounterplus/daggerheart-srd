@@ -1,0 +1,42 @@
+{
+  "id": "492dba27-eb64-562d-ac13-6ef89de4e56a",
+  "name": "Jagged Knife Sniper",
+  "descr": "A lanky bandit striking from cover with a shortbow.",
+  "data": {
+    "tier": 1,
+    "type": "ranged",
+    "motivesAndTactics": "Ambush, hide, profit, reposition",
+    "difficulty": 13,
+    "thresholds": {
+      "major": 4,
+      "severe": 7
+    },
+    "hp": 3,
+    "stress": 2,
+    "attackModifier": -1,
+    "attack": {
+      "name": "Shortbow",
+      "range": "far",
+      "damage": "1d10+2",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Stealth",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Unseen Strike",
+        "type": "passive",
+        "text": "If the Sniper is _Hidden_ when they make a successful standard attack against a target, they deal **1d10+4** physical damage instead of their standard damage."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

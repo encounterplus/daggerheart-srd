@@ -1,0 +1,51 @@
+{
+  "id": "2bcfd114-0aca-5db4-8738-2ab387614c4f",
+  "name": "Guahalan Shifter",
+  "descr": "A shapeshifting masked warrior who has animalistic features.",
+  "data": {
+    "tier": 2,
+    "type": "standard",
+    "motivesAndTactics": "Escape, profit, throw smoke",
+    "difficulty": 15,
+    "thresholds": {
+      "major": 9,
+      "severe": 18
+    },
+    "hp": 4,
+    "stress": 3,
+    "attackModifier": 1,
+    "attack": {
+      "name": "Warclub",
+      "range": "melee",
+      "damage": "2d8+4",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Hunter",
+        "modifier": 2
+      },
+      {
+        "name": "Trapper",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Unleash the Beast",
+        "type": "action",
+        "text": "**Spend a Fear** to have the Shifter adopt a more bestial form. While in this form, they gain a bonus to attack and damage rolls equal to the number of Stress they have marked. Additionally, they can move up to Far range instead of Close range before taking an action."
+      },
+      {
+        "name": "Pack Attack",
+        "type": "action",
+        "text": "**Mark a Stress** to make a standard attack. On a success, the attack gains a bonus to damage equal to the number of other Shifters within Very Close range of the target."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

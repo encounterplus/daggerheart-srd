@@ -1,0 +1,19 @@
+{
+  "id": "7c77fd8d-e7c0-579e-a688-e2bb0ac8d30f",
+  "name": "Legendary Runelock Pistol",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "magic",
+    "trait": "knowledge",
+    "range": "far",
+    "damage": "d6+12",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

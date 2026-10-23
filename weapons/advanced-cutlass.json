@@ -1,0 +1,19 @@
+{
+  "id": "02070fdc-7fc0-54d6-bc52-b7f9f0eb7af2",
+  "name": "Advanced Cutlass",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "physical",
+    "trait": "presence",
+    "range": "melee",
+    "damage": "d8+7",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

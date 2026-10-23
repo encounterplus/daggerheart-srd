@@ -1,0 +1,16 @@
+{
+  "id": "df770ada-46f3-53c1-a3b3-60e17c9497b4",
+  "name": "Jump Scare",
+  "descr": "When you deal magic damage to a target, you can **mark a Stress** to teleport into Melee range with them. When you do, they are _Vulnerable_ until they mark 1 or more Hit Points.",
+  "data": {
+    "level": 6,
+    "recall": 1,
+    "type": "spell",
+    "domain": "dread"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

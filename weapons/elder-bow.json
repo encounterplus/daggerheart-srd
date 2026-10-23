@@ -1,0 +1,19 @@
+{
+  "id": "a0820862-b98d-5d91-9dfe-32eb948833d3",
+  "name": "Elder Bow",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "magic",
+    "trait": "instinct",
+    "range": "far",
+    "damage": "d6+4",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "dfd92efa-a4f6-5650-9794-e23e70f2f42d",
+  "name": "Advanced Brigandine Armor",
+  "data": {
+    "tier": 3,
+    "thresholds": {
+      "major": 11,
+      "severe": 26
+    },
+    "score": 5
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

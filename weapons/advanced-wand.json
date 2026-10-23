@@ -1,0 +1,19 @@
+{
+  "id": "d7815b44-aa4f-50e6-814f-7ff553bb4804",
+  "name": "Advanced Wand",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "magic",
+    "trait": "knowledge",
+    "range": "far",
+    "damage": "d6+7",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

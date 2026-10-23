@@ -1,0 +1,19 @@
+{
+  "id": "c7f30c1a-0a53-5401-b073-ffb701444aba",
+  "name": "Advanced Runelock Pistol",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "magic",
+    "trait": "knowledge",
+    "range": "far",
+    "damage": "d6+9",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

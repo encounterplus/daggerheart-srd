@@ -1,0 +1,19 @@
+{
+  "id": "693c78e3-21cb-519d-b848-14ab608c5a7d",
+  "name": "Eldritch Vambrace",
+  "data": {
+    "tier": 2,
+    "category": "secondary",
+    "type": "magic",
+    "trait": "instinct",
+    "range": "melee",
+    "damage": "d8",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

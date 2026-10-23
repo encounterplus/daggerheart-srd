@@ -1,0 +1,10 @@
+{
+  "id": "be099ee1-6833-516b-9c7c-82d7eb6e79eb",
+  "name": "Displacement Token",
+  "descr": "You can swallow this token to conjure two illusions of yourself that you can control. Each illusion lasts until it takes damage or until your next rest.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

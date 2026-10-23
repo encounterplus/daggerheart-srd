@@ -1,0 +1,68 @@
+{
+  "id": "2d013b38-af63-5c13-9e51-7236393e95cd",
+  "name": "Obsidian Predator",
+  "descr": "A massive winged creature with obsidian scales and impossibly sharp claws.",
+  "data": {
+    "tier": 4,
+    "type": "solo",
+    "motivesAndTactics": "Defend lair, dive-bomb, fly, hunt, intimidate",
+    "difficulty": 19,
+    "thresholds": {
+      "major": 33,
+      "severe": 65
+    },
+    "hp": 6,
+    "stress": 5,
+    "attackModifier": 8,
+    "attack": {
+      "name": "Obsidian Claws",
+      "range": "close",
+      "damage": "4d10+4",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Hunt from Above",
+        "modifier": 5
+      }
+    ],
+    "features": [
+      {
+        "name": "Relentless",
+        "nameDetail": "2",
+        "type": "passive",
+        "text": "The Obsidian Predator can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them."
+      },
+      {
+        "name": "Flying",
+        "type": "passive",
+        "text": "While flying, the Obsidian Predator gains a +3 bonus to their Difficulty."
+      },
+      {
+        "name": "Obsidian Scales",
+        "type": "passive",
+        "text": "The Obsidian Predator is resistant to physical damage."
+      },
+      {
+        "name": "Avalanche Tail",
+        "type": "action",
+        "text": "**Mark a Stress** to make an attack against all targets within Close range. Targets the Obsidian Predator succeeds against take **4d6+4** physical damage and are knocked back to Far range and _Vulnerable_ until their next roll with Hope."
+      },
+      {
+        "name": "Dive-Bomb",
+        "type": "action",
+        "text": "If the Obsidian Predator is flying, **mark a Stress** to choose a point within Far range. Move to that point and make an attack against all targets within Very Close range. Targets the Obsidian Predator succeeds against take **2d10+6** physical damage and must mark a Stress and lose a Hope."
+      },
+      {
+        "name": "Erupting Rage (Phase Change)",
+        "type": "reaction",
+        "text": "When the Obsidian Predator marks their last HP, replace them with the Molten Scourge and immediately spotlight them."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

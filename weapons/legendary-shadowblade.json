@@ -1,0 +1,19 @@
+{
+  "id": "dca6530c-0b05-526a-9dd7-be39802fb150",
+  "name": "Legendary Shadowblade",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "magic",
+    "trait": "presence",
+    "range": "melee",
+    "damage": "d8+9 phy/",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

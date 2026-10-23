@@ -1,0 +1,63 @@
+{
+  "id": "dd6131aa-762f-572c-96a4-1a8f503948ca",
+  "name": "Fire Titan Warlord",
+  "descr": "A smoldering, battle-obsessed goliath wearing bespoke armor and wielding a massive maul.",
+  "data": {
+    "tier": 4,
+    "type": "leader",
+    "motivesAndTactics": "Compete against rivals, conquer the weak, craft colossal war machines",
+    "difficulty": 21,
+    "thresholds": {
+      "major": 33,
+      "severe": 66
+    },
+    "hp": 9,
+    "stress": 8,
+    "attackModifier": 6,
+    "attack": {
+      "name": "Maul",
+      "range": "veryClose",
+      "damage": "4d10+10",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Tactics",
+        "modifier": 4
+      }
+    ],
+    "features": [
+      {
+        "name": "Relentless",
+        "nameDetail": "2",
+        "type": "passive",
+        "text": "The Warlord can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them."
+      },
+      {
+        "name": "Colossus Crafter",
+        "type": "passive",
+        "text": "_Countdown (6)_. When the Warlord enters the scene, activate the countdown. It ticks down when the Warlord is spotlighted. When it triggers, summon the Gargantuan War Machine, which appears at the edge of the battlefield and immediately takes the spotlight."
+      },
+      {
+        "name": "Release the Hounds",
+        "type": "action",
+        "text": "**Spend a Fear** to have the Warlord summon two Demonic Hound Packs, which appear at Close range and immediately take the spotlight."
+      },
+      {
+        "name": "Spinning Strike",
+        "type": "action",
+        "text": "**Mark a Stress** to make a standard attack against all targets within Very Close range and gain a Fear."
+      },
+      {
+        "name": "Ground-Breaking",
+        "type": "action",
+        "text": "**Spend a Fear** to have the Warlord crack the earth with a downward swing of their maul and make an attack against a group within Close range. Targets the attack succeeds against take **4d10+10** direct damage. The area becomes rough terrain, and a PC must succeed on an Agility Reaction Roll (16) to move through it."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "a6485980-908c-509e-83ac-9a98e3b9df33",
+  "name": "Demon Of Despair",
+  "descr": "A cloaked demon-creature with long limbs, seeping shadows.",
+  "data": {
+    "tier": 3,
+    "type": "skulk",
+    "motivesAndTactics": "Make fear contagious, stick to the shadows, undermine resolve",
+    "difficulty": 17,
+    "thresholds": {
+      "major": 18,
+      "severe": 35
+    },
+    "hp": 6,
+    "stress": 5,
+    "attackModifier": 3,
+    "attack": {
+      "name": "Miasma Bolt",
+      "range": "far",
+      "damage": "3d6+1",
+      "damageType": "mag"
+    },
+    "experience": [
+      {
+        "name": "Manipulation",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Depths of Despair",
+        "type": "passive",
+        "text": "The Demon deals double damage to PCs with 0 Hope."
+      },
+      {
+        "name": "Your Struggle Is Pointless",
+        "type": "action",
+        "text": "**Spend a Fear** to weigh down the spirits of all PCs within Far range. All targets affected replace their Hope Die with a **d8** until they roll a success with Hope or their next rest."
+      },
+      {
+        "name": "Your Friends Will Fail You",
+        "type": "reaction",
+        "text": "When a PC fails with Fear, you can **mark a Stress** to cause all other PCs within Close range to lose a Hope."
+      },
+      {
+        "name": "Momentum",
+        "type": "reaction",
+        "text": "When the Demon makes a successful attack against a PC, you gain a Fear."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "398d87c5-347f-5ead-84f4-aef52dfc3807",
+  "name": "Legendary Grappler",
+  "data": {
+    "tier": 4,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "close",
+    "damage": "d6+6",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

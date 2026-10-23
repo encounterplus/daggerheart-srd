@@ -1,0 +1,10 @@
+{
+  "id": "8f9e88f4-9a4b-5b1b-907d-6b31c9cee5f6",
+  "name": "Paragon’s Chain",
+  "descr": "As a downtime move, you can meditate on an ideal or principle you hold dear and focus your will into this chain. Once per long rest, you can spend a Hope to roll a d20 as your Hope Die for rolls that directly align with that principle.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

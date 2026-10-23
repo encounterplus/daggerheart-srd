@@ -1,0 +1,19 @@
+{
+  "id": "e34db535-c156-5e41-a42c-7001038741e6",
+  "name": "Siphoning Gauntlets",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "magic",
+    "trait": "presence",
+    "range": "melee",
+    "damage": "d10+9",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

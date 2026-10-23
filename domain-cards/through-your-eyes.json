@@ -1,0 +1,16 @@
+{
+  "id": "51b2bd7a-6bae-5271-8896-f36740a297bb",
+  "name": "Through Your Eyes",
+  "descr": "Choose a target within Very Far range. You can see through their eyes and hear through their ears. You can transition between using your own senses or the target's freely until you cast another spell or until your next rest.",
+  "data": {
+    "level": 4,
+    "recall": 1,
+    "type": "spell",
+    "domain": "grace"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

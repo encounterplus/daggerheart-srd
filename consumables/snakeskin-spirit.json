@@ -1,0 +1,10 @@
+{
+  "id": "08feadd0-c860-5367-ab36-ff631d19bf08",
+  "name": "Snakeskin Spirit",
+  "descr": "You can drink this potion to slough off your outer layer of skin and heal a scar.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "75ce3711-42ad-57f7-92df-c8ed59316a70",
+  "name": "Cipactli",
+  "descr": "A gargantuan crocodile that has a body covered in a patchwork of fish scales, toad skin, and dozens of hungry mouths.",
+  "data": {
+    "tier": 4,
+    "type": "solo",
+    "motivesAndTactics": "Consume, reshape the land, trample",
+    "difficulty": 20,
+    "thresholds": {
+      "major": 35,
+      "severe": 60
+    },
+    "hp": 8,
+    "stress": 5,
+    "attackModifier": 8,
+    "attack": {
+      "name": "Bite",
+      "range": "close",
+      "damage": "4d8+12",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Hungry",
+        "modifier": 3
+      },
+      {
+        "name": "Primordial",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Relentless",
+        "nameDetail": "3",
+        "type": "passive",
+        "text": "The Cipactli can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight it."
+      },
+      {
+        "name": "Many Mouths",
+        "type": "action",
+        "text": "**Mark a Stress** to make a standard attack against all targets within Very Close range. Targets the Cipactli succeeds against must also mark a Stress."
+      },
+      {
+        "name": "Frenzied Feeding",
+        "type": "action",
+        "text": "**Spend a Fear** to force all PCs within Close range to succeed on an Instinct Reaction Roll or take **4d6** direct physical damage. The Cipactli clears a HP for each creature who took Severe damage from this attack."
+      },
+      {
+        "name": "Quaking Footfalls",
+        "type": "action",
+        "text": "**Mark a Stress** to force each PC within Far range to make an Agility Reaction Roll. Targets who fail must mark 2 Stress and are _Vulnerable_ until they take damage. Targets who succeed must mark a Stress."
+      },
+      {
+        "name": "Lifeblooded",
+        "type": "reaction",
+        "text": "When the Cipactli takes Severe damage, its blood splashes to the ground and instantly erupts into a jungle. All creatures within Close range are temporarily _Restrained._"
+      },
+      {
+        "name": "Verdant Explosion",
+        "type": "reaction",
+        "text": "When the Cipactli marks its last HP, its body erupts into dense vegetation that overtakes the landscape."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

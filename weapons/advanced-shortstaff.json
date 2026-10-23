@@ -1,0 +1,19 @@
+{
+  "id": "88dbf74b-8a1c-5149-99ef-07413041226e",
+  "name": "Advanced Shortstaff",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "magic",
+    "trait": "instinct",
+    "range": "close",
+    "damage": "d8+7",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

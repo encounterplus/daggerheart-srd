@@ -1,0 +1,10 @@
+{
+  "id": "be75ea9b-e732-5571-a6a9-1af6aab09759",
+  "name": "Quillshawl",
+  "descr": "If an adversary attacks you within Melee range, they must succeed on a Reaction Roll (12) or mark a Hit Point.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

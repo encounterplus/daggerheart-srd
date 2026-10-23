@@ -1,0 +1,19 @@
+{
+  "id": "37fd70da-599c-5383-96b1-53522db85853",
+  "name": "Advanced Shortbow",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "far",
+    "damage": "d6+9",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

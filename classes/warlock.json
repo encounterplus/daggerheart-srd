@@ -1,0 +1,39 @@
+{
+  "id": "72d72e20-110f-5a18-84fb-5e7e1cbfa4c2",
+  "name": "Warlock",
+  "descr": "Those who've traded their lives—or perhaps even their souls—to an otherworldly patron in exchange for incredible power are known as warlocks. Often, these mortals have reached a point of desperation that leads them to make this sacrifice: they hope to protect themselves or a loved one, aid their community, seek vengeance, increase their status, or otherwise further their ambitions. The powerful entities they entreat are as varied as the warlocks themselves: gods, spirits, demons, or other beings unknown to even the mortal who makes the pact. The entities each have their own sphere of influence that defines their otherworldly power, and those that collect souls are rarely known for their benevolence. Thus, a warlock's power is defined by the relationship they maintain with their benefactor. Despite their terrifying magic, warlocks might find that someone or something else is pulling their strings.",
+  "data": {
+    "hp": 5,
+    "evasion": 11,
+    "items": "A carving that symbolizes your patron or a ring you can't remove",
+    "domains": [
+      "dread",
+      "grace"
+    ],
+    "hopeFeature": {
+      "name": "Patron's Boon",
+      "text": "When you fail a roll, you can **spend 3 Hope** to reroll with advantage."
+    },
+    "background": "- Who from your community shunned you after you made a pact with your patron?\n\n- What desperate situation led you to pledge your life to your patron?\n\n- Your patron has given you one task you must accomplish above all else. What is it, and why does it worry you?\n\n",
+    "connections": "- Why do you think I confide in you about what my patron says and does?\n\n- Our relationship has changed since you saw me show tribute to my patron. What did you see, and how has it affected you?\n\n- I once did something very foolish, and you've never let me live it down. What was it?\n\n",
+    "features": [
+      {
+        "name": "Patron's Pact",
+        "text": "You have committed yourself to a supernatural entity—such as a god, fae, or demon—in exchange for power. Write their name on your character sheet, then work with your GM to determine their sphere of influence (such as Nature, Chaos, Wisdom, Mischief, Love, War, Justice, or Death). Before making an action roll that relates to your patron's sphere of influence, you can **spend a Favor** to call upon their aid, rolling your Patron Die and adding its result to the total. Your Patron Die starts at a **d6** and increases to a **d8** at level 5."
+      },
+      {
+        "name": "Favor",
+        "text": "You start with 3 Favor. You can use a downtime move to show tribute to your patron. Describe how and gain Favor equal to your Spellcast trait. Additionally, when you succeed on an action roll with Hope, you can choose to gain a Favor instead of a Hope."
+      },
+      {
+        "name": "Note",
+        "text": "_The maximum Favor you can hold at one time is 6._\n\n**SPHERE OF INFLUENCE EXAMPLES**\n\nWhen building a warlock, choose their patron's sphere of influence from the list below or work with the GM to make your own.\n\n|  |  |  |\n| --- | --- | --- |\n| _Ambition_ | _Leaders_ | _Secrets_ |\n| _Artists_ | _Love_ | _Soldiers_ |\n| _Chaos_ | _Mercy_ | _Strength_ |\n| _Darkness_ | _Mischief_ | _Travelers_ |\n| _Death_ | _Nature_ | _Tricksters_ |\n| _Gamblers_ | _Protectors_ | _Truth_ |\n| _Honor_ | _Revenge_ | _War_ |\n| _Justice_ | _Scholars_ | _Wisdom_ |"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

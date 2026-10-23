@@ -1,0 +1,19 @@
+{
+  "id": "7fcf871f-93ed-5d4d-8d1e-ad509ae7b0e5",
+  "name": "Improved Spear",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "veryClose",
+    "damage": "d8+6",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

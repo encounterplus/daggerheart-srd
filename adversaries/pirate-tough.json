@@ -1,0 +1,47 @@
+{
+  "id": "a797dd3d-5ec3-54ed-890f-991c01e5a0e2",
+  "name": "Pirate Tough",
+  "descr": "A thickly muscled and tattooed pirate with melon-sized fists.",
+  "data": {
+    "tier": 1,
+    "type": "bruiser",
+    "motivesAndTactics": "Plunder, raid, smash, terrorize",
+    "difficulty": 13,
+    "thresholds": {
+      "major": 8,
+      "severe": 15
+    },
+    "hp": 5,
+    "stress": 3,
+    "attackModifier": 1,
+    "attack": {
+      "name": "Massive Fists",
+      "range": "melee",
+      "damage": "2d6",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Sailor",
+        "modifier": 2
+      }
+    ],
+    "features": [
+      {
+        "name": "Swashbuckler",
+        "type": "passive",
+        "text": "When the Tough marks 2 or fewer HP from an attack within Melee range, the attacker must mark a Stress."
+      },
+      {
+        "name": "Clear the Decks",
+        "type": "action",
+        "text": "Make an attack against a target within Very Close range. On a success, **mark a Stress** to move into Melee range of the target, dealing **3d4** physical damage and knocking the target back to Close range."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

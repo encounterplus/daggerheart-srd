@@ -1,0 +1,42 @@
+{
+  "id": "bcc7a909-fce2-5a35-b02a-d2ac473e6882",
+  "name": "Elite Soldier",
+  "descr": "An armored squire or experienced commoner looking to advance.",
+  "data": {
+    "tier": 2,
+    "type": "standard",
+    "motivesAndTactics": "Gain glory, keep order, make alliances",
+    "difficulty": 15,
+    "thresholds": {
+      "major": 9,
+      "severe": 18
+    },
+    "hp": 4,
+    "stress": 3,
+    "attackModifier": 1,
+    "attack": {
+      "name": "Spear",
+      "range": "veryClose",
+      "damage": "2d8+4",
+      "damageType": "phy"
+    },
+    "experience": [],
+    "features": [
+      {
+        "name": "Reinforce",
+        "type": "action",
+        "text": "**Mark a Stress** to move into Melee range of an ally and make a standard attack against a target within Very Close range. On a success, deal **2d10+2** physical damage and the ally can clear a Stress."
+      },
+      {
+        "name": "Vassal's Loyalty",
+        "type": "reaction",
+        "text": "When the Soldier is within Very Close range of a knight or other noble who would take damage, you can **mark a Stress** to move into Melee range of them and take the damage instead."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "3db7f7c3-f9a8-57b4-b867-ee81b045b041",
+  "name": "Epic Aquatic Beast",
+  "data": {
+    "tier": 4,
+    "examples": "Giant Squid, Whale, etc.",
+    "trait": "agility",
+    "traitModifier": 3,
+    "evasionModifier": 3,
+    "attack": {
+      "range": "melee",
+      "trait": "agility",
+      "damage": "d10+10",
+      "damageType": "phy"
+    },
+    "advantages": [
+      "locate",
+      "protect",
+      "scare",
+      "track"
+    ],
+    "features": [
+      {
+        "name": "Ocean Master",
+        "text": "You can breathe and move naturally underwater. When you succeed on an attack against a target within Melee range, you can temporarily _Restrain_ them."
+      },
+      {
+        "name": "Unyielding",
+        "text": "When you would mark an Armor Slot, roll a **d6.** On a result of 5 or higher, reduce the severity by one threshold without marking an Armor Slot."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

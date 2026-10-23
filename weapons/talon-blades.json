@@ -1,0 +1,19 @@
+{
+  "id": "bfb81458-6b0b-5be4-9220-1176a6f1d697",
+  "name": "Talon Blades",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "close",
+    "damage": "d10+7",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

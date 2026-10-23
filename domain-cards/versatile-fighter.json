@@ -1,0 +1,16 @@
+{
+  "id": "df8b0222-1e89-5c54-98ad-44c1e047f341",
+  "name": "Versatile Fighter",
+  "descr": "You can use a different character trait for an equipped weapon, rather than the trait the weapon calls for.\n\nWhen you deal damage, you can **mark a Stress** to use the maximum result of one of your damage dice instead of rolling it.",
+  "data": {
+    "level": 3,
+    "recall": 1,
+    "type": "ability",
+    "domain": "blade"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

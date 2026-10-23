@@ -1,0 +1,19 @@
+{
+  "id": "2bf03c2b-2999-5b03-977f-b592d13142b3",
+  "name": "Razor Wire",
+  "data": {
+    "tier": 2,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "veryClose",
+    "damage": "d6+3",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

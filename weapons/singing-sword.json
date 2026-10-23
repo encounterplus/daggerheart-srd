@@ -1,0 +1,19 @@
+{
+  "id": "fe4f409e-b7e0-5c86-930a-152ef63757e2",
+  "name": "Singing Sword",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "physical",
+    "trait": "presence",
+    "range": "veryClose",
+    "damage": "d8+5",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

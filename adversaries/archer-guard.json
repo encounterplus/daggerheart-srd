@@ -1,0 +1,42 @@
+{
+  "id": "1edafaad-2626-52d5-8572-bb273057a8c2",
+  "name": "Archer Guard",
+  "descr": "A tall guard bearing a longbow and quiver with arrows fletched in the settlement's colors.",
+  "data": {
+    "tier": 1,
+    "type": "ranged",
+    "motivesAndTactics": "Arrest, close gates, make it through the day, pin down",
+    "difficulty": 10,
+    "thresholds": {
+      "major": 4,
+      "severe": 8
+    },
+    "hp": 3,
+    "stress": 2,
+    "attackModifier": 1,
+    "attack": {
+      "name": "Longbow",
+      "range": "far",
+      "damage": "1d8+3",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Local Knowledge",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Hobbling Shot",
+        "type": "action",
+        "text": "Make an attack against a target within Far range. On a success, **mark a Stress** to deal **1d12+3** physical damage. If the target marks HP from this attack, they have disadvantage on Agility Rolls until they clear at least 1 HP."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

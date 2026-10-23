@@ -1,0 +1,10 @@
+{
+  "id": "0346a011-4979-5166-951a-1761924b39d2",
+  "name": "Bridge Seed",
+  "descr": "Thick vines grow from your location to a point of your choice within Far range, allowing you to climb up or across them. The vines dissipate on your next short rest.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

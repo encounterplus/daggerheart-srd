@@ -1,0 +1,17 @@
+{
+  "id": "a0fafcce-0b83-50c1-a574-63c5422cdc30",
+  "name": "Mage Robes",
+  "data": {
+    "tier": 1,
+    "thresholds": {
+      "major": 4,
+      "severe": 10
+    },
+    "score": 2
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

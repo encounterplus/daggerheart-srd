@@ -1,0 +1,16 @@
+{
+  "id": "947d63eb-df44-58d8-bc85-ed9912c9dcd4",
+  "name": "Blade-touched",
+  "descr": "When 4 or more of the domain cards in your loadout are from the Blade domain, gain the following benefits:\n\n- +2 bonus to your attack rolls\n- +4 bonus to your Severe damage threshold",
+  "data": {
+    "level": 7,
+    "recall": 1,
+    "type": "ability",
+    "domain": "blade"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

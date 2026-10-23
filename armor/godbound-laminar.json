@@ -1,0 +1,17 @@
+{
+  "id": "dcf5915d-e30e-5596-a186-0f2a36b72d42",
+  "name": "Godbound Laminar",
+  "data": {
+    "tier": 4,
+    "thresholds": {
+      "major": 13,
+      "severe": 36
+    },
+    "score": 6
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "1a3efa12-234c-5b09-925d-2de5ce1786eb",
+  "name": "Instant Camp",
+  "descr": "You can unfold this small mechanical box into a camping tent large enough to safely house six people. The tent collapses at the end of your next long rest.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

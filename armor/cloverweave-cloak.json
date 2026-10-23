@@ -1,0 +1,17 @@
+{
+  "id": "d77c537c-7fa6-5762-9d09-17b4d85fa3a6",
+  "name": "Cloverweave Cloak",
+  "data": {
+    "tier": 3,
+    "thresholds": {
+      "major": 11,
+      "severe": 27
+    },
+    "score": 5
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "0dcd07ed-7ecf-5ba5-9d9e-6d0e09b685e7",
+  "name": "Legendary Glowing Rings",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "magic",
+    "trait": "agility",
+    "range": "veryClose",
+    "damage": "d10+11",
+    "damageType": "mag",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

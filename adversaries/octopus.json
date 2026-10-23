@@ -1,0 +1,51 @@
+{
+  "id": "af06159a-8cba-5b2b-b639-26be39a332b1",
+  "name": "Octopus",
+  "descr": "An aquatic, soft-bodied mollusk that has eight sucker-bearing arms and a hard, beaklike jaw.",
+  "data": {
+    "tier": 1,
+    "type": "skulk",
+    "motivesAndTactics": "Crawl along the ocean floor, eat fish, squirt ink to escape",
+    "difficulty": 12,
+    "thresholds": {
+      "major": 3,
+      "severe": null
+    },
+    "hp": 2,
+    "stress": 3,
+    "attackModifier": -1,
+    "attack": {
+      "name": "Beak",
+      "range": "melee",
+      "damage": "1d6",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Dexterity",
+        "modifier": 3
+      },
+      {
+        "name": "Water",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Grapple",
+        "type": "action",
+        "text": "Make an attack roll against a target within Close range. On a success, the target becomes _Restrained_ and _Vulnerable_ until they escape with a successful Strength Roll."
+      },
+      {
+        "name": "Squirt Ink",
+        "type": "action",
+        "text": "**Mark a Stress** to have the Octopus squirt ink. On land, the ink covers the ground within Very Close range. Each creature who moves through that area must succeed on an Agility Reaction Roll or slip and fall, becoming _Vulnerable_ until they exit the area. If this feature is used while the Octopus is underwater, it instead creates a cloud of darkness that fills an area within Very Close range and blocks line of sight."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

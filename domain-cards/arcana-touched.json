@@ -1,0 +1,16 @@
+{
+  "id": "0410a3b6-7126-561d-925c-abf4f9b3360a",
+  "name": "Arcana-touched",
+  "descr": "When 4 or more of the domain cards in your loadout are from the Arcana domain, gain the following benefits:\n\n- +1 bonus to your Spellcast Rolls\n- Once per rest, you can switch the results of your Hope and Fear Dice.",
+  "data": {
+    "level": 7,
+    "recall": 2,
+    "type": "ability",
+    "domain": "arcana"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

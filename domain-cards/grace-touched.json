@@ -1,0 +1,16 @@
+{
+  "id": "e4899480-9b43-5da6-aaa5-9b76d1c737d8",
+  "name": "Grace-touched",
+  "descr": "When 4 or more of the domain cards in your loadout are from the Grace domain, gain the following benefits:\n\n- You can **mark an Armor Slot** instead of marking a Stress.\n- When you would force a target to mark a number of Hit Points, you can choose instead to force them to mark that number of Stress.",
+  "data": {
+    "level": 7,
+    "recall": 2,
+    "type": "ability",
+    "domain": "grace"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

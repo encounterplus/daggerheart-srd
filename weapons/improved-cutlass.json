@@ -1,0 +1,19 @@
+{
+  "id": "ff3a5e64-2a25-5b78-b131-2cb69ff54feb",
+  "name": "Improved Cutlass",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "presence",
+    "range": "melee",
+    "damage": "d8+4",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

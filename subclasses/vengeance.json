@@ -1,0 +1,35 @@
+{
+  "id": "4c99ebf1-725c-5b98-a680-03fb75138883",
+  "name": "Vengeance",
+  "descr": "Play the Vengeance if you want to strike down enemies who harm you or your allies.",
+  "data": {
+    "class": "Guardian",
+    "foundations": [
+      {
+        "name": "At Ease",
+        "text": "Gain an additional Stress slot."
+      },
+      {
+        "name": "Revenge",
+        "text": "When an adversary within Melee range succeeds on an attack against you, you can **mark 2 Stress** to force the attacker to mark a Hit Point."
+      }
+    ],
+    "specializations": [
+      {
+        "name": "Act of Reprisal",
+        "text": "When an adversary damages an ally within Melee range, you gain a +1 bonus to your Proficiency for the next successful attack you make against that adversary."
+      }
+    ],
+    "masteries": [
+      {
+        "name": "Nemesis",
+        "text": "**Spend 2 Hope** to _Prioritize_ an adversary until your next rest. When you make an attack against your _Prioritized_ adversary, you can swap the results of your Hope and Fear Dice. You can only _Prioritize_ one adversary at a time."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

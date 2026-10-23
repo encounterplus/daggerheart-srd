@@ -1,0 +1,17 @@
+{
+  "id": "290f298b-2aac-56ac-aed9-92fee1a524ff",
+  "name": "Monett’s Cloak",
+  "data": {
+    "tier": 3,
+    "thresholds": {
+      "major": 16,
+      "severe": 39
+    },
+    "score": 6
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

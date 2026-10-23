@@ -1,0 +1,17 @@
+{
+  "id": "bb35baf6-268d-5de4-ba7f-5261869c4d6e",
+  "name": "Rosewild Armor",
+  "data": {
+    "tier": 2,
+    "thresholds": {
+      "major": 11,
+      "severe": 23
+    },
+    "score": 5
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

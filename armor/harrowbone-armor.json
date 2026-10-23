@@ -1,0 +1,17 @@
+{
+  "id": "4c2d357c-a7bc-5a91-8c64-3ae0af3f6791",
+  "name": "Harrowbone Armor",
+  "data": {
+    "tier": 2,
+    "thresholds": {
+      "major": 9,
+      "severe": 21
+    },
+    "score": 4
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

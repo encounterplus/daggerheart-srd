@@ -1,0 +1,19 @@
+{
+  "id": "e38a36b4-f21a-57ff-acdb-7344b36189d8",
+  "name": "Gilded Falchion",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d10+4",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

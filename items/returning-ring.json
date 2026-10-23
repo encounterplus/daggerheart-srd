@@ -1,0 +1,10 @@
+{
+  "id": "4dc1e1f3-830d-5537-af4f-08da9939d8e7",
+  "name": "Returning Ring",
+  "descr": "When you throw your primary weapon while wearing this ring, the weapon appears in your hand immediately after the attack.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "511019bf-422a-5010-99d1-d1fab9700066",
+  "name": "Zephyr’s Jar",
+  "descr": "You can open this empty jar during inclement weather to capture the storm and leave behind clear skies. The storm remains inside until unleashed by reopening the jar.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "e000a13f-7c6a-58e0-bd83-784ead008bd2",
+  "name": "Improved Battleaxe",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d10+6",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

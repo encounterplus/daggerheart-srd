@@ -1,0 +1,10 @@
+{
+  "id": "4678f3b3-692c-5eaf-b7b1-d42f576b947d",
+  "name": "Health Potion",
+  "descr": "Clear 1d4+1 HP.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

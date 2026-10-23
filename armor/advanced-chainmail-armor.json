@@ -1,0 +1,17 @@
+{
+  "id": "159d1a18-db5a-5df1-aafd-bfc9432adaf4",
+  "name": "Advanced Chainmail Armor",
+  "data": {
+    "tier": 3,
+    "thresholds": {
+      "major": 13,
+      "severe": 31
+    },
+    "score": 6
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

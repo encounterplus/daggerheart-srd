@@ -1,0 +1,10 @@
+{
+  "id": "ae2f9e28-79c3-5119-a048-bdbf04d01ef3",
+  "name": "Minor Health Potion Recipe",
+  "descr": "As a downtime move, you can use a vial of blood to craft a Minor Health Potion.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

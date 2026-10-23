@@ -1,0 +1,19 @@
+{
+  "id": "7a142a20-82a6-5550-8a98-49368bb7adf4",
+  "name": "Focus Runes",
+  "data": {
+    "tier": 1,
+    "category": "secondary",
+    "type": "magic",
+    "trait": "instinct",
+    "range": "veryClose",
+    "damage": "d6",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

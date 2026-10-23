@@ -1,0 +1,11 @@
+{
+  "id": "8be49250-2180-5014-914c-90d2318fc1c7",
+  "name": "Arcana",
+  "type": "domain",
+  "descr": "Arcana is the domain of **innate and instinctual magic.** Those who choose this path tap into the raw, enigmatic forces of the realms to manipulate both their own energy and the elements. Arcana offers wielders a volatile power, but it is incredibly potent when correctly channeled. The Arcana domain can be accessed by the **Druid** and **Sorcerer** classes.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

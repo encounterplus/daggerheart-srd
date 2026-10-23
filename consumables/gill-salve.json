@@ -1,0 +1,10 @@
+{
+  "id": "1c620672-8be9-57ec-8d04-a93cabdd5656",
+  "name": "Gill Salve",
+  "descr": "You can apply this salve to your neck to breathe underwater for a number of minutes equal to your level.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

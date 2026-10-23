@@ -1,0 +1,16 @@
+{
+  "id": "c3f92b21-4298-5362-afaf-9098dc42132d",
+  "name": "Wild Surge",
+  "descr": "Once per long rest, **mark a Stress** to channel the natural world around you and enhance yourself. Describe how your appearance changes, then place a **d6** on this card with the 1 value facing up.\n\nWhile the Wild Surge Die is active, you add its value to every action roll you make. After you add its value to a roll, increase the Wild Surge Die's value by one. When the die's value would exceed 6 or you take a rest, this form drops and you must **mark an additional Stress**.",
+  "data": {
+    "level": 7,
+    "recall": 2,
+    "type": "spell",
+    "domain": "sage"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

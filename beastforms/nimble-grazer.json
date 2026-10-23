@@ -1,0 +1,37 @@
+{
+  "id": "f1a3a685-6596-5d01-a446-365bf4adacbc",
+  "name": "Nimble Grazer",
+  "data": {
+    "tier": 1,
+    "examples": "Deer, Gazelle, Goat, etc.",
+    "trait": "agility",
+    "traitModifier": 1,
+    "evasionModifier": 3,
+    "attack": {
+      "range": "melee",
+      "trait": "agility",
+      "damage": "d6",
+      "damageType": "phy"
+    },
+    "advantages": [
+      "leap",
+      "sneak",
+      "sprint"
+    ],
+    "features": [
+      {
+        "name": "Elusive Prey",
+        "text": "When an attack roll against you would succeed, you can **mark a Stress** and roll a **d4.** Add the result to your Evasion against this attack."
+      },
+      {
+        "name": "Fragile",
+        "text": "When you take Major or greater damage, you drop out of Beastform."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

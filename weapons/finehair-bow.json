@@ -1,0 +1,19 @@
+{
+  "id": "a29327d0-9dfc-5cdd-b29d-8016174093a0",
+  "name": "Finehair Bow",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "veryFar",
+    "damage": "d6+5",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

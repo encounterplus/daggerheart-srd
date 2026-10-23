@@ -1,0 +1,19 @@
+{
+  "id": "196f91d8-c468-5a0f-a048-bf27a2cc1406",
+  "name": "Advanced Shadowblade",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "magic",
+    "trait": "presence",
+    "range": "melee",
+    "damage": "d8+6 phy/",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

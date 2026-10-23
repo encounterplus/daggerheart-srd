@@ -1,0 +1,19 @@
+{
+  "id": "2abe4ec2-e541-5658-a660-639db38e73e0",
+  "name": "Parrying Dagger",
+  "data": {
+    "tier": 2,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "melee",
+    "damage": "d6+2",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

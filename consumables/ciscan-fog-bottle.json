@@ -1,0 +1,10 @@
+{
+  "id": "deea31d9-92a6-5013-97f7-ddb346f4c6e9",
+  "name": "Ciscan Fog Bottle",
+  "descr": "You can break this jar to fill the area within Close range with magical mist. A creature who enters the mist clears a Stress and becomes _Hidden_.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

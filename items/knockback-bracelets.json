@@ -1,0 +1,10 @@
+{
+  "id": "2af28a0d-e883-5094-9d6d-f47084443934",
+  "name": "Knockback Bracelets",
+  "descr": "On a successful weapon attack, you can knock your target back up to Close range from their location.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

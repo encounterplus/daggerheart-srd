@@ -1,0 +1,10 @@
+{
+  "id": "3499300f-49c5-5ee3-b1e4-447a37c078eb",
+  "name": "Premium Bedroll",
+  "descr": "During downtime, you automatically clear a Stress.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "d93f6f92-a358-505e-93f7-04eb49a2a62d",
+  "name": "A Soldier’s Bond",
+  "descr": "Once per long rest, when you compliment someone or ask them about something they're good at, you can both gain 3 Hope.",
+  "data": {
+    "level": 2,
+    "recall": 1,
+    "type": "ability",
+    "domain": "blade"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

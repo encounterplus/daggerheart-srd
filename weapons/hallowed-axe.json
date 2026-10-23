@@ -1,0 +1,19 @@
+{
+  "id": "a26a77d7-45b2-519d-bde4-8c871ed6df7b",
+  "name": "Hallowed Axe",
+  "data": {
+    "tier": 1,
+    "category": "primary",
+    "type": "magic",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d8+1",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

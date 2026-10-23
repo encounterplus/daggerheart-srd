@@ -1,0 +1,16 @@
+{
+  "id": "7d92af77-4261-59b5-a42a-6f6b5c22d699",
+  "name": "Inspirational Words",
+  "descr": "Your speech is imbued with power. After a long rest, place a number of tokens on this card equal to your Presence. When you speak with an ally, you can spend a token from this card to give them one benefit from the following options:\n\n- Your ally clears a Stress.\n- Your ally clears a Hit Point.\n- Your ally gains a Hope.\n\nWhen you take a long rest, clear all unspent tokens.",
+  "data": {
+    "level": 1,
+    "recall": 1,
+    "type": "ability",
+    "domain": "grace"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

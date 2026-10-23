@@ -1,0 +1,52 @@
+{
+  "id": "c8fdba31-77b8-5461-b221-2ba00ff50956",
+  "name": "Bugboar",
+  "descr": "A large bipedal creature that has a tusked snout and coarse fur.",
+  "data": {
+    "tier": 1,
+    "type": "bruiser",
+    "motivesAndTactics": "Ambush, bully, seek carnage and shiny things",
+    "difficulty": 13,
+    "thresholds": {
+      "major": 8,
+      "severe": 15
+    },
+    "hp": 5,
+    "stress": 3,
+    "attackModifier": 1,
+    "attack": {
+      "name": "Spiked Mace",
+      "range": "veryClose",
+      "damage": "1d8+6",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Traps",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Surprise!",
+        "type": "passive",
+        "text": "If the Bugboar makes its first attack in a scene before it's marked HP or Stress, it has advantage on the attack and deals an extra **1d8** damage."
+      },
+      {
+        "name": "Brutal",
+        "type": "reaction",
+        "text": "When the Bugboar makes a successful standard attack, you can **mark a Stress** to deal an extra **1d6** damage."
+      },
+      {
+        "name": "Warheart",
+        "type": "reaction",
+        "text": "When a condition would be imposed on the Bugboar, you can **spend a Fear** to negate it."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

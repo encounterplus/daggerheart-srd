@@ -1,0 +1,19 @@
+{
+  "id": "92385b4b-7003-5523-90dc-def797b550a2",
+  "name": "Aantari Bow",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "far",
+    "damage": "d6+11",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "c014722b-c3e2-5443-be3a-b253f3d3e7e2",
+  "name": "Spiked Shield",
+  "data": {
+    "tier": 2,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d6+2",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "99f5ae45-39a0-5c6f-ae5e-82cf814e7960",
+  "name": "Void Needle",
+  "data": {
+    "tier": 4,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "melee",
+    "damage": "d4+6",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "50a81d15-6de6-5898-b725-5208cb9e8d46",
+  "name": "Calming Pendant",
+  "descr": "When you would mark your last Stress, roll a d6. On a result of 5 or higher, don't mark it.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

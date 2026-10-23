@@ -1,0 +1,19 @@
+{
+  "id": "f446f334-f942-5b74-8fb1-fae0522dff41",
+  "name": "Legendary Focus Runes",
+  "data": {
+    "tier": 4,
+    "category": "secondary",
+    "type": "magic",
+    "trait": "instinct",
+    "range": "veryClose",
+    "damage": "d6+6",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

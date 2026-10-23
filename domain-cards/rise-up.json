@@ -1,0 +1,16 @@
+{
+  "id": "b9bc5469-0761-5e1a-9ec3-6a9a0902b712",
+  "name": "Rise Up",
+  "descr": "Gain a bonus to your Severe threshold equal to your Proficiency.\n\nWhen you mark 1 or more Hit Points from an attack, clear a Stress.",
+  "data": {
+    "level": 6,
+    "recall": 2,
+    "type": "ability",
+    "domain": "valor"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

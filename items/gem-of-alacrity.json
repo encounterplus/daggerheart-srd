@@ -1,0 +1,10 @@
+{
+  "id": "8223e242-a777-59d9-b991-e1f2b0d85d3d",
+  "name": "Gem Of Alacrity",
+  "descr": "You can attach this gem to a weapon, allowing you to use your Agility when making an attack with that weapon.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "98a019dc-eea3-5ed8-99bd-fb7122292258",
+  "name": "Improved Mace",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d8+4",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

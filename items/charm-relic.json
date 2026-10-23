@@ -1,0 +1,10 @@
+{
+  "id": "238025a9-beae-5c22-8c80-e84d2f506769",
+  "name": "Charm Relic",
+  "descr": "You gain a +1 bonus to your Presence. You can only carry one relic.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

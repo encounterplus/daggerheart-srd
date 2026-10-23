@@ -1,0 +1,19 @@
+{
+  "id": "f68b3107-f76d-551a-91b7-c9734270e60e",
+  "name": "Advanced Round Shield",
+  "data": {
+    "tier": 3,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d4+4",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

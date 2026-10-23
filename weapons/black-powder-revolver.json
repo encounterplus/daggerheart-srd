@@ -1,0 +1,19 @@
+{
+  "id": "49d6d4c1-53f1-5984-8de4-07521fb91458",
+  "name": "Black Powder Revolver",
+  "data": {
+    "tier": 3,
+    "category": "primary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "far",
+    "damage": "d6+8",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "62517725-2f22-5429-b985-51280798a485",
+  "name": "Syndicate",
+  "descr": "Play the Syndicate if you want to have a web of contacts everywhere you go.",
+  "data": {
+    "class": "Rogue",
+    "spellcastTrait": "finesse",
+    "foundations": [
+      {
+        "name": "Well-Connected",
+        "text": "When you arrive in a prominent town or environment, you know somebody who calls this place home. Give them a name, note how you think they could be useful, and choose one fact from the following list:\n\n- They owe me a favor, but they'll be hard to find.\n- They're going to ask for something in exchange.\n- They're always in a great deal of trouble.\n- We used to be together. It's a long story.\n- We didn't part on great terms."
+      }
+    ],
+    "specializations": [
+      {
+        "name": "Contacts Everywhere",
+        "text": "Once per session, you can briefly call on a shady contact. Choose one of the following benefits and describe what brought them here to help you in this moment:\n\n- They provide 1 handful of gold, a unique tool, or a mundane object that the situation requires.\n- On your next action roll, their help provides a +3 bonus to the result of your Hope or Fear Die.\n- The next time you deal damage, they snipe from the shadows, adding **2d8** to your damage roll."
+      }
+    ],
+    "masteries": [
+      {
+        "name": "Reliable Backup",
+        "text": "You can use your \"Contacts Everywhere\" feature three times per session. The following options are added to the list of benefits you can choose from when you use that feature:\n\n- When you mark 1 or more Hit Points, they can rush out to shield you, reducing the Hit Points marked by 1.\n- When you make a Presence Roll in conversation, they back you up. You can roll a **d20** as your Hope Die."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

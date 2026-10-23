@@ -1,0 +1,10 @@
+{
+  "id": "cdb69924-d607-520f-9bcd-075a19471993",
+  "name": "Mesmer’s Tonic",
+  "descr": "When you drink this tonic, the only thing you can hear until your next rest are the surface thoughts of creatures within Very Close range.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

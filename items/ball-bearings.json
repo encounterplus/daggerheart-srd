@@ -1,0 +1,10 @@
+{
+  "id": "023bae2a-9b86-5923-b731-36862fee26c4",
+  "name": "Ball Bearings",
+  "descr": "This pouch contains perfectly smooth metal spheres.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

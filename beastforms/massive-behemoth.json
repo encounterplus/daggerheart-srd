@@ -1,0 +1,42 @@
+{
+  "id": "31959311-0125-54af-9208-1ada2d034422",
+  "name": "Massive Behemoth",
+  "data": {
+    "tier": 4,
+    "examples": "Elephant, Mammoth, Rhinoceros, etc.",
+    "trait": "strength",
+    "traitModifier": 3,
+    "evasionModifier": 1,
+    "attack": {
+      "range": "melee",
+      "trait": "strength",
+      "damage": "d12+12",
+      "damageType": "phy"
+    },
+    "advantages": [
+      "locate",
+      "protect",
+      "scare",
+      "sprint"
+    ],
+    "features": [
+      {
+        "name": "Carrier",
+        "text": "You can carry up to four willing allies with you when you move."
+      },
+      {
+        "name": "Demolish",
+        "text": "**Spend a Hope** to move up to Far range in a straight line and make an attack against all targets within Melee range of the line. Targets you succeed against take **d8+10** physical damage using your Proficiency and are temporarily _Vulnerable._"
+      },
+      {
+        "name": "Undaunted",
+        "text": "You gain a +2 bonus to all your damage thresholds."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

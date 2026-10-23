@@ -1,0 +1,47 @@
+{
+  "id": "1759f8fb-47e2-5c5b-8cbd-5cb6a56dade5",
+  "name": "Dire Wolf",
+  "descr": "A large wolf with menacing teeth, seldom encountered alone.",
+  "data": {
+    "tier": 1,
+    "type": "skulk",
+    "motivesAndTactics": "Defend territory, harry, protect pack, surround, trail",
+    "difficulty": 12,
+    "thresholds": {
+      "major": 5,
+      "severe": 9
+    },
+    "hp": 4,
+    "stress": 3,
+    "attackModifier": 2,
+    "attack": {
+      "name": "Claws",
+      "range": "melee",
+      "damage": "1d6+2",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Keen Senses",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Pack Tactics",
+        "type": "passive",
+        "text": "If the Wolf makes a successful standard attack and another Dire Wolf is within Melee range of the target, deal **1d6+5** physical damage instead of their standard damage and you gain a Fear."
+      },
+      {
+        "name": "Hobbling Strike",
+        "type": "action",
+        "text": "**Mark a Stress** to make an attack against a target within Melee range. On a success, deal **3d4+10** direct physical damage and make them _Vulnerable_ until they clear at least 1 HP."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

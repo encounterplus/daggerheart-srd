@@ -1,0 +1,28 @@
+{
+  "id": "36d2c644-6ee9-5eee-8f35-4a121e8fbd9a",
+  "name": "Legendary Hybrid",
+  "data": {
+    "tier": 3,
+    "examples": "Griffon, Sphinx, etc.",
+    "trait": "strength",
+    "traitModifier": 2,
+    "evasionModifier": 3,
+    "attack": {
+      "range": "melee",
+      "trait": "strength",
+      "damage": "d10+8",
+      "damageType": "phy"
+    },
+    "features": [
+      {
+        "name": "Hybrid Features",
+        "text": "To transform into this creature, **mark an additional Stress.** Choose any two Beastform options from Tiers 1-2. Choose a total of four advantages and two features from those options."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "086921bf-2b2b-5c57-a840-5cf54a31d00a",
+  "name": "Legendary Battleaxe",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d10+12",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

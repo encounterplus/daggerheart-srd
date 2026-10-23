@@ -1,0 +1,19 @@
+{
+  "id": "89a12770-8ae5-5784-933f-a96cc76de32e",
+  "name": "Legendary Twisted Dagger",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "physical",
+    "trait": "knowledge",
+    "range": "melee",
+    "damage": "d8+9",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

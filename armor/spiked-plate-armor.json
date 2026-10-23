@@ -1,0 +1,17 @@
+{
+  "id": "9c2668e7-13b3-509b-acf7-1c527cb43f98",
+  "name": "Spiked Plate Armor",
+  "data": {
+    "tier": 3,
+    "thresholds": {
+      "major": 10,
+      "severe": 25
+    },
+    "score": 5
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

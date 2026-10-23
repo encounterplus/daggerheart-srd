@@ -1,0 +1,10 @@
+{
+  "id": "581677f4-c983-5f18-b5c7-00162e42ef0c",
+  "name": "Ghoulskin Gloves",
+  "descr": "When you attack with a physical weapon while wearing these gloves, the damage is considered both physical and magic.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

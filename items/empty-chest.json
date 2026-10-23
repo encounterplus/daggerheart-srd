@@ -1,0 +1,10 @@
+{
+  "id": "2cd75a34-4ac2-5340-9795-2a72cfbe83de",
+  "name": "Empty Chest",
+  "descr": "This magical chest appears empty. When you speak a specific trigger word or action and open the chest, you can see the items stored within it.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

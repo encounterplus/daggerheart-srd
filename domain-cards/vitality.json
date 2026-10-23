@@ -1,0 +1,16 @@
+{
+  "id": "c923da9b-c3db-58c0-9bf6-d57346bbdf9f",
+  "name": "Vitality",
+  "descr": "When you choose this card, permanently gain two of the following benefits:\n\n- One Stress slot\n- One Hit Point slot\n- +2 bonus to your damage thresholds Then place this card in your vault permanently.",
+  "data": {
+    "level": 5,
+    "recall": 0,
+    "type": "ability",
+    "domain": "blade"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

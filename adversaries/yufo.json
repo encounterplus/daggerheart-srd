@@ -1,0 +1,61 @@
+{
+  "id": "f7816526-9345-5dd4-8195-212eea9b6d21",
+  "name": "Yufo",
+  "descr": "A large, interdimensional jellyfishlike creature that floats in and out of the timestream.",
+  "data": {
+    "tier": 1,
+    "type": "social",
+    "motivesAndTactics": "Exchange information about possible timelines, feed on heightened emotions, watch from the shadows",
+    "difficulty": 14,
+    "thresholds": {
+      "major": 6,
+      "severe": 10
+    },
+    "hp": 3,
+    "stress": 5,
+    "attackModifier": -3,
+    "attack": {
+      "name": "Tentacle Lash",
+      "range": "veryClose",
+      "damage": "1d6+3",
+      "damageType": "phy"
+    },
+    "experience": [
+      {
+        "name": "Secrets",
+        "modifier": 3
+      },
+      {
+        "name": "Floating Oddity",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Telepathic",
+        "type": "passive",
+        "text": "The Yufo can mentally communicate with creatures within Very Far range."
+      },
+      {
+        "name": "Psychic Strongbox",
+        "type": "passive",
+        "text": "The Yufo is immune to abilities and features that would affect or alter its thoughts or emotions."
+      },
+      {
+        "name": "Glitch Wave",
+        "type": "action",
+        "text": "**Spend a Fear** and choose up to three targets within Close range. Each target must succeed on a Instinct Reaction Roll or become desynced from reality and have disadvantage on Instinct Rolls until they use a downtime move to ground their psyches in the now."
+      },
+      {
+        "name": "Temporal Corrosion",
+        "type": "reaction",
+        "text": "When the Yufo succeeds on a standard attack, you can **mark a Stress** to have the Yufo excrete an entropic acid through its skin, giving the target a -2 penalty to their damage thresholds until they use a downtime move to repair their armor."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

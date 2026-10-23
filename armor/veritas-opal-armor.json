@@ -1,0 +1,17 @@
+{
+  "id": "df2a8032-defa-59ff-9404-14f0c55ad8c4",
+  "name": "Veritas Opal Armor",
+  "data": {
+    "tier": 4,
+    "thresholds": {
+      "major": 13,
+      "severe": 36
+    },
+    "score": 6
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

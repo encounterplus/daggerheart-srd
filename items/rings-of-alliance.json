@@ -1,0 +1,10 @@
+{
+  "id": "23b931f4-49e1-5979-b366-7905197ee582",
+  "name": "Rings Of Alliance",
+  "descr": "Two creatures can wear this pair of rose gold rings. Once per session, you can initiate a Tag Team Roll with whoever is wearing the other ring without spending Hope or counting against your session limit for Tag Team Rolls.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

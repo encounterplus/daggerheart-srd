@@ -1,0 +1,19 @@
+{
+  "id": "630ee8ec-15e1-5399-b916-8519ce73043b",
+  "name": "Greatsword",
+  "data": {
+    "tier": 1,
+    "category": "primary",
+    "type": "physical",
+    "trait": "strength",
+    "range": "melee",
+    "damage": "d10+3",
+    "damageType": "phy",
+    "burden": "twoHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

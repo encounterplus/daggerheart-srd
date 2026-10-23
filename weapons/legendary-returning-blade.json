@@ -1,0 +1,19 @@
+{
+  "id": "714b9089-c170-514a-ac26-de3bf641bb13",
+  "name": "Legendary Returning Blade",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "magic",
+    "trait": "finesse",
+    "range": "close",
+    "damage": "d8+9",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

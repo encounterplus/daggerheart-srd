@@ -1,0 +1,10 @@
+{
+  "id": "9fa6d056-106a-5aa6-a671-1a74bce10063",
+  "name": "Gloves Of Alacrity",
+  "descr": "When you would mark a Stress to reload a weapon, you don't mark it.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

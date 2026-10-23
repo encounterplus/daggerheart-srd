@@ -1,0 +1,10 @@
+{
+  "id": "7a186eee-5e44-5110-b2bd-7a5985ad113d",
+  "name": "Demiurge’s Draught",
+  "descr": "You can drink this draught to gain a +1 bonus to your Proficiency for your next successful attack roll.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

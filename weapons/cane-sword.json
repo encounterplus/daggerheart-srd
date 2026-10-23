@@ -1,0 +1,19 @@
+{
+  "id": "c432b738-03b4-572d-9a38-74a9a6921b34",
+  "name": "Cane Sword",
+  "data": {
+    "tier": 2,
+    "category": "primary",
+    "type": "physical",
+    "trait": "finesse",
+    "range": "melee",
+    "damage": "d8+4",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "d9b25820-34b7-5c57-bf19-8cf23e967018",
+  "name": "Demon Of Jealousy",
+  "descr": "A fickle creature of spindly limbs and insatiable desires.",
+  "data": {
+    "tier": 3,
+    "type": "ranged",
+    "motivesAndTactics": "Join in on others' success, take what belongs to others, hold grudges",
+    "difficulty": 17,
+    "thresholds": {
+      "major": 17,
+      "severe": 30
+    },
+    "hp": 6,
+    "stress": 6,
+    "attackModifier": 4,
+    "attack": {
+      "name": "Psychic Assault",
+      "range": "far",
+      "damage": "3d8+3",
+      "damageType": "mag"
+    },
+    "experience": [
+      {
+        "name": "Manipulation",
+        "modifier": 3
+      }
+    ],
+    "features": [
+      {
+        "name": "Unprotected Mind",
+        "type": "passive",
+        "text": "The Demon's standard attack deals direct damage."
+      },
+      {
+        "name": "My Turn",
+        "type": "reaction",
+        "text": "When the Demon marks HP from an attack, **spend a number of Fear equal to the HP marked by the Demon** to cause the attacker to mark the same number of HP."
+      },
+      {
+        "name": "Rivalry",
+        "type": "reaction",
+        "text": "When a creature within Close range takes damage from a different adversary, you can **mark a Stress** to add a **d4** to the damage roll."
+      },
+      {
+        "name": "What's Yours Is Mine",
+        "type": "reaction",
+        "text": "When a PC takes Severe damage within Very Close range of the Demon, you can **spend a Fear** to cause the target to make a Finesse Reaction Roll. On a failure, the Demon seizes one item or consumable of their choice from the target's inventory."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "e1a0f854-65bb-5ad7-8cd2-d33eb3256697",
+  "name": "Redthorn Saliva",
+  "descr": "You can apply this saliva to a weapon that deals physical damage to add a d12 to your next damage roll with that weapon.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "a561fe07-edfd-5caa-a8d1-d3a0796b1afe",
+  "name": "Hatchet",
+  "data": {
+    "tier": 1,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "agility",
+    "range": "melee",
+    "damage": "d8",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

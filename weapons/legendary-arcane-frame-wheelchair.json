@@ -1,0 +1,19 @@
+{
+  "id": "3345c72c-5166-5d51-b8b6-621d2a388446",
+  "name": "Legendary Arcane-frame Wheelchair",
+  "data": {
+    "tier": 4,
+    "category": "primary",
+    "type": "magic",
+    "trait": "spellcast",
+    "range": "far",
+    "damage": "d6+9",
+    "damageType": "mag",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

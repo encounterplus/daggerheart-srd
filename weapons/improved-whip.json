@@ -1,0 +1,19 @@
+{
+  "id": "8417c05a-c223-5789-9970-f12f2425fe0c",
+  "name": "Improved Whip",
+  "data": {
+    "tier": 2,
+    "category": "secondary",
+    "type": "physical",
+    "trait": "presence",
+    "range": "veryClose",
+    "damage": "d6+2",
+    "damageType": "phy",
+    "burden": "oneHanded"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

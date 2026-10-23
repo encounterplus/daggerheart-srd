@@ -1,0 +1,16 @@
+{
+  "id": "a7340b13-9ec6-53d5-8fb1-78a624291845",
+  "name": "Valor-touched",
+  "descr": "When 4 or more of the domain cards in your loadout are from the Valor domain, gain the following benefits:\n\n- +1 bonus to your Armor Score\n- When you mark 1 or more Hit Points without marking an Armor Slot, clear an Armor Slot.",
+  "data": {
+    "level": 7,
+    "recall": 1,
+    "type": "ability",
+    "domain": "valor"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "1e15fc1b-8e9b-5978-9999-4a7e25d156cf",
+  "name": "Escher’s Mirrorball",
+  "descr": "Once per long rest, you can command this fist-sized silver orb to capture an omnidirectional image of its surroundings on its surface. This image lasts until your next long rest.",
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

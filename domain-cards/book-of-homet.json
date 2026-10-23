@@ -1,0 +1,16 @@
+{
+  "id": "c16ae672-b5a4-5450-88fe-0915bc90c013",
+  "name": "Book of Homet",
+  "descr": "_Pass Through:_ Make a **Spellcast Roll (13)**. Once per rest on a success, you and all creatures touching you can pass through a wall or door within Close range. The effect ends once everyone is on the other side.\n\n_Plane Gate:_ Make a **Spellcast Roll (14)**. Once per long rest on a success, open a gateway to a location in another dimension or plane of existence you've been to before. This gateway lasts until your next rest.",
+  "data": {
+    "level": 7,
+    "recall": 0,
+    "type": "grimoire",
+    "domain": "codex"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}
