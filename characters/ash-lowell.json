@@ -1,0 +1,200 @@
+{
+  "id": "9842cb83-f61c-5391-80e4-f25addbf9e56",
+  "name": "Ash Lowell",
+  "descr": "Ash Lowell grew up with a clan hidden deep in the forest and trusts their bow more than words. They prefer to act first and sort out the questions afterwards.",
+  "data": {
+    "level": 1,
+    "pronouns": "they/them",
+    "ancestry": {
+      "name": "Katari",
+      "reference": "/ancestry/katari/srd-2-0",
+      "features": [
+        {
+          "name": "Feline Instincts",
+          "text": "When you make an Agility Roll, you can **spend 2 Hope** to reroll your Hope Die."
+        },
+        {
+          "name": "Retracting Claws",
+          "text": "Make an **Agility Roll** to scratch a target within Melee range. On a success, they become temporarily _Vulnerable._"
+        }
+      ]
+    },
+    "community": {
+      "name": "Wildborne",
+      "reference": "/community/wildborne/srd-2-0",
+      "features": [
+        {
+          "name": "Lightfoot",
+          "text": "Your movement is naturally silent. You have advantage on rolls to move without being heard."
+        }
+      ]
+    },
+    "class": {
+      "name": "Ranger",
+      "reference": "/class/ranger/srd-2-0",
+      "domains": [
+        "bone",
+        "sage"
+      ],
+      "evasion": 12,
+      "hp": 6,
+      "hopeFeature": {
+        "name": "Hold Them Off",
+        "text": "**Spend 3 Hope** when you succeed on an attack with a weapon to use that same roll against two additional adversaries within range of the attack."
+      },
+      "features": [
+        {
+          "name": "Ranger's Focus",
+          "text": "**Spend a Hope** and make an attack against a target. On a success, deal your attack's normal damage and temporarily make the attack's target your _Focus_. Until this feature ends or you make a different creature your _Focus_, you gain the following benefits against your _Focus:_\n\n- You know precisely what direction they are in.\n- When you deal damage to them, they must mark a Stress.\n- When you fail an attack against them, you can end your Ranger's Focus feature to reroll your Duality Dice."
+        }
+      ]
+    },
+    "subclass": {
+      "name": "Wayfinder",
+      "reference": "/subclass/wayfinder/srd-2-0",
+      "rank": "foundation",
+      "spellcastTrait": "agility",
+      "foundations": [
+        {
+          "name": "Ruthless Predator",
+          "text": "When you make a damage roll, you can **mark a Stress** to gain a +1 bonus to your Proficiency. Additionally, when you deal Severe damage to an adversary, they must mark a Stress."
+        },
+        {
+          "name": "Path Forward",
+          "text": "When you're traveling to a place you've previously visited or you carry an object that has been at the location before, you can identify the shortest, most direct path to your destination."
+        }
+      ],
+      "specializations": [
+        {
+          "name": "Elusive Predator",
+          "text": "When your Focus makes an attack against you, you gain a +2 bonus to your Evasion against the attack."
+        }
+      ],
+      "masteries": [
+        {
+          "name": "Apex Predator",
+          "text": "Before you make an attack roll against your _Focus_, you can **spend a Hope.** On a successful attack, you remove a Fear from the GM's Fear pool."
+        }
+      ]
+    },
+    "traits": {
+      "agility": 2,
+      "strength": 0,
+      "finesse": 1,
+      "instinct": 1,
+      "presence": -1,
+      "knowledge": 0
+    },
+    "proficiency": 1,
+    "hp": {
+      "current": 0,
+      "maximum": 6
+    },
+    "stress": {
+      "current": 0,
+      "maximum": 6
+    },
+    "hope": 2,
+    "experiences": [
+      {
+        "id": "2bc73ebf7c4d",
+        "name": "Keen Eyes",
+        "modifier": 2
+      },
+      {
+        "id": "6e3004f72d79",
+        "name": "Woodland Guide",
+        "modifier": 2
+      }
+    ],
+    "armor": {
+      "name": "Leather Armor",
+      "reference": "/armor/leather-armor/srd-2-0",
+      "tier": 1,
+      "thresholds": {
+        "major": 6,
+        "severe": 13
+      },
+      "score": 3
+    },
+    "weapons": [
+      {
+        "name": "Shortbow",
+        "reference": "/weapon/shortbow/srd-2-0",
+        "equipped": true,
+        "tier": 1,
+        "category": "primary",
+        "type": "physical",
+        "trait": "agility",
+        "range": "far",
+        "damage": "d6+3",
+        "damageType": "phy",
+        "burden": "twoHanded"
+      }
+    ],
+    "gold": {
+      "handfuls": 1
+    },
+    "inventory": [
+      {
+        "name": "Torch"
+      },
+      {
+        "name": "50 Feet of Rope"
+      },
+      {
+        "name": "Basic Supplies"
+      },
+      {
+        "name": "Minor Stamina Potion",
+        "reference": "/consumable/minor-stamina-potion/srd-2-0",
+        "descr": "Clear 1d4 Stress."
+      },
+      {
+        "name": "First-Kill Trophy",
+        "descr": "A curved fang on a leather cord, from the first beast Ash ever brought down."
+      }
+    ],
+    "domainCards": [
+      {
+        "id": "c65019d5b5d6",
+        "name": "Vicious Entangle",
+        "reference": "/domain-card/vicious-entangle/srd-2-0",
+        "level": 1,
+        "recall": 1,
+        "type": "spell",
+        "domain": "sage",
+        "descr": "Make a **Spellcast Roll** against a target within Far range. On a success, roots and vines reach out from the ground, dealing **1d8+1** physical damage and temporarily _Restraining_ the target.\n\nAdditionally on a success, you can **spend a Hope** to temporarily _Restrain_ another adversary within Very Close range of your target.",
+        "vault": false
+      },
+      {
+        "id": "65cd054a37a0",
+        "name": "Untouchable",
+        "reference": "/domain-card/untouchable/srd-2-0",
+        "level": 1,
+        "recall": 1,
+        "type": "ability",
+        "domain": "bone",
+        "descr": "Gain a bonus to your Evasion equal to half your Agility.",
+        "vault": false
+      }
+    ],
+    "appearance": {
+      "clothes": "Mossy greens and browns that blend into the trees",
+      "eyes": "Amber with slit pupils",
+      "body": "Lean and quick",
+      "skin": "Soft grey fur striped with black",
+      "attitude": "Watchful, impatient and decisive"
+    },
+    "background": "Ash was raised among the treetop villages of a secretive forest clan, where they learned to read every broken twig and bent blade of grass. For years they have tracked a strange beast that no one else believes exists, and every new forest might be the one where they finally find it.",
+    "connections": "- What friendly competition do we have?\n\n- Why do you act differently when we're alone than when others are around?\n\n- What threat have you asked me to watch for, and why are you worried about it?\n\n",
+    "bonuses": {
+      "evasion": 1
+    }
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

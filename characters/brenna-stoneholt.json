@@ -1,0 +1,208 @@
+{
+  "id": "85d8a584-a059-5731-ab7e-fc1716790046",
+  "name": "Brenna Stoneholt",
+  "descr": "Brenna Stoneholt was raised on the high ridges, where the wind is cold and the people are colder. She has carried an axe for as long as she can remember and has no patience for fools.",
+  "data": {
+    "level": 1,
+    "pronouns": "she/her",
+    "ancestry": {
+      "name": "Giant",
+      "reference": "/ancestry/giant/srd-2-0",
+      "features": [
+        {
+          "name": "Endurance",
+          "text": "Gain an additional Hit Point slot at character creation."
+        },
+        {
+          "name": "Reach",
+          "text": "Treat any weapon, ability, spell, or other feature that has a Melee range as though it has a Very Close range instead."
+        }
+      ]
+    },
+    "community": {
+      "name": "Ridgeborne",
+      "reference": "/community/ridgeborne/srd-2-0",
+      "features": [
+        {
+          "name": "Steady",
+          "text": "You have advantage on rolls to traverse dangerous cliffs and ledges, navigate harsh environments, and use your survival knowledge."
+        }
+      ]
+    },
+    "class": {
+      "name": "Guardian",
+      "reference": "/class/guardian/srd-2-0",
+      "domains": [
+        "valor",
+        "blade"
+      ],
+      "evasion": 9,
+      "hp": 7,
+      "hopeFeature": {
+        "name": "Frontline Tank",
+        "text": "**Spend 3 Hope** to clear 2 Armor Slots."
+      },
+      "features": [
+        {
+          "name": "Unstoppable",
+          "text": "Once per long rest, you can become _Unstoppable._ You gain an Unstoppable Die. At level 1, your Unstoppable Die is a **d4.** Place it on your character sheet in the space provided, starting with the 1 value facing up. After you make a damage roll that deals 1 or more Hit Points to a target, increase the Unstoppable Die value by one. When the die's value would exceed its maximum value or when the scene ends, remove the die and drop out of _Unstoppable_. At level 5, your Unstoppable Die increases to a **d6.**\n\nWhile _Unstoppable_, you gain the following benefits:\n\n- You reduce the severity of physical damage by one threshold (Severe to Major, Major to Minor, Minor to None).\n- You add the current value of the Unstoppable Die to your damage roll.\n- You can't be _Restrained_ or _Vulnerable_."
+        },
+        {
+          "name": "Tip",
+          "text": "_If your Unstoppable Die is a d4 and the 4 is_ _currently facing up, you remove the die the next time_ _you would increase it. However, if your Unstoppable Die_ _has increased to a d6 and the 4 is currently facing up,_ _you'll turn it to 5 the next time you would increase it. In_ _this case, you'll remove the die after you would need to_ _increase it higher than 6._"
+        }
+      ]
+    },
+    "subclass": {
+      "name": "Stalwart",
+      "reference": "/subclass/stalwart/srd-2-0",
+      "rank": "foundation",
+      "foundations": [
+        {
+          "name": "Unwavering",
+          "text": "Gain a permanent +1 bonus to your damage thresholds."
+        },
+        {
+          "name": "Iron Will",
+          "text": "When you take physical damage, you can **mark an additional Armor Slot** to reduce the severity."
+        }
+      ],
+      "specializations": [
+        {
+          "name": "Unrelenting",
+          "text": "Gain a permanent +2 bonus to your damage thresholds."
+        },
+        {
+          "name": "Partners-in-Arms",
+          "text": "When an ally within Very Close range takes damage, you can **mark an Armor Slot** to reduce the severity by one threshold."
+        }
+      ],
+      "masteries": [
+        {
+          "name": "Undaunted",
+          "text": "Gain a permanent +3 bonus to your damage thresholds."
+        },
+        {
+          "name": "Loyal Protector",
+          "text": "When an ally within Close range has 2 or fewer Hit Points and would take damage, you can **mark a Stress** to sprint to their side and take the damage instead."
+        }
+      ]
+    },
+    "traits": {
+      "agility": 0,
+      "strength": 2,
+      "finesse": -1,
+      "instinct": 1,
+      "presence": 0,
+      "knowledge": 1
+    },
+    "proficiency": 1,
+    "hp": {
+      "current": 0,
+      "maximum": 8
+    },
+    "stress": {
+      "current": 0,
+      "maximum": 6
+    },
+    "hope": 2,
+    "experiences": [
+      {
+        "id": "5e1740cd3d77",
+        "name": "Stand Your Ground",
+        "modifier": 2
+      },
+      {
+        "id": "45872b2ad069",
+        "name": "Mountain Climber",
+        "modifier": 2
+      }
+    ],
+    "armor": {
+      "name": "Chainmail Armor",
+      "reference": "/armor/chainmail-armor/srd-2-0",
+      "tier": 1,
+      "thresholds": {
+        "major": 7,
+        "severe": 15
+      },
+      "score": 4
+    },
+    "weapons": [
+      {
+        "name": "Battleaxe",
+        "reference": "/weapon/battleaxe/srd-2-0",
+        "equipped": true,
+        "tier": 1,
+        "category": "primary",
+        "type": "physical",
+        "trait": "strength",
+        "range": "melee",
+        "damage": "d10+3",
+        "damageType": "phy",
+        "burden": "twoHanded"
+      }
+    ],
+    "gold": {
+      "handfuls": 1
+    },
+    "inventory": [
+      {
+        "name": "Torch"
+      },
+      {
+        "name": "50 Feet of Rope"
+      },
+      {
+        "name": "Basic Supplies"
+      },
+      {
+        "name": "Minor Health Potion",
+        "reference": "/consumable/minor-health-potion/srd-2-0",
+        "descr": "Clear 1d4 HP."
+      },
+      {
+        "name": "Mentor's Totem",
+        "descr": "A small carved stone bear, given to her by the guardian who trained her."
+      }
+    ],
+    "domainCards": [
+      {
+        "id": "62a19e6d7d04",
+        "name": "Whirlwind",
+        "reference": "/domain-card/whirlwind/srd-2-0",
+        "level": 1,
+        "recall": 0,
+        "type": "ability",
+        "domain": "blade",
+        "descr": "When you make a successful attack against a target within Very Close range, you can **spend a Hope** to use the attack against all other targets within Very Close range. All additional adversaries you succeed against with this ability take half damage.",
+        "vault": false
+      },
+      {
+        "id": "4dfb36ab3267",
+        "name": "I Am Your Shield",
+        "reference": "/domain-card/i-am-your-shield/srd-2-0",
+        "level": 1,
+        "recall": 1,
+        "type": "ability",
+        "domain": "valor",
+        "descr": "When an ally within Very Close range would take damage, you can **mark a Stress** to stand in the way and make yourself the target of the attack instead. When you take damage from this attack, you can mark any number of Armor Slots.",
+        "vault": false
+      }
+    ],
+    "appearance": {
+      "clothes": "Heavy chainmail and a fur-trimmed cloak",
+      "eyes": "Two, steel grey",
+      "body": "Towering and powerfully built",
+      "skin": "Ruddy and wind-chapped",
+      "attitude": "Dry-humored, blunt and fiercely loyal"
+    },
+    "background": "Brenna's clan guards the mountain passes, and she learned early that a guardian's place is between danger and the people behind her. She left the ridges to see what lies beyond them, but she still measures every place she visits by how well she could defend it.",
+    "connections": "- How did I save your life the first time we met?\n\n- What small gift did you give me that you notice I always carry with me?\n\n- What lie have you told me about yourself that I absolutely believe?\n\n"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

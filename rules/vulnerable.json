@@ -1,0 +1,14 @@
+{
+  "id": "dae677d2-4caf-54a1-ad98-f862941cdd4f",
+  "name": "Vulnerable",
+  "type": "condition",
+  "descr": "When a creature is Vulnerable, all rolls targeting them have advantage.",
+  "data": {
+    "icon": "gi-broken-shield"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

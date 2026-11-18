@@ -32,6 +32,7 @@ const COLLECTIONS = [
   "ancestries",
   "armor",
   "beastforms",
+  "characters",
   "classes",
   "communities",
   "consumables",

@@ -1,0 +1,200 @@
+{
+  "id": "33358879-85cd-5e26-88b9-083e621460de",
+  "name": "Aldric Thorne",
+  "descr": "Aldric Thorne was born to a noble house and trained as an officer in a foreign army, until he walked away from a war he could no longer believe in. He meets every conflict with good manners first and a longsword second.",
+  "data": {
+    "level": 1,
+    "pronouns": "he/him",
+    "ancestry": {
+      "name": "Human",
+      "reference": "/ancestry/human/srd-2-0",
+      "features": [
+        {
+          "name": "High Stamina",
+          "text": "Gain an additional Stress slot at character creation."
+        },
+        {
+          "name": "Adaptability",
+          "text": "When you fail a roll that utilized one of your Experiences, you can **mark a Stress** to reroll."
+        }
+      ]
+    },
+    "community": {
+      "name": "Highborne",
+      "reference": "/community/highborne/srd-2-0",
+      "features": [
+        {
+          "name": "Privilege",
+          "text": "You have advantage on rolls to consort with nobles, negotiate prices, or leverage your reputation to get what you want."
+        }
+      ]
+    },
+    "class": {
+      "name": "Warrior",
+      "reference": "/class/warrior/srd-2-0",
+      "domains": [
+        "blade",
+        "bone"
+      ],
+      "evasion": 11,
+      "hp": 6,
+      "hopeFeature": {
+        "name": "No Mercy",
+        "text": "**Spend 3 Hope** to gain a +1 bonus to your attack rolls until your next rest."
+      },
+      "features": [
+        {
+          "name": "Attack of Opportunity",
+          "text": "If an adversary within Melee range attempts to leave that range, make a reaction roll using a trait of your choice against their Difficulty. Choose one effect on a success, or two if you critically succeed:\n\n- They can't move from where they are.\n- You deal damage to them equal to your primary weapon's damage.\n- You move with them."
+        },
+        {
+          "name": "Combat Training",
+          "text": "You ignore burden when equipping weapons. When you deal physical damage, you gain a bonus to your damage roll equal to your level."
+        }
+      ]
+    },
+    "subclass": {
+      "name": "Call of the Brave",
+      "reference": "/subclass/call-of-the-brave/srd-2-0",
+      "rank": "foundation",
+      "foundations": [
+        {
+          "name": "Courage",
+          "text": "When you fail a roll with Fear, you gain a Hope."
+        },
+        {
+          "name": "Battle Ritual",
+          "text": "Once per long rest, before you attempt something incredibly dangerous or face off against a foe who clearly outmatches you, describe what ritual you perform or preparations you make. When you do, clear 2 Stress and gain 2 Hope."
+        }
+      ],
+      "specializations": [
+        {
+          "name": "Rise to the Challenge",
+          "text": "You are vigilant in the face of mounting danger. While you have 2 or fewer Hit Points unmarked, you can roll a **d20** as your Hope Die."
+        }
+      ],
+      "masteries": [
+        {
+          "name": "Camaraderie",
+          "text": "Your unwavering bravery is a rallying point for your allies. You can initiate a Tag Team Roll one additional time per session. Additionally, when an ally initiates a Tag Team Roll with you, they only need to spend 2 Hope to do so."
+        }
+      ]
+    },
+    "traits": {
+      "agility": 2,
+      "strength": 1,
+      "finesse": 1,
+      "instinct": 0,
+      "presence": -1,
+      "knowledge": 0
+    },
+    "proficiency": 1,
+    "hp": {
+      "current": 0,
+      "maximum": 6
+    },
+    "stress": {
+      "current": 0,
+      "maximum": 7
+    },
+    "hope": 2,
+    "experiences": [
+      {
+        "id": "2ad5cb9d5ff5",
+        "name": "Disarming Smile",
+        "modifier": 2
+      },
+      {
+        "id": "8c2c5690dfe3",
+        "name": "Veteran Soldier",
+        "modifier": 2
+      }
+    ],
+    "armor": {
+      "name": "Leather Armor",
+      "reference": "/armor/leather-armor/srd-2-0",
+      "tier": 1,
+      "thresholds": {
+        "major": 6,
+        "severe": 13
+      },
+      "score": 3
+    },
+    "weapons": [
+      {
+        "name": "Longsword",
+        "reference": "/weapon/longsword/srd-2-0",
+        "equipped": true,
+        "tier": 1,
+        "category": "primary",
+        "type": "physical",
+        "trait": "agility",
+        "range": "melee",
+        "damage": "d10+3",
+        "damageType": "phy",
+        "burden": "twoHanded"
+      }
+    ],
+    "gold": {
+      "handfuls": 1
+    },
+    "inventory": [
+      {
+        "name": "Torch"
+      },
+      {
+        "name": "50 Feet of Rope"
+      },
+      {
+        "name": "Basic Supplies"
+      },
+      {
+        "name": "Minor Health Potion",
+        "reference": "/consumable/minor-health-potion/srd-2-0",
+        "descr": "Clear 1d4 HP."
+      },
+      {
+        "name": "Sharpening Stone",
+        "descr": "A worn whetstone that has kept his blade keen through many campaigns."
+      }
+    ],
+    "domainCards": [
+      {
+        "id": "3f815ccea1dd",
+        "name": "Not Good Enough",
+        "reference": "/domain-card/not-good-enough/srd-2-0",
+        "level": 1,
+        "recall": 1,
+        "type": "ability",
+        "domain": "blade",
+        "descr": "When you roll your damage dice, you can reroll any 1s or 2s.",
+        "vault": false
+      },
+      {
+        "id": "b998321725c9",
+        "name": "I See It Coming",
+        "reference": "/domain-card/i-see-it-coming/srd-2-0",
+        "level": 1,
+        "recall": 1,
+        "type": "ability",
+        "domain": "bone",
+        "descr": "When you're targeted by an attack made from beyond Melee range, you can **mark a Stress** to roll a **d4** and gain a bonus to your Evasion equal to the result against the attack.",
+        "vault": false
+      }
+    ],
+    "appearance": {
+      "clothes": "A fine but travel-worn noble's coat over his armor",
+      "eyes": "Warm brown",
+      "body": "Broad-shouldered and scarred",
+      "skin": "Sun-weathered",
+      "attitude": "Courteous, generous and slow to anger"
+    },
+    "background": "Aldric left his commission when he was ordered to burn a village that had already surrendered. His family name still opens doors, but he would rather be known for his deeds than his lineage. He believes that kindness is a weapon most people forget to carry.",
+    "connections": "- We knew each other long before this party came together. How?\n\n- What mundane task do you usually help me with off the battlefield?\n\n- What fear am I helping you overcome?\n\n"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

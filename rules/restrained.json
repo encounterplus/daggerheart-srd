@@ -1,0 +1,14 @@
+{
+  "id": "96c9e9da-c97b-5b74-8efb-1d5707ceaaf2",
+  "name": "Restrained",
+  "type": "condition",
+  "descr": "Restrained characters can't move, but you can still take actions from their current position.",
+  "data": {
+    "icon": "gi-manacles"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

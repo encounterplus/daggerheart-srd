@@ -1,0 +1,205 @@
+{
+  "id": "53aa46a0-3454-5e8a-ac85-63c1dc310cf9",
+  "name": "Pip Mudwhistle",
+  "descr": "Pip Mudwhistle grew up in the tunnels of a cavern city, where he learned that every lock has a weakness and every guard has a price. He talks his way into trouble and slips out through the shadows.",
+  "data": {
+    "level": 1,
+    "pronouns": "he/him",
+    "ancestry": {
+      "name": "Ribbet",
+      "reference": "/ancestry/ribbet/srd-2-0",
+      "features": [
+        {
+          "name": "Amphibious",
+          "text": "You can breathe and move naturally underwater."
+        },
+        {
+          "name": "Long Tongue",
+          "text": "You can use your long tongue to grab onto things within Close range. **Mark a Stress** to use your tongue as a Finesse Close weapon that deals **d12** physical damage using your Proficiency."
+        }
+      ]
+    },
+    "community": {
+      "name": "Underborne",
+      "reference": "/community/underborne/srd-2-0",
+      "features": [
+        {
+          "name": "Low-Light Living",
+          "text": "When you're in an area with low light or heavy shadow, you have advantage on rolls to hide, investigate, or perceive details within that area."
+        }
+      ]
+    },
+    "class": {
+      "name": "Rogue",
+      "reference": "/class/rogue/srd-2-0",
+      "domains": [
+        "midnight",
+        "grace"
+      ],
+      "evasion": 12,
+      "hp": 6,
+      "hopeFeature": {
+        "name": "Rogue's Dodge",
+        "text": "**Spend 3 Hope** to gain a +2 bonus to your Evasion until the next time an attack succeeds against you. Otherwise, this bonus lasts until your next rest."
+      },
+      "features": [
+        {
+          "name": "Cloaked",
+          "text": "Any time you would be _Hidden,_ you are instead _Cloaked._ In addition to the benefits of the _Hidden_ condition, while _Cloaked_ you remain unseen if you are stationary when an adversary moves to where they would normally see you. After you make an attack or end a move within line of sight of an adversary, you are no longer _Cloaked_."
+        },
+        {
+          "name": "Sneak Attack",
+          "text": "When you succeed on an attack while _Cloaked_ or while an ally is within Melee range of your target, add a number of **d6s** equal to your tier to your damage roll.\n\n- Level 1 → Tier 1\n- Levels 2-4 → Tier 2\n- Levels 5-7 → Tier 3\n- Levels 8-10 → Tier 4"
+        }
+      ]
+    },
+    "subclass": {
+      "name": "Nightwalker",
+      "reference": "/subclass/nightwalker/srd-2-0",
+      "rank": "foundation",
+      "spellcastTrait": "finesse",
+      "foundations": [
+        {
+          "name": "Shadow Stepper",
+          "text": "You can move from shadow to shadow. When you move into an area of darkness or a shadow cast by another creature or object, you can **mark a Stress** to disappear from where you are and reappear inside another shadow within Far range. When you reappear, you are _Cloaked._"
+        }
+      ],
+      "specializations": [
+        {
+          "name": "Dark Cloud",
+          "text": "Make a **Spellcast Roll (15).** On a success, create a temporary dark cloud that covers any area within Close range. Anyone in this cloud can't see outside of it, and anyone outside of it can't see in. You're considered _Cloaked_ from any adversary for whom the cloud blocks line of sight."
+        },
+        {
+          "name": "Adrenaline",
+          "text": "While you're _Vulnerable,_ add your level to your damage rolls."
+        }
+      ],
+      "masteries": [
+        {
+          "name": "Fleeting Shadow",
+          "text": "Gain a permanent +1 bonus to your Evasion. You can use your \"Shadow Stepper\" feature to move within Very Far range."
+        },
+        {
+          "name": "Vanishing Act",
+          "text": "**Mark a Stress** to become _Cloaked_ at any time. When _Cloaked_ from this feature, you automatically clear the _Restrained_ condition if you have it. You remain _Cloaked_ in this way until you roll with Fear or until your next rest."
+        }
+      ]
+    },
+    "traits": {
+      "agility": 1,
+      "strength": -1,
+      "finesse": 2,
+      "instinct": 0,
+      "presence": 1,
+      "knowledge": 0
+    },
+    "proficiency": 1,
+    "hp": {
+      "current": 0,
+      "maximum": 6
+    },
+    "stress": {
+      "current": 0,
+      "maximum": 6
+    },
+    "hope": 2,
+    "experiences": [
+      {
+        "id": "f1b8c12e2a40",
+        "name": "Quick Fingers",
+        "modifier": 2
+      },
+      {
+        "id": "1bdc19c815c6",
+        "name": "Silver Tongue",
+        "modifier": 2
+      }
+    ],
+    "armor": {
+      "name": "Gambeson Armor",
+      "reference": "/armor/gambeson-armor/srd-2-0",
+      "tier": 1,
+      "thresholds": {
+        "major": 5,
+        "severe": 11
+      },
+      "score": 3
+    },
+    "weapons": [
+      {
+        "name": "Dagger",
+        "reference": "/weapon/dagger/srd-2-0",
+        "equipped": true,
+        "tier": 1,
+        "category": "primary",
+        "type": "physical",
+        "trait": "finesse",
+        "range": "melee",
+        "damage": "d8+1",
+        "damageType": "phy",
+        "burden": "oneHanded"
+      }
+    ],
+    "gold": {
+      "handfuls": 1
+    },
+    "inventory": [
+      {
+        "name": "Torch"
+      },
+      {
+        "name": "50 Feet of Rope"
+      },
+      {
+        "name": "Basic Supplies"
+      },
+      {
+        "name": "Minor Stamina Potion",
+        "reference": "/consumable/minor-stamina-potion/srd-2-0",
+        "descr": "Clear 1d4 Stress."
+      },
+      {
+        "name": "Grappling Hook",
+        "descr": "A collapsible iron hook on a length of knotted cord."
+      }
+    ],
+    "domainCards": [
+      {
+        "id": "574e9154bc22",
+        "name": "Pick and Pull",
+        "reference": "/domain-card/pick-and-pull/srd-2-0",
+        "level": 1,
+        "recall": 0,
+        "type": "ability",
+        "domain": "midnight",
+        "descr": "You have advantage on action rolls to pick nonmagical locks, disarm nonmagical traps, or steal items from a target (either through stealth or by force).",
+        "vault": false
+      },
+      {
+        "id": "d7a67484eb14",
+        "name": "Inspirational Words",
+        "reference": "/domain-card/inspirational-words/srd-2-0",
+        "level": 1,
+        "recall": 1,
+        "type": "ability",
+        "domain": "grace",
+        "descr": "Your speech is imbued with power. After a long rest, place a number of tokens on this card equal to your Presence. When you speak with an ally, you can spend a token from this card to give them one benefit from the following options:\n\n- Your ally clears a Stress.\n- Your ally clears a Hit Point.\n- Your ally gains a Hope.\n\nWhen you take a long rest, clear all unspent tokens.",
+        "vault": false
+      }
+    ],
+    "appearance": {
+      "clothes": "Patched leathers with far too many pockets",
+      "eyes": "Huge, golden and unblinking",
+      "body": "Small and springy",
+      "skin": "Mottled green and brown",
+      "attitude": "Cheerful, nosy and always bargaining"
+    },
+    "background": "Pip ran messages, and occasionally other people's purses, through the twisting tunnels of his underground home. A deal gone sour forced him to the surface, where the sky still makes him dizzy. Despite being a ribbet, he hates deep water and refuses to swim, a secret he guards closely.",
+    "connections": "- What did I recently convince you to do that got us both in trouble?\n\n- What have I discovered about your past that I hold secret from the others?\n\n- Who do you know from my past, and how have they influenced your feelings about me?\n\n"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

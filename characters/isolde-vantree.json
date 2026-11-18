@@ -1,0 +1,201 @@
+{
+  "id": "172e23a4-ad28-5294-8c5f-67891eb2b5cc",
+  "name": "Isolde Vantree",
+  "descr": "Isolde Vantree is a court arcanist whose quiet manner hides a storm of raw, primal magic. She studied in the great libraries of her people, but no book ever taught her how to hold back what burns inside her.",
+  "data": {
+    "level": 1,
+    "pronouns": "she/her",
+    "ancestry": {
+      "name": "Elf",
+      "reference": "/ancestry/elf/srd-2-0",
+      "features": [
+        {
+          "name": "Quick Reactions",
+          "text": "**Mark a Stress** to gain advantage on a reaction roll."
+        },
+        {
+          "name": "Celestial Trance",
+          "text": "During a rest, you can drop into a trance to choose an additional downtime move."
+        }
+      ]
+    },
+    "community": {
+      "name": "Loreborne",
+      "reference": "/community/loreborne/srd-2-0",
+      "features": [
+        {
+          "name": "Well-Read",
+          "text": "You have advantage on rolls that involve the history, culture, or politics of a prominent person or place."
+        }
+      ]
+    },
+    "class": {
+      "name": "Sorcerer",
+      "reference": "/class/sorcerer/srd-2-0",
+      "domains": [
+        "arcana",
+        "midnight"
+      ],
+      "evasion": 10,
+      "hp": 6,
+      "hopeFeature": {
+        "name": "Volatile Magic",
+        "text": "**Spend 3 Hope** to reroll any number of your damage dice on an attack that deals magic damage."
+      },
+      "features": [
+        {
+          "name": "Arcane Sense",
+          "text": "You can sense the presence of magical people and objects within Close range."
+        },
+        {
+          "name": "Minor Illusion",
+          "text": "Make a **Spellcast Roll (10).** On a success, you create a minor visual illusion no larger than yourself within Close range. This illusion is convincing to anyone at Close range or farther."
+        },
+        {
+          "name": "Channel Raw Power",
+          "text": "Once per long rest, you can place a domain card from your loadout into your vault and choose to either:\n\n- Gain Hope equal to the level of the card.\n- Enhance a spell that deals damage, gaining a bonus to your damage roll equal to twice the level of the card."
+        }
+      ]
+    },
+    "subclass": {
+      "name": "Primal Origin",
+      "reference": "/subclass/primal-origin/srd-2-0",
+      "rank": "foundation",
+      "spellcastTrait": "instinct",
+      "foundations": [
+        {
+          "name": "Manipulate Magic",
+          "text": "Your primal origin allows you to modify the essence of magic itself. After you cast a spell or make an attack using a weapon that deals magic damage, you can **mark a Stress** to do one of the following:\n\n- Extend the spell or attack's reach by one range\n- Gain a +2 bonus to the action roll's result\n- Double a damage die of your choice\n- Hit an additional target within range"
+        }
+      ],
+      "specializations": [
+        {
+          "name": "Enchanted Aid",
+          "text": "You can enhance the magic of others with your essence. When you Help an Ally with a Spellcast Roll, you can roll a **d8** as your advantage die. Once per long rest, after an ally has made a Spellcast Roll with your help, you can swap the results of their Duality Dice."
+        }
+      ],
+      "masteries": [
+        {
+          "name": "Arcane Charge",
+          "text": "You can gather magical energy to enhance your capabilities. When you take magic damage, you become _Charged_. Alternatively, you can **spend 2 Hope** to become _Charged_. When you successfully make an attack that deals magic damage while _Charged_, you can clear your _Charge_ to either gain a +10 bonus to the damage roll or gain a +3 bonus to the Difficulty of a reaction roll the spell causes the target to make. You stop being _Charged_ at your next long rest."
+        }
+      ]
+    },
+    "traits": {
+      "agility": 0,
+      "strength": -1,
+      "finesse": 1,
+      "instinct": 2,
+      "presence": 1,
+      "knowledge": 0
+    },
+    "proficiency": 1,
+    "hp": {
+      "current": 0,
+      "maximum": 6
+    },
+    "stress": {
+      "current": 0,
+      "maximum": 6
+    },
+    "hope": 2,
+    "experiences": [
+      {
+        "id": "4f3ba1dc9f07",
+        "name": "Court Arcanist",
+        "modifier": 2
+      },
+      {
+        "id": "749a8fe68bf8",
+        "name": "Calm Before the Storm",
+        "modifier": 2
+      }
+    ],
+    "armor": {
+      "name": "Leather Armor",
+      "reference": "/armor/leather-armor/srd-2-0",
+      "tier": 1,
+      "thresholds": {
+        "major": 6,
+        "severe": 13
+      },
+      "score": 3
+    },
+    "weapons": [
+      {
+        "name": "Dualstaff",
+        "reference": "/weapon/dualstaff/srd-2-0",
+        "equipped": true,
+        "tier": 1,
+        "category": "primary",
+        "type": "magic",
+        "trait": "instinct",
+        "range": "far",
+        "damage": "d6+3",
+        "damageType": "mag",
+        "burden": "twoHanded"
+      }
+    ],
+    "gold": {
+      "handfuls": 1
+    },
+    "inventory": [
+      {
+        "name": "Torch"
+      },
+      {
+        "name": "50 Feet of Rope"
+      },
+      {
+        "name": "Basic Supplies"
+      },
+      {
+        "name": "Minor Stamina Potion",
+        "reference": "/consumable/minor-stamina-potion/srd-2-0",
+        "descr": "Clear 1d4 Stress."
+      },
+      {
+        "name": "Whispering Orb",
+        "descr": "A glass orb that murmurs half-heard words when magic stirs nearby."
+      }
+    ],
+    "domainCards": [
+      {
+        "id": "00a1d5cdf39c",
+        "name": "Rain of Blades",
+        "reference": "/domain-card/rain-of-blades/srd-2-0",
+        "level": 1,
+        "recall": 1,
+        "type": "spell",
+        "domain": "midnight",
+        "descr": "**Spend a Hope** to make a **Spellcast Roll** and conjure throwing blades that strike out at all targets within Very Close range. Targets you succeed against take **d8+2** magic damage using your Proficiency.\n\nIf a target you hit is _Vulnerable_, they take an extra **1d8** damage.",
+        "vault": false
+      },
+      {
+        "id": "b7230a9d522f",
+        "name": "Unleash Chaos",
+        "reference": "/domain-card/unleash-chaos/srd-2-0",
+        "level": 1,
+        "recall": 1,
+        "type": "spell",
+        "domain": "arcana",
+        "descr": "At the beginning of a session, place a number of tokens equal to your Spellcast trait on this card.\n\nMake a **Spellcast Roll** against a target within Far range and spend any number of tokens to channel raw energy from within yourself to unleash against them. On a success, roll a number of **d10s** equal to the tokens you spent and deal that much magic damage to the target. **Mark a Stress** to replenish this card with tokens (up to your Spellcast trait).\n\nAt the end of each session, clear all unspent tokens.",
+        "vault": false
+      }
+    ],
+    "appearance": {
+      "clothes": "Layered scholar's robes in deep blue",
+      "eyes": "Silver, flecked like starlight",
+      "body": "Tall and willowy",
+      "skin": "Pale, with faint celestial freckles",
+      "attitude": "Composed, until the magic slips its leash"
+    },
+    "background": "Isolde's power woke early and violently: as a child she set the archive of her academy alight with a single sneeze of wild magic. The scholars who raised her taught her patience and composure, and she now serves as an advisor and spellcaster at court. She is the one who gathered this group, and she feels responsible for every one of them.",
+    "connections": "- Why do you trust me so deeply?\n\n- What did I do that makes you cautious around me?\n\n- Why do we keep our shared past a secret?\n\n"
+  },
+  "sources": [
+    {
+      "name": "srd-2-0"
+    }
+  ]
+}

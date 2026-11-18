@@ -10,7 +10,7 @@ Each entity lives in its own file, so changes are easy to review. The build comb
 
 | Path | Contents |
 | --- | --- |
-| `adversaries/`, `ancestries/`, `armor/`, `beastforms/`, `classes/`, `communities/`, `consumables/`, `domain-cards/`, `environments/`, `items/`, `rules/`, `subclasses/`, `tables/`, `transformations/`, `weapons/` | One JSON file per entity |
+| `adversaries/`, `ancestries/`, `armor/`, `beastforms/`, `characters/`, `classes/`, `communities/`, `consumables/`, `domain-cards/`, `environments/`, `items/`, `rules/`, `subclasses/`, `tables/`, `transformations/`, `weapons/` | One JSON file per entity |
 | `pages/` | Rules pages as Markdown with a YAML front matter header |
 | `module.json` | Module metadata, packed into the archive |
 | `manifest.json` | Release manifest: module id, version and download URL |
